@@ -33,8 +33,7 @@ jobs:
         run: npm ci
 
       - name: Sync with latest main
-        run: |
-          git pull --rebase origin main
+        run: git pull --rebase origin main
 
       - name: Fetch latest news
         run: npm run fetch-news
