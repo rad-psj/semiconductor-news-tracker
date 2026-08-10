@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T04:17:05.921Z",
+  "updatedAt": "2026-08-10T05:45:38.369Z",
   "regions": [
     {
       "id": "KR",
@@ -113,16 +113,340 @@
   ],
   "items": [
     {
-      "id": "KR-sk-hynix-https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkl6NmhaNzNuOElfMGx5eUZ1SW5fRXdLbUxqbGdOdTFuX1l6cy1KRVRxZE0zdFNIOUpQZHk2T1Jvcm93Y2NCT0VGcnZMWjg4S3R6MU5PM0k3OFozc1hndmw1MVo4NWE5cW1tMWkwejRCX1JBRXlHSXNLMjRLQTFOU3dwQi01cGtK0gGcAUFVX3lxTE9fcWhvWWszTnFBakI1c1NXaWtLeW1qbmZ2QkRJc0VMZXlBaVpBNTA3VUNLVmxtSjB6ZTBGdkJqM3lmZVhMM2E3RF9XMFRTQ0tXbXZXRXRzblkyaEd0eU5Ublo4WFNGb3ZIZjdaNHBhbTdQbmZORnhKaXJhT3NTYks0SEh1cFZmNDQtc1FnS2pyTFQyakRyNU4xZVNqTw?oc=5",
+      "id": "KR-ai-https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zX2lXQ2x3azdSbmg4aGRNV2daM1lZT3FpMXpVV3JGTjhTeDd0MkJMWEFSVHdRTVlRdjNPcldsczJWRTBGLWpDajU2VjJSdw?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "ai",
+      "keywordLabel": "인공지능",
+      "query": "인공지능",
+      "title": "배충식 KAIST 총장 취임...“기본기 강한 AI 전사 키울 것” - 매일경제",
+      "source": "매일경제",
+      "publishedAt": "Mon, 10 Aug 2026 05:31:56 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zX2lXQ2x3azdSbmg4aGRNV2daM1lZT3FpMXpVV3JGTjhTeDd0MkJMWEFSVHdRTVlRdjNPcldsczJWRTBGLWpDajU2VjJSdw?oc=5"
+    },
+    {
+      "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXVVNyVjZtUjRMSlg2YVV3cmNNdlhzdkdtRG1LYl83VFU2UTI2SUVQY0NvazZiVlpwZ3NlUFduRjNkSV95aVloRVdMRjZJVksxSEpaTUpwUHJsWWw5?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "semiconductor",
+      "keywordLabel": "반도체",
+      "query": "반도체",
+      "title": "기후장관 \"광주 하수 걸러 반도체 냉각 용수로…원전 추가 필요성\" - news1.kr",
+      "source": "news1.kr",
+      "publishedAt": "Mon, 10 Aug 2026 05:30:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXVVNyVjZtUjRMSlg2YVV3cmNNdlhzdkdtRG1LYl83VFU2UTI2SUVQY0NvazZiVlpwZ3NlUFduRjNkSV95aVloRVdMRjZJVksxSEpaTUpwUHJsWWw5?oc=5"
+    },
+    {
+      "id": "US-semiconductor-https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUC1LTzhobFc0MlBKa3RCZkY0VEVtMDJjQmZvMXdzRDlmMm5XcGZRZmFhTUxwLXBwMTF6S1Y1UXhGa0xTMUxwM0R2cEZSNHNqdjFURS1pWlZueVJqa05iZFJrZ2prYlA3N2x0V29ycnpIOVFHYmVrY2dkTDFFSDdYR2FvWElkQ3g1QnJLS0N1ZUYzUWZuMVlwb3NDbTIzSkRjOTNXcHBJalhzM3ZSdGh2czZhZ2U4Q1ZITi1EQTBsTWhGNDhNQ1QtMmdlQkpxYXV1SV8xLTJWSnZRWTl0TTZnejUxNFVNLURMZGc?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "semiconductor",
+      "keywordLabel": "Semiconductor",
+      "query": "semiconductor",
+      "title": "Beyond Chips: Washington Expands Semiconductor Security to Polysilicon - semivision",
+      "source": "semivision",
+      "publishedAt": "Mon, 10 Aug 2026 05:28:29 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUC1LTzhobFc0MlBKa3RCZkY0VEVtMDJjQmZvMXdzRDlmMm5XcGZRZmFhTUxwLXBwMTF6S1Y1UXhGa0xTMUxwM0R2cEZSNHNqdjFURS1pWlZueVJqa05iZFJrZ2prYlA3N2x0V29ycnpIOVFHYmVrY2dkTDFFSDdYR2FvWElkQ3g1QnJLS0N1ZUYzUWZuMVlwb3NDbTIzSkRjOTNXcHBJalhzM3ZSdGh2czZhZ2U4Q1ZITi1EQTBsTWhGNDhNQ1QtMmdlQkpxYXV1SV8xLTJWSnZRWTl0TTZnejUxNFVNLURMZGc?oc=5"
+    },
+    {
+      "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMiakFVX3lxTE4ya0xXT05LU21JbG1ULVQ1UzdyN2RuOXhxQUotYzZkcEdQN2xpYnNlQVpLamxXek1ZX0ZhRTliWDNTV3BYMWFxQy11T3RhM1VxRjl3U3oyaTdtVHU4QXpMc3U5XzY2cms5NmfSAW9BVV95cUxPU2k5alV6WmN5NVdJYUxnRzZWSWxSaUJDSGdPbUVHSEh2cXBYUURVRldVZzVRaWdfLVk2MUkzUUFJOTVLZXBKVmtQTnpZcG80N1ZKeUtPdDFUYzIxS1FpUmlLM3Y0bGYtNW1CQTJnU0U?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "semiconductor",
+      "keywordLabel": "반도체",
+      "query": "반도체",
+      "title": "100m 높이도 작업…반도체·풍력 현장 '대형 고소작업차' 뜬다 - 머니투데이 - 머니투데이",
+      "source": "머니투데이",
+      "publishedAt": "Mon, 10 Aug 2026 05:27:13 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ya0xXT05LU21JbG1ULVQ1UzdyN2RuOXhxQUotYzZkcEdQN2xpYnNlQVpLamxXek1ZX0ZhRTliWDNTV3BYMWFxQy11T3RhM1VxRjl3U3oyaTdtVHU4QXpMc3U5XzY2cms5NmfSAW9BVV95cUxPU2k5alV6WmN5NVdJYUxnRzZWSWxSaUJDSGdPbUVHSEh2cXBYUURVRldVZzVRaWdfLVk2MUkzUUFJOTVLZXBKVmtQTnpZcG80N1ZKeUtPdDFUYzIxS1FpUmlLM3Y0bGYtNW1CQTJnU0U?oc=5"
+    },
+    {
+      "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lOE9oNEZORHNqU3hXSHVfZFlLYlY1QjFtYU1jY2R2bnk2c2hMOFAxTlBueXFCX2s2Tlc0OGxmWXZVRFZNREJPRTdmZmVUbjlSb0tBQWVQTlFjQQ?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "semiconductor",
+      "keywordLabel": "반도체",
+      "query": "반도체",
+      "title": "반도체특별법 가동⋯ ‘주52시간 족쇄’ K-반도체 시험대 - 브릿지경제",
+      "source": "브릿지경제",
+      "publishedAt": "Mon, 10 Aug 2026 05:26:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lOE9oNEZORHNqU3hXSHVfZFlLYlY1QjFtYU1jY2R2bnk2c2hMOFAxTlBueXFCX2s2Tlc0OGxmWXZVRFZNREJPRTdmZmVUbjlSb0tBQWVQTlFjQQ?oc=5"
+    },
+    {
+      "id": "KR-sk-hynix-https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uVjAwREFybThZc0dZa21LNFktMVFaYVhxZFo4b2xPVGVJMVhJT0ctOTNSZEZmTzloVnlmZERZOFFYN3d2cEtYZkM3OHBoR0k?oc=5",
       "region": "KR",
       "regionLabel": "한국",
       "keywordId": "sk-hynix",
       "keywordLabel": "SK하이닉스",
       "query": "SK하이닉스",
-      "title": "KB “삼전 주주환원 10배 예상”...삼전·닉스 주주환원이 6000 코스피 깨울까 - 조선비즈 - Chosunbiz",
-      "source": "Chosunbiz",
-      "publishedAt": "Mon, 10 Aug 2026 04:06:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkl6NmhaNzNuOElfMGx5eUZ1SW5fRXdLbUxqbGdOdTFuX1l6cy1KRVRxZE0zdFNIOUpQZHk2T1Jvcm93Y2NCT0VGcnZMWjg4S3R6MU5PM0k3OFozc1hndmw1MVo4NWE5cW1tMWkwejRCX1JBRXlHSXNLMjRLQTFOU3dwQi01cGtK0gGcAUFVX3lxTE9fcWhvWWszTnFBakI1c1NXaWtLeW1qbmZ2QkRJc0VMZXlBaVpBNTA3VUNLVmxtSjB6ZTBGdkJqM3lmZVhMM2E3RF9XMFRTQ0tXbXZXRXRzblkyaEd0eU5Ublo4WFNGb3ZIZjdaNHBhbTdQbmZORnhKaXJhT3NTYks0SEh1cFZmNDQtc1FnS2pyTFQyakRyNU4xZVNqTw?oc=5"
+      "title": "[오후장 체크포인트] 시장 우려 달랜 SK하이닉스, 이제 관건은? - v.daum.net",
+      "source": "v.daum.net",
+      "publishedAt": "Mon, 10 Aug 2026 05:25:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uVjAwREFybThZc0dZa21LNFktMVFaYVhxZFo4b2xPVGVJMVhJT0ctOTNSZEZmTzloVnlmZERZOFFYN3d2cEtYZkM3OHBoR0k?oc=5"
+    },
+    {
+      "id": "KR-ai-https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtUXA3dWFQdjJLOFM4MDc0RmFlQVd1Z080OG9jeFJiWVlfd19nYUk0dEN1THA0V1VXSWtCMGstVXJOLTgtYWwzTEJmWXpkQQ?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "ai",
+      "keywordLabel": "인공지능",
+      "query": "인공지능",
+      "title": "지니언스 “北 김수키, 로컬 AI 구축해 사이버 공격 자동화 시도” - 전자신문",
+      "source": "전자신문",
+      "publishedAt": "Mon, 10 Aug 2026 05:23:37 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtUXA3dWFQdjJLOFM4MDc0RmFlQVd1Z080OG9jeFJiWVlfd19nYUk0dEN1THA0V1VXSWtCMGstVXJOLTgtYWwzTEJmWXpkQQ?oc=5"
+    },
+    {
+      "id": "KR-samsung-https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zRUoyaEZJNjgyLXZ2WWFwUDdVVkhNZHlhWS1TdDBOeC1sLW5yTmcyUlJYOVRZT2J0NGJLM2ZSamRnanU5QWpxZjRtWXRzM28?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "samsung",
+      "keywordLabel": "삼성전자",
+      "query": "삼성전자",
+      "title": "“세금 내려면 주식 파는 수 밖에”...삼성전자 임원 자사주 매도 급증 왜? - v.daum.net",
+      "source": "v.daum.net",
+      "publishedAt": "Mon, 10 Aug 2026 05:21:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zRUoyaEZJNjgyLXZ2WWFwUDdVVkhNZHlhWS1TdDBOeC1sLW5yTmcyUlJYOVRZT2J0NGJLM2ZSamRnanU5QWpxZjRtWXRzM28?oc=5"
+    },
+    {
+      "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoZnozS1FMLW5KY3ExUFMxa0RhZTNBdG5QbEVwbGUtN0RVaXZNRDRaOFRhaDMzVGZNZmZuUm5rb25TeWNZWXQzOVFQZkxFS2MxZjhDYXVJZ29lT2dfM1NnV9IBeEFVX3lxTE1YY2xTY00yc0thQU1rckQ4T2kyX0w3RDNIaGwzdVdDalNxN21LT0ZoX0JWUVM3MzBkZWtsZlFOVHExVnY0LWZhbDc3OEZLekw3WF9XWkhFMHg5ZVpNZkF2UkpRNlJLTTNzZWtXa3RzTU9GRGV1TFV5eA?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "semiconductor",
+      "keywordLabel": "반도체",
+      "query": "반도체",
+      "title": "전북 간 정청래 \"AI·반도체 속도전…입법과제 해결할 것\" - 뉴시스",
+      "source": "뉴시스",
+      "publishedAt": "Mon, 10 Aug 2026 05:19:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoZnozS1FMLW5KY3ExUFMxa0RhZTNBdG5QbEVwbGUtN0RVaXZNRDRaOFRhaDMzVGZNZmZuUm5rb25TeWNZWXQzOVFQZkxFS2MxZjhDYXVJZ29lT2dfM1NnV9IBeEFVX3lxTE1YY2xTY00yc0thQU1rckQ4T2kyX0w3RDNIaGwzdVdDalNxN21LT0ZoX0JWUVM3MzBkZWtsZlFOVHExVnY0LWZhbDc3OEZLekw3WF9XWkhFMHg5ZVpNZkF2UkpRNlJLTTNzZWtXa3RzTU9GRGV1TFV5eA?oc=5"
+    },
+    {
+      "id": "KR-ai-https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBZnRXZlFkQlIyckUwQVpMaHUtTEtPbFFjQXZxNTFxSnlnVU9zT2lwNi12TlZMTjdsNFdXcENkckNxdkNBcWFWMUQ3R3FBQQ?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "ai",
+      "keywordLabel": "인공지능",
+      "query": "인공지능",
+      "title": "SK쉴더스 EQST, 데프콘 34 AI CTF '세계 5위' - 전자신문",
+      "source": "전자신문",
+      "publishedAt": "Mon, 10 Aug 2026 05:13:07 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBZnRXZlFkQlIyckUwQVpMaHUtTEtPbFFjQXZxNTFxSnlnVU9zT2lwNi12TlZMTjdsNFdXcENkckNxdkNBcWFWMUQ3R3FBQQ?oc=5"
+    },
+    {
+      "id": "KR-samsung-https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKTFVYcENtTVk1cGZ2ci1pTUExRTVlZVkzZUc1NTE0Y0ZGN2xNZ1dsdldvaEM0aHpqaUhIaW1OWG1NOFR1cjU5RUhDYUFSUTVoQU9SdHJB?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "samsung",
+      "keywordLabel": "삼성전자",
+      "query": "삼성전자",
+      "title": "\"삼성전자, 올해 BOE의 TV LCD 구매량 2배로 늘린다\" - 지디넷코리아",
+      "source": "지디넷코리아",
+      "publishedAt": "Mon, 10 Aug 2026 05:12:10 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKTFVYcENtTVk1cGZ2ci1pTUExRTVlZVkzZUc1NTE0Y0ZGN2xNZ1dsdldvaEM0aHpqaUhIaW1OWG1NOFR1cjU5RUhDYUFSUTVoQU9SdHJB?oc=5"
+    },
+    {
+      "id": "KR-samsung-https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDaFpQdGlPTmdTSnhSeUJmYW5wQ3BpUnVrR0J3ZUZTZ2hfNy1hdDZQcWtNcnNJUU1TZW8wSnc4eUtudEk3TzJ6MGRqNy1mNzd6cWZxdXZWQkpudw?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "samsung",
+      "keywordLabel": "삼성전자",
+      "query": "삼성전자",
+      "title": "KB증권 “삼성전자, 신규 주주환원 최대 200조원 전망…실적 개선에 비중 확대” - 브릿지경제",
+      "source": "브릿지경제",
+      "publishedAt": "Mon, 10 Aug 2026 05:12:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDaFpQdGlPTmdTSnhSeUJmYW5wQ3BpUnVrR0J3ZUZTZ2hfNy1hdDZQcWtNcnNJUU1TZW8wSnc4eUtudEk3TzJ6MGRqNy1mNzd6cWZxdXZWQkpudw?oc=5"
+    },
+    {
+      "id": "KR-ai-https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jd2tsZ1AwT296ZnBOWng5Vy1Xc3IzbEJLUC1xY0RXRFY5U0tvb0pINVZJaDctNGNkVDZERUNkZUZjQ0tPSDhpUHNXRTE0U3lGNGfSAVNBVV95cUxPVUpxOXVobjZqYTdrMThJX3phbmpIRDdQcVRicHNTb0lVdHZNOGg1SUdsRi10RjF4UU1GRXlKRnBoalM1R1J4WExmYzB5YnpBNHFBUQ?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "ai",
+      "keywordLabel": "인공지능",
+      "query": "인공지능",
+      "title": "AI 업은 북한 해커, 더 치밀해졌다…로컬 LLM 환경까지 구축 - 서울경제",
+      "source": "서울경제",
+      "publishedAt": "Mon, 10 Aug 2026 05:10:14 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jd2tsZ1AwT296ZnBOWng5Vy1Xc3IzbEJLUC1xY0RXRFY5U0tvb0pINVZJaDctNGNkVDZERUNkZUZjQ0tPSDhpUHNXRTE0U3lGNGfSAVNBVV95cUxPVUpxOXVobjZqYTdrMThJX3phbmpIRDdQcVRicHNTb0lVdHZNOGg1SUdsRi10RjF4UU1GRXlKRnBoalM1R1J4WExmYzB5YnpBNHFBUQ?oc=5"
+    },
+    {
+      "id": "US-semiconductor-https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUtfUUN6M2pQVE4yUGRxSEJDUVpBQThvVlpaZ2lCVVNaeXlCNVZTaVlZQWU1VUVFNTVleVhYbUpsU0VaOThPMWZCRXpFR1ZkY001MlBVOTJ3X0NKYmpwY2ZteFVodWlyRWtWZmtKMTBzUXNFeDlPRTFPaDlaYUpIa2tNakRYd2Vqa21BM29PRktFeTFSd2NXdU5ma3lEWE5KZldySlM0RlFfbk55bUZ0emxjVVZ6UTN1ZFJtbkRjYlc?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "semiconductor",
+      "keywordLabel": "Semiconductor",
+      "query": "semiconductor",
+      "title": "Why is Taiwan Semiconductor Manufacturing stock gaining today? - Investing.com",
+      "source": "Investing.com",
+      "publishedAt": "Mon, 10 Aug 2026 05:04:22 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUtfUUN6M2pQVE4yUGRxSEJDUVpBQThvVlpaZ2lCVVNaeXlCNVZTaVlZQWU1VUVFNTVleVhYbUpsU0VaOThPMWZCRXpFR1ZkY001MlBVOTJ3X0NKYmpwY2ZteFVodWlyRWtWZmtKMTBzUXNFeDlPRTFPaDlaYUpIa2tNakRYd2Vqa21BM29PRktFeTFSd2NXdU5ma3lEWE5KZldySlM0RlFfbk55bUZ0emxjVVZ6UTN1ZFJtbkRjYlc?oc=5"
+    },
+    {
+      "id": "US-nvidia-https://news.google.com/rss/articles/CBMie0FVX3lxTE12MEN5Uk9HQnZRdVFHOVhhMUxzajk3Wi1fVGZUTTE3ZzVtLVhnSm5IaXBEZkRwOFMxRzdPLXJxbld5aEFrelUwZTlTaFFBSmFYUlI1S205ekI2TTI0WUJmYVpaVGItQkFuNXdMS3Z2OWpXdE1NMEd3Q0t0QQ?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "nvidia",
+      "keywordLabel": "NVIDIA",
+      "query": "NVIDIA",
+      "title": "Nvidia, Eli Lilly, and Disney Show It’s Time to Back the Top Dogs - Barron's",
+      "source": "Barron's",
+      "publishedAt": "Mon, 10 Aug 2026 05:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12MEN5Uk9HQnZRdVFHOVhhMUxzajk3Wi1fVGZUTTE3ZzVtLVhnSm5IaXBEZkRwOFMxRzdPLXJxbld5aEFrelUwZTlTaFFBSmFYUlI1S205ekI2TTI0WUJmYVpaVGItQkFuNXdMS3Z2OWpXdE1NMEd3Q0t0QQ?oc=5"
+    },
+    {
+      "id": "KR-ai-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JZ2dCVHdfMGNSNm5hOU9ReG11R1AwS1JtUTdpUFJwLVpULUQxR1lKeWJMd093SmJZdXNUXzhMeHFGRU9RSjZ6djRqZ2dqNDZVeWMtR1dZSlFNZ29LMHVUcnhBZEp3aWPSAWxBVV95cUxQV2UzeGpva0JXTm5IcWRoUjJjNEsyb0V3UC1yd3ZxS05PZU5aS2pVVkl3VmV6MEVTOXQ2c243bE5MR2N1WWF6WHN2U3J6ejVOalozOEt0SS01RmNBN1lEZ2M1eFhZWjh0Y2pPQWg?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "ai",
+      "keywordLabel": "인공지능",
+      "query": "인공지능",
+      "title": "'배충식 호' KAIST, AI 대전환 예고…全 전공 AI 결합 - 머니투데이 - 머니투데이",
+      "source": "머니투데이",
+      "publishedAt": "Mon, 10 Aug 2026 04:59:37 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JZ2dCVHdfMGNSNm5hOU9ReG11R1AwS1JtUTdpUFJwLVpULUQxR1lKeWJMd093SmJZdXNUXzhMeHFGRU9RSjZ6djRqZ2dqNDZVeWMtR1dZSlFNZ29LMHVUcnhBZEp3aWPSAWxBVV95cUxQV2UzeGpva0JXTm5IcWRoUjJjNEsyb0V3UC1yd3ZxS05PZU5aS2pVVkl3VmV6MEVTOXQ2c243bE5MR2N1WWF6WHN2U3J6ejVOalozOEt0SS01RmNBN1lEZ2M1eFhZWjh0Y2pPQWg?oc=5"
+    },
+    {
+      "id": "KR-sk-hynix-https://news.google.com/rss/articles/CBMiUkFVX3lxTE84WVI2SzR3U1E2TGdOelFmaTR2Qkg2bGF1WE1yTVFWbF9zNUhfN0djVzNtLTZLTmNxbkhkZm5iWlduSHZ6RkJWTWN3OEJmOGREWVHSAVNBVV95cUxNMDdMdGY4RzRRS0V1SjBCQlZqNHJjalJqUnVHQVBSZUhlOGJPUGZ3WmRzeHFGZjFleXd5RFEyTmxad0tnYy1pRXNoX0NfVlh0cEFiRQ?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "sk-hynix",
+      "keywordLabel": "SK하이닉스",
+      "query": "SK하이닉스",
+      "title": "SK하이닉스 투자 확정 공시에 국내 장비株 10%대 급등 [줍줍리포트] - 서울경제",
+      "source": "서울경제",
+      "publishedAt": "Mon, 10 Aug 2026 04:58:48 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84WVI2SzR3U1E2TGdOelFmaTR2Qkg2bGF1WE1yTVFWbF9zNUhfN0djVzNtLTZLTmNxbkhkZm5iWlduSHZ6RkJWTWN3OEJmOGREWVHSAVNBVV95cUxNMDdMdGY4RzRRS0V1SjBCQlZqNHJjalJqUnVHQVBSZUhlOGJPUGZ3WmRzeHFGZjFleXd5RFEyTmxad0tnYy1pRXNoX0NfVlh0cEFiRQ?oc=5"
+    },
+    {
+      "id": "KR-ai-https://news.google.com/rss/articles/CBMiggFBVV95cUxNZS1Td1Q0VXNSVzA3Q1d4VVVkMnBCeVl6MTZpb3M3azdzdmRxUGxaWWh5WW5Ia0dITUNTLW1yQnZmeUZnMFkwZWlfUmJQWmhlWjBJZ1l5ejJZU1lJVnd6b3RrcXpQaG8wV09aLU9naFpheHAyNWVRbDhCZGx2MUd3VC13?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "ai",
+      "keywordLabel": "인공지능",
+      "query": "인공지능",
+      "title": "미-이란 전쟁 학습효과?…일, 자위대에 자국산 ‘AI 지휘통제체계' 추진 - 한겨레",
+      "source": "한겨레",
+      "publishedAt": "Mon, 10 Aug 2026 04:53:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZS1Td1Q0VXNSVzA3Q1d4VVVkMnBCeVl6MTZpb3M3azdzdmRxUGxaWWh5WW5Ia0dITUNTLW1yQnZmeUZnMFkwZWlfUmJQWmhlWjBJZ1l5ejJZU1lJVnd6b3RrcXpQaG8wV09aLU9naFpheHAyNWVRbDhCZGx2MUd3VC13?oc=5"
+    },
+    {
+      "id": "KR-ai-https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FVDVvUUY1MWQ2aEpsVXV5TGJrMkk5VVAtT2pHQXF3R2JhOWFMYTJ6bUZnc0FmNFBuajNRRU9VbmxaQk54U01yVDlUaW5qRFU?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "ai",
+      "keywordLabel": "인공지능",
+      "query": "인공지능",
+      "title": "“KAIST를 AI 네이티브 캠퍼스로” 배충식 총장 취임식 - v.daum.net",
+      "source": "v.daum.net",
+      "publishedAt": "Mon, 10 Aug 2026 04:51:07 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FVDVvUUY1MWQ2aEpsVXV5TGJrMkk5VVAtT2pHQXF3R2JhOWFMYTJ6bUZnc0FmNFBuajNRRU9VbmxaQk54U01yVDlUaW5qRFU?oc=5"
+    },
+    {
+      "id": "US-intel-https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2eFFWcnE0RFA2RWdzbWJxcFlZaHgzSTU5M0xLUjdWQnBlbkowR3p3OTNvZm1mcVk0Q2c0RkduZVRVelMyVlNxUjRSRDQ2eXZCMjJubkFJcWpEYVlRa2t4X2R1TVdyMTg?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "intel",
+      "keywordLabel": "Intel",
+      "query": "Intel",
+      "title": "How Intel Could Challenge TSMC: Why MediaTek Is Making a US$5 Billion Bet｜Industry｜2026-08-10｜web only - 天下雜誌",
+      "source": "天下雜誌",
+      "publishedAt": "Mon, 10 Aug 2026 04:50:15 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2eFFWcnE0RFA2RWdzbWJxcFlZaHgzSTU5M0xLUjdWQnBlbkowR3p3OTNvZm1mcVk0Q2c0RkduZVRVelMyVlNxUjRSRDQ2eXZCMjJubkFJcWpEYVlRa2t4X2R1TVdyMTg?oc=5"
+    },
+    {
+      "id": "KR-sk-hynix-https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIaF9KTWFDZ0hXX0N4ZG13XzExTXY4TGJtWFdKLXV4SklhUXNaeFJUVDVvNjN6c1NjSUNLR2cwMTZHeHJld2RNRGV5NS01N3RhTkxCYnFn?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "sk-hynix",
+      "keywordLabel": "SK하이닉스",
+      "query": "SK하이닉스",
+      "title": "추미애 경기지사, 삼성·SK하이닉스 정조준…\"반도체 공정수 방류 최소화하라\" - 뉴스21 통신",
+      "source": "뉴스21 통신",
+      "publishedAt": "Mon, 10 Aug 2026 04:49:25 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIaF9KTWFDZ0hXX0N4ZG13XzExTXY4TGJtWFdKLXV4SklhUXNaeFJUVDVvNjN6c1NjSUNLR2cwMTZHeHJld2RNRGV5NS01N3RhTkxCYnFn?oc=5"
+    },
+    {
+      "id": "US-amd-https://news.google.com/rss/articles/CBMidkFVX3lxTE1vVEF6ZEN3b1dwbnhfem5uZGdpZjJEaDgyQXU5R0JGOWRZX1kyejVsV2V1Ui1KWGc1SWpkZUNDM0kwdG5UUE55U09XcFdORDZYWGZrYlNFNUNpUUJ3U3MtUkJrSGJzam9RTEJaeEZ6OUxsNkozelHSAXtBVV95cUxNdUpSNmNjeTQ4VGZkVGlHbXJDcmpFYkkyb3BFaDJPcUE1bUx4OUI5YUY1WlY4SE8tUS1xT1V0cWYtdzliOTF2SmMzaGhjMG9ncFJYUUlhZk1CcXB6UWZJbFJ6Z1dUN3BNWUp5OEVjcDFXWC1DbDlYcXVQVjA?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "amd",
+      "keywordLabel": "AMD",
+      "query": "AMD",
+      "title": "AMD’s NPU-Free Ryzen 7 449 & Ryzen 5 439 Launched As Gorgon APUs Chase Cheaper Laptops Over AI Branding - wccftech.com",
+      "source": "wccftech.com",
+      "publishedAt": "Mon, 10 Aug 2026 04:40:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vVEF6ZEN3b1dwbnhfem5uZGdpZjJEaDgyQXU5R0JGOWRZX1kyejVsV2V1Ui1KWGc1SWpkZUNDM0kwdG5UUE55U09XcFdORDZYWGZrYlNFNUNpUUJ3U3MtUkJrSGJzam9RTEJaeEZ6OUxsNkozelHSAXtBVV95cUxNdUpSNmNjeTQ4VGZkVGlHbXJDcmpFYkkyb3BFaDJPcUE1bUx4OUI5YUY1WlY4SE8tUS1xT1V0cWYtdzliOTF2SmMzaGhjMG9ncFJYUUlhZk1CcXB6UWZJbFJ6Z1dUN3BNWUp5OEVjcDFXWC1DbDlYcXVQVjA?oc=5"
+    },
+    {
+      "id": "US-intel-https://news.google.com/rss/articles/CBMiowFBVV95cUxPaUh5RS1MYm9ja3ZHZkdobnI4SkhyazFiS0lxQUFVbUVaMkp2cGRieWlicW1hTl9uVERSWndDSFV1VUhPVmxvSjJvSVFLeXdUeVJiUzkwV0s4RUxZY19KTFZHcC11TTJRMXoxLVBCZW1ham5FTms3NzF2dnN3OV9xcHhrNnNGNjgzOVdFLWIyVkNaYUQydGI4dXVhcjBzSU9yVUFB?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "intel",
+      "keywordLabel": "Intel",
+      "query": "Intel",
+      "title": "Why Micron is Decisively Better Positioned Than Intel Now - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "publishedAt": "Mon, 10 Aug 2026 04:32:13 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaUh5RS1MYm9ja3ZHZkdobnI4SkhyazFiS0lxQUFVbUVaMkp2cGRieWlicW1hTl9uVERSWndDSFV1VUhPVmxvSjJvSVFLeXdUeVJiUzkwV0s4RUxZY19KTFZHcC11TTJRMXoxLVBCZW1ham5FTms3NzF2dnN3OV9xcHhrNnNGNjgzOVdFLWIyVkNaYUQydGI4dXVhcjBzSU9yVUFB?oc=5"
+    },
+    {
+      "id": "KR-sk-hynix-https://news.google.com/rss/articles/CBMiT0FVX3lxTE90dFBNRGpST0JWdlU5N2pnd3owb2hPc3Rackt3UXowaV9Lam4yRUpzTWN2TDFlSEtoSXQwVy1VbURNUW9MUVRhQnRxUWN2dTg?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "sk-hynix",
+      "keywordLabel": "SK하이닉스",
+      "query": "SK하이닉스",
+      "title": "거래소, SK하이닉스 '충칭공장 지분매각설' 조회공시 요구 - v.daum.net",
+      "source": "v.daum.net",
+      "publishedAt": "Mon, 10 Aug 2026 04:30:39 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90dFBNRGpST0JWdlU5N2pnd3owb2hPc3Rackt3UXowaV9Lam4yRUpzTWN2TDFlSEtoSXQwVy1VbURNUW9MUVRhQnRxUWN2dTg?oc=5"
+    },
+    {
+      "id": "US-amd-https://news.google.com/rss/articles/CBMigwFBVV95cUxORThjWWxGMTJzZENfSTZhd3paMFc2cE5VcjVwZG92YW1vUVMycTF0OUNqMld4ek53X3N1RXgyWk5ZdGw2RmoxTHRENm9TMGxqMFpWZVRZamtwN0liNXBiRjJpQW5iTTZENWRnR0VxcmRkQ0VnQ2JLMzlDT0lXM2tMOUV0MA?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "amd",
+      "keywordLabel": "AMD",
+      "query": "AMD",
+      "title": "AMD: CapEx Is Fueling The Next Leg (NASDAQ:AMD) - Seeking Alpha",
+      "source": "Seeking Alpha",
+      "publishedAt": "Mon, 10 Aug 2026 04:27:36 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORThjWWxGMTJzZENfSTZhd3paMFc2cE5VcjVwZG92YW1vUVMycTF0OUNqMld4ek53X3N1RXgyWk5ZdGw2RmoxTHRENm9TMGxqMFpWZVRZamtwN0liNXBiRjJpQW5iTTZENWRnR0VxcmRkQ0VnQ2JLMzlDT0lXM2tMOUV0MA?oc=5"
+    },
+    {
+      "id": "US-tsmc-https://news.google.com/rss/articles/CBMisAFBVV95cUxPby0tUU9EZVdvVG1PWGtES1BFcWpON1ZYcFU4OUxVNUtwU1RwTEZ4b2dwSEl1TzBMb1gwN1c2VnYxTnduRkl6QkNYTmNTTU9SbFIxdzFDTkE2ZWFPQS1CVFMzcWo3bHV2eW5NUEZJeW1OWWRxc293VVZrUU9lLV9ZR2FDWmN0SXp4cko2eVFETV9GMks4ZkJjdDkzVHpSdnFyN1g1R0hWMUZZcEdtMF94WA?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "tsmc",
+      "keywordLabel": "TSMC",
+      "query": "TSMC",
+      "title": "Sony, TSMC to Invest $6.4 Billion in Joint Chip Plant in Japan - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "publishedAt": "Mon, 10 Aug 2026 04:20:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPby0tUU9EZVdvVG1PWGtES1BFcWpON1ZYcFU4OUxVNUtwU1RwTEZ4b2dwSEl1TzBMb1gwN1c2VnYxTnduRkl6QkNYTmNTTU9SbFIxdzFDTkE2ZWFPQS1CVFMzcWo3bHV2eW5NUEZJeW1OWWRxc293VVZrUU9lLV9ZR2FDWmN0SXp4cko2eVFETV9GMks4ZkJjdDkzVHpSdnFyN1g1R0hWMUZZcEdtMF94WA?oc=5"
+    },
+    {
+      "id": "KR-hbm-https://news.google.com/rss/articles/CBMiXEFVX3lxTE85QVlhU3EwRTZvNV9mekdtTWVCVzdTS19zblI4d1FIQkpQRy1hV3RSX0wwVERtWkZwZlN3dXNrel9valIzWVhnMmpHTmp0TW8xaFN2R1MyVjlHT2Fo?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "hbm",
+      "keywordLabel": "HBM",
+      "query": "HBM",
+      "title": "\"HBF 표준 공개로 상용화 속도…HBM 후공정株 수혜 전망\" - 그로쓰리서치 - 뉴스핌",
+      "source": "뉴스핌",
+      "publishedAt": "Mon, 10 Aug 2026 04:18:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85QVlhU3EwRTZvNV9mekdtTWVCVzdTS19zblI4d1FIQkpQRy1hV3RSX0wwVERtWkZwZlN3dXNrel9valIzWVhnMmpHTmp0TW8xaFN2R1MyVjlHT2Fo?oc=5"
+    },
+    {
+      "id": "US-tsmc-https://news.google.com/rss/articles/CBMizAFBVV95cUxOM1RjcjkzSEczdEVjQXlKX3U0VE9EZWdpRWFCSGdWeFJpN1FaVW45TUFWRC05aUVRZU1VcGNUWnRkY3JDcWFLczd5VWo0cXJOQVVTYUtGbm92SkVWMEItaG1HMTlMN2JRdHZEbWkxNHdNb3ZHVkpjd0EtWHF1ZGo5TF9ORVduV2RPUVhrQWdqb2kweW5iZFdWdkNSVmwyclREdnl3cTVmcGRHUEs1OFU3VlRVTTBGaWRPbm5xbXpxZ2VFczZwVUxaY2ZpSmk?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "tsmc",
+      "keywordLabel": "TSMC",
+      "query": "TSMC",
+      "title": "Sony, TSMC plan $6.3 billion JV to make image sensors in Japan, Nikkei reports - Investing.com",
+      "source": "Investing.com",
+      "publishedAt": "Mon, 10 Aug 2026 04:13:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM1RjcjkzSEczdEVjQXlKX3U0VE9EZWdpRWFCSGdWeFJpN1FaVW45TUFWRC05aUVRZU1VcGNUWnRkY3JDcWFLczd5VWo0cXJOQVVTYUtGbm92SkVWMEItaG1HMTlMN2JRdHZEbWkxNHdNb3ZHVkpjd0EtWHF1ZGo5TF9ORVduV2RPUVhrQWdqb2kweW5iZFdWdkNSVmwyclREdnl3cTVmcGRHUEs1OFU3VlRVTTBGaWRPbm5xbXpxZ2VFczZwVUxaY2ZpSmk?oc=5"
     },
     {
       "id": "KR-ai-https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oUU9Zc2tGems5VnBoR0RKdGZzdlRfNU1rN0w0NWUxTWEtbjJwOVdGRExFdGxnSVY0Wk5MWkJZSm1aVGRRQWtZR0pQaWlwcHhqQUo0enJCWmV3QXJ4cmdOS3NR?oc=5",
@@ -149,18 +473,6 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ROW1rbFBJWl9NNTdwbWw4ZUJZaE9xUm5iT3JaNjVIZkQwa1FHX2hGelUwQkpzTjJXaTVPb0FnRTRMOTZrVzhWaXMyUUVUd2FZWVZUZ0NyQzhJd2JLZFl2dGlNZkg3ZDd0UU9RSFVXWHJuVms?oc=5"
     },
     {
-      "id": "US-tsmc-https://news.google.com/rss/articles/CBMizAFBVV95cUxOM1RjcjkzSEczdEVjQXlKX3U0VE9EZWdpRWFCSGdWeFJpN1FaVW45TUFWRC05aUVRZU1VcGNUWnRkY3JDcWFLczd5VWo0cXJOQVVTYUtGbm92SkVWMEItaG1HMTlMN2JRdHZEbWkxNHdNb3ZHVkpjd0EtWHF1ZGo5TF9ORVduV2RPUVhrQWdqb2kweW5iZFdWdkNSVmwyclREdnl3cTVmcGRHUEs1OFU3VlRVTTBGaWRPbm5xbXpxZ2VFczZwVUxaY2ZpSmk?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "tsmc",
-      "keywordLabel": "TSMC",
-      "query": "TSMC",
-      "title": "Sony, TSMC plan $6.3 billion JV to make image sensors in Japan, Nikkei reports - Investing.com",
-      "source": "Investing.com",
-      "publishedAt": "Mon, 10 Aug 2026 03:58:17 GMT",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM1RjcjkzSEczdEVjQXlKX3U0VE9EZWdpRWFCSGdWeFJpN1FaVW45TUFWRC05aUVRZU1VcGNUWnRkY3JDcWFLczd5VWo0cXJOQVVTYUtGbm92SkVWMEItaG1HMTlMN2JRdHZEbWkxNHdNb3ZHVkpjd0EtWHF1ZGo5TF9ORVduV2RPUVhrQWdqb2kweW5iZFdWdkNSVmwyclREdnl3cTVmcGRHUEs1OFU3VlRVTTBGaWRPbm5xbXpxZ2VFczZwVUxaY2ZpSmk?oc=5"
-    },
-    {
       "id": "KR-generative-ai-https://news.google.com/rss/articles/CBMijwFBVV95cUxQSDBrdVFmUEd6VHo5eFVHN0N0cHFVWnY4ZWoxMWR6UXlCS0ZKNlowc0VEdkhacjZyOWc4YkV4UFZYQVpLcG92Mkd6WGVJQi16eFZSU0JuZTFadkhmUDE2bG1vdUxJZkx6TTdEWWRVa19YaGNYVjVyTlR6cVZYVDZCbE9nanB3RWZ6alRqRDFpdw?oc=5",
       "region": "KR",
       "regionLabel": "한국",
@@ -185,100 +497,28 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVN1M3dIN05udm1JS0ZJTzVqbzUwaFRjZWZOQy1vTHplQy1SVi10NVlIRHhQYXpYTUwteUpvNFlzTjgweVdmRnRxTkRxbnRXNE9wdmNjQkpIN1F4TEJZV3FGdWJCLTdrUXlTcExHTXZNNmRRNUxyZDB3M0NlQVhwVkdsR1o?oc=5"
     },
     {
-      "id": "KR-sk-hynix-https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lQkZkN2VqMFRyWXJROVU1ekFHNmVGZG9Uc3BldTFod2E2eWxqVUc0YkZpWGM4Y1NqcDdVUzQ1c2RfTENoeXByMlFTZklOM2lmV1E?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "sk-hynix",
-      "keywordLabel": "SK하이닉스",
-      "query": "SK하이닉스",
-      "title": "추미애 “삼성·SK하이닉스, 반도체 폐수 방류 최소화해야” - 서울경제",
-      "source": "서울경제",
-      "publishedAt": "Mon, 10 Aug 2026 03:33:53 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lQkZkN2VqMFRyWXJROVU1ekFHNmVGZG9Uc3BldTFod2E2eWxqVUc0YkZpWGM4Y1NqcDdVUzQ1c2RfTENoeXByMlFTZklOM2lmV1E?oc=5"
-    },
-    {
-      "id": "KR-ai-https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPTkhkRWpTM3RTY1Q3V2FhZlJXRHc2emgzLXFBNTBwY0V3YklGNG9vSXVPX2JJaVFsZzhKdGhMR3lWLTd1SFZydHRobGsza1k?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "ai",
-      "keywordLabel": "인공지능",
-      "query": "인공지능",
-      "title": "\"인도 청년 2만여 명에 AI 교육\"..삼성, 이노베이션 캠퍼스 프로그램 재개 - v.daum.net",
-      "source": "v.daum.net",
-      "publishedAt": "Mon, 10 Aug 2026 03:32:44 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPTkhkRWpTM3RTY1Q3V2FhZlJXRHc2emgzLXFBNTBwY0V3YklGNG9vSXVPX2JJaVFsZzhKdGhMR3lWLTd1SFZydHRobGsza1k?oc=5"
-    },
-    {
-      "id": "KR-hbm-https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jSWFfdUpYbF9iUzNGU0VaOWNScmpjd08yeUlkSXk0MmIzMjNsMXZCSmlXTWN0MENxQTNMTlR3T1V1aHFudWpaVmFqWEZWRGVVSjQ0VnB1T2Z4Zw?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "hbm",
-      "keywordLabel": "HBM",
-      "query": "HBM",
-      "title": "그로쓰리서치 “AI 추론 메모리 수요 급증…HBF, 차세대 메모리 계층 부상” - 브릿지경제",
-      "source": "브릿지경제",
-      "publishedAt": "Mon, 10 Aug 2026 03:29:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jSWFfdUpYbF9iUzNGU0VaOWNScmpjd08yeUlkSXk0MmIzMjNsMXZCSmlXTWN0MENxQTNMTlR3T1V1aHFudWpaVmFqWEZWRGVVSjQ0VnB1T2Z4Zw?oc=5"
-    },
-    {
-      "id": "US-hbm-https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTUhfeWR4SnNGdE5HM2xna2VHSmtyMkRWaWxsOVFLYkNrN2toUFdNSElWby05S0tXY2o4NkEtaUZsc19pdENONWZ4Z0VOVnBNY0o5N3hScmF1bF96VFFVQXV4MXhQSG9KMUR0UTNkWWwxZlZoVUtISVhFU2lBSWpHaWoxRVlYZXlK?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "hbm",
-      "keywordLabel": "HBM",
-      "query": "HBM",
-      "title": "NVIDIA Tests HBM Cuts Amid Supply, Cost Pressures - 조선일보",
-      "source": "조선일보",
-      "publishedAt": "Mon, 10 Aug 2026 03:20:35 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTUhfeWR4SnNGdE5HM2xna2VHSmtyMkRWaWxsOVFLYkNrN2toUFdNSElWby05S0tXY2o4NkEtaUZsc19pdENONWZ4Z0VOVnBNY0o5N3hScmF1bF96VFFVQXV4MXhQSG9KMUR0UTNkWWwxZlZoVUtISVhFU2lBSWpHaWoxRVlYZXlK?oc=5"
-    },
-    {
-      "id": "KR-generative-ai-https://news.google.com/rss/articles/CBMifEFVX3lxTE1yRE5oWmNSUzh2Y2lFZ0g4dFNjdmx3ZkwwbHlVSDZ6SEZtUEtvNzZVMUtCT1RYMVRPMExxRThuOEZJY0hmUVJQMkI2aEtfTGxMOWd5Snc2cmMzaEZkdEY3VTI4VVR2eVdpZ1hFNXlyMXhpb3Z4dXhRR3NHbnE?oc=5",
+      "id": "KR-generative-ai-https://news.google.com/rss/articles/CBMibkFVX3lxTFAxa0VtaDg3S2dvOEV3RnNyZ2FCWnpHREh3OFd6WmV1NkJEU0tIQm56cGlvczlmTDlFVExnWWVIc2RGdzd0Rk5KbHVIWUd0cE9TeUl6ZVdLUVp0MzFEa1JEX1pad2R3QlFBUnFGaXh3?oc=5",
       "region": "KR",
       "regionLabel": "한국",
       "keywordId": "generative-ai",
       "keywordLabel": "생성형 AI",
       "query": "생성형 AI",
-      "title": "호반문화재단, 생성형 AI 예술 공모전 개최 - 비욘드포스트",
-      "source": "비욘드포스트",
-      "publishedAt": "Mon, 10 Aug 2026 03:16:52 GMT",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yRE5oWmNSUzh2Y2lFZ0g4dFNjdmx3ZkwwbHlVSDZ6SEZtUEtvNzZVMUtCT1RYMVRPMExxRThuOEZJY0hmUVJQMkI2aEtfTGxMOWd5Snc2cmMzaEZkdEY3VTI4VVR2eVdpZ1hFNXlyMXhpb3Z4dXhRR3NHbnE?oc=5"
+      "title": "충북교육청, 중·고생 '생성형 AI K-POP 제작' 여름특강 개설 - gukjenews.com",
+      "source": "gukjenews.com",
+      "publishedAt": "Mon, 10 Aug 2026 03:32:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxa0VtaDg3S2dvOEV3RnNyZ2FCWnpHREh3OFd6WmV1NkJEU0tIQm56cGlvczlmTDlFVExnWWVIc2RGdzd0Rk5KbHVIWUd0cE9TeUl6ZVdLUVp0MzFEa1JEX1pad2R3QlFBUnFGaXh3?oc=5"
     },
     {
-      "id": "KR-ai-https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oZVd2YkxZdzI0MjJucFY1aDI2R2VCU0x4dnB5UC1qTWFGVGUtWUx1T3BwaWd3dW56RFlCbHhRTVFmWTBPSlVnUllzVUFfQQ?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "ai",
-      "keywordLabel": "인공지능",
-      "query": "인공지능",
-      "title": "“AI 활용 캠프 재밌어요”…미래와소프트웨어 꿈찾기 캠프, 호남서 성황리 개최 - 전자신문",
-      "source": "전자신문",
-      "publishedAt": "Mon, 10 Aug 2026 03:16:20 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1oZVd2YkxZdzI0MjJucFY1aDI2R2VCU0x4dnB5UC1qTWFGVGUtWUx1T3BwaWd3dW56RFlCbHhRTVFmWTBPSlVnUllzVUFfQQ?oc=5"
-    },
-    {
-      "id": "US-tsmc-https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ05Sc3NKcGVSR0tIVk85ZVYtdWNXTW9aTmloTkZsd1JBZWNjWUhKRXNWR0YyNXBteVc3MmNPYjk5RC1RcVZ5bk1YR1EwTE93NEFZUEtqcEhtejFCYm5jZWczdkJTU1c2UHR6ZUNWajJDV1FfY3VnM2FuV2wySlBDbHM4ekxiaDA5YjZscktXeTVNX29ESmc5RTZtZjNIVkVXQ0M1M1BnLVViN2E3amNPTFYxaDhtcnJFcUlocW9BMDFRVkREX1d0Zi1xR2w?oc=5",
+      "id": "US-tsmc-https://news.google.com/rss/articles/CBMivAFBVV95cUxNX0Q2VXp6QlQ0VW13LVhHdzI5SkZFZTZHSlhialczaXc3VmRZczBHQTVZYVlYa21jMjJNOGZsSU53V3dwZ0JlaXh0cncxRnZ3NFRzQTVyZzJyenNpWm1TQjMzQmRCeXcxV2VlZGt0ZDQwQ0otbkFWSFBxTExlTVVSSEZOcU9ubW9qRmlOaTczcDFUZWVhMkJoX1ZNMXZZWEZiYVk3MWp1THZZQmNxVWFtWFdib2RCbExEdWUtUw?oc=5",
       "region": "US",
       "regionLabel": "미국",
       "keywordId": "tsmc",
       "keywordLabel": "TSMC",
       "query": "TSMC",
-      "title": "Sony, TSMC to Spend $6.3 Billion to Jointly Make Image Sensors, Nikkei Says - U.S. News - Money",
-      "source": "U.S. News - Money",
+      "title": "Sony, TSMC to spend $6.3 billion to jointly make image sensors, Nikkei says - Reuters",
+      "source": "Reuters",
       "publishedAt": "Mon, 10 Aug 2026 03:15:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ05Sc3NKcGVSR0tIVk85ZVYtdWNXTW9aTmloTkZsd1JBZWNjWUhKRXNWR0YyNXBteVc3MmNPYjk5RC1RcVZ5bk1YR1EwTE93NEFZUEtqcEhtejFCYm5jZWczdkJTU1c2UHR6ZUNWajJDV1FfY3VnM2FuV2wySlBDbHM4ekxiaDA5YjZscktXeTVNX29ESmc5RTZtZjNIVkVXQ0M1M1BnLVViN2E3amNPTFYxaDhtcnJFcUlocW9BMDFRVkREX1d0Zi1xR2w?oc=5"
-    },
-    {
-      "id": "US-tsmc-https://news.google.com/rss/articles/CBMihwFBVV95cUxPS0REb043WVNEVWpHZ2pWLTlxUUdFdlVLazNJV3pwWnJFY05MRWY5bzZETmdpdkFWdkMzQWRSenBpZ25RVHpRSEZXdC1mWXplcWJ6Mk1FbGtCZVNtcGg2MkU2aVhTTmI0ZjU0N3VaZ0tEem9UYmE4Z1hWcDN3RWtZdDBjcUY4VXc?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "tsmc",
-      "keywordLabel": "TSMC",
-      "query": "TSMC",
-      "title": "Sony, TSMC to spend $6.3 billion to jointly make image sensors, Nikkei says - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "publishedAt": "Mon, 10 Aug 2026 03:15:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS0REb043WVNEVWpHZ2pWLTlxUUdFdlVLazNJV3pwWnJFY05MRWY5bzZETmdpdkFWdkMzQWRSenBpZ25RVHpRSEZXdC1mWXplcWJ6Mk1FbGtCZVNtcGg2MkU2aVhTTmI0ZjU0N3VaZ0tEem9UYmE4Z1hWcDN3RWtZdDBjcUY4VXc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX0Q2VXp6QlQ0VW13LVhHdzI5SkZFZTZHSlhialczaXc3VmRZczBHQTVZYVlYa21jMjJNOGZsSU53V3dwZ0JlaXh0cncxRnZ3NFRzQTVyZzJyenNpWm1TQjMzQmRCeXcxV2VlZGt0ZDQwQ0otbkFWSFBxTExlTVVSSEZOcU9ubW9qRmlOaTczcDFUZWVhMkJoX1ZNMXZZWEZiYVk3MWp1THZZQmNxVWFtWFdib2RCbExEdWUtUw?oc=5"
     },
     {
       "id": "US-generative-ai-https://news.google.com/rss/articles/CBMikAFBVV95cUxQVFZqd0VmTnVUYXljeTZWdkNSYl95T05VUWgzelc4N2V0WS0xb0k0d0lQTWl1ZEFTRGI1TFRmM3FaRjRQQW1Idy1NaWU0NEtkYVBEQ29OcEYyT3Y2ZWJVZmJRcElDV0F6WjR1ZFlGNnVHNkRCNWdseldEcWdkVVFQUldzR0hXWmdYZXZLOEFPRXg?oc=5",
@@ -293,30 +533,6 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVFZqd0VmTnVUYXljeTZWdkNSYl95T05VUWgzelc4N2V0WS0xb0k0d0lQTWl1ZEFTRGI1TFRmM3FaRjRQQW1Idy1NaWU0NEtkYVBEQ29OcEYyT3Y2ZWJVZmJRcElDV0F6WjR1ZFlGNnVHNkRCNWdseldEcWdkVVFQUldzR0hXWmdYZXZLOEFPRXg?oc=5"
     },
     {
-      "id": "KR-sk-hynix-https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qcHZ5Mk1zWkNvelBfOGpJN2NXTXdaZ1pxZU5yYWhieldpcjRMbTdLUHJYS0diN3RSeXk2M2gyWmJKRS1hTGhHUnJEanhhcHM?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "sk-hynix",
-      "keywordLabel": "SK하이닉스",
-      "query": "SK하이닉스",
-      "title": "SK하이닉스, 中 충칭공장 지분 매각 저울질…최대 4조원대 - v.daum.net",
-      "source": "v.daum.net",
-      "publishedAt": "Mon, 10 Aug 2026 03:11:07 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qcHZ5Mk1zWkNvelBfOGpJN2NXTXdaZ1pxZU5yYWhieldpcjRMbTdLUHJYS0diN3RSeXk2M2gyWmJKRS1hTGhHUnJEanhhcHM?oc=5"
-    },
-    {
-      "id": "KR-ai-https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZlZoczVpUWZjQ1Q3Z29vY0Fic29odWdsWmdiOXlDOW9KWmtzcXYxX1BsNTM5SVQ4ZEJVeWk2YmV2VTJfNkxrd1N5UDlGcmVEc0hEd3h3?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "ai",
-      "keywordLabel": "인공지능",
-      "query": "인공지능",
-      "title": "파주시, 올해 말까지 '행정업무 지원 AI 플랫폼' 구축 - 뉴스1",
-      "source": "뉴스1",
-      "publishedAt": "Mon, 10 Aug 2026 03:06:01 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kZlZoczVpUWZjQ1Q3Z29vY0Fic29odWdsWmdiOXlDOW9KWmtzcXYxX1BsNTM5SVQ4ZEJVeWk2YmV2VTJfNkxrd1N5UDlGcmVEc0hEd3h3?oc=5"
-    },
-    {
       "id": "US-tsmc-https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzdsM2hyaklncHV5X2FrWVQtcHU0RUFFdjVHTXVBRURLSGZ0azRwNjFhUUNWci1nTk50aDg2bGNkdm5IWnZoQllzbEQwWDdZLXNkVXNQOVNHVHJLbWdDdVBfeXJ1OWItUE5JS2xhSDZCdE5OcDZuZHdWR3dKSUprM0ltaHZiMDV4U2hWaUVNT0lqcTJKVzVN?oc=5",
       "region": "US",
       "regionLabel": "미국",
@@ -329,100 +545,16 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzdsM2hyaklncHV5X2FrWVQtcHU0RUFFdjVHTXVBRURLSGZ0azRwNjFhUUNWci1nTk50aDg2bGNkdm5IWnZoQllzbEQwWDdZLXNkVXNQOVNHVHJLbWdDdVBfeXJ1OWItUE5JS2xhSDZCdE5OcDZuZHdWR3dKSUprM0ltaHZiMDV4U2hWaUVNT0lqcTJKVzVN?oc=5"
     },
     {
-      "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMiT0FVX3lxTE13Y044MnhrTmZ1NURwRGROc2pXNTd3aTZpUGxJZThpWmF0OHM4WWlYOVpJSEMyTUFUVGxKT1NLLWZEMTJvaXZLbkxtVVV6SGs?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "semiconductor",
-      "keywordLabel": "반도체",
-      "query": "반도체",
-      "title": "KDI \"반도체 중심으로 경기 개선세 확대\"…물가·고용은 변수 - v.daum.net",
-      "source": "v.daum.net",
-      "publishedAt": "Mon, 10 Aug 2026 03:02:17 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13Y044MnhrTmZ1NURwRGROc2pXNTd3aTZpUGxJZThpWmF0OHM4WWlYOVpJSEMyTUFUVGxKT1NLLWZEMTJvaXZLbkxtVVV6SGs?oc=5"
-    },
-    {
-      "id": "KR-ai-https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IOEwtZGlWWkZ3Qm5PaE0yMlZ1bjdVel96aWVKWFlXUUozRzNVRGo5ZFk0NGtuZmI2YzNXSG0taHB6WGpYYjc5UzFHd3hueEk?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "ai",
-      "keywordLabel": "인공지능",
-      "query": "인공지능",
-      "title": "정수장 운영부터 로드킬 예방까지…기후부, AI 환경서비스 확대 - v.daum.net",
-      "source": "v.daum.net",
-      "publishedAt": "Mon, 10 Aug 2026 03:00:58 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IOEwtZGlWWkZ3Qm5PaE0yMlZ1bjdVel96aWVKWFlXUUozRzNVRGo5ZFk0NGtuZmI2YzNXSG0taHB6WGpYYjc5UzFHd3hueEk?oc=5"
-    },
-    {
-      "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMicEFVX3lxTE1YZ2FITnhHemhMTUg1VElYSjhncGI5X01HdU1VSFl5WFFKMkNVMjQ0ME9HbUYzN1RYLWZ6SmpOS2JLYlhiMV8wQ3BZTEtGeU1sYzVqLUlFdEwyeE8xc0ZES043ZWVHYXhJQm5mY2w4MDA?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "semiconductor",
-      "keywordLabel": "반도체",
-      "query": "반도체",
-      "title": "KDI \"경제 개선세 확대되는 모습\"…반도체 호조에 소비도 가세 - 연합인포맥스",
-      "source": "연합인포맥스",
-      "publishedAt": "Mon, 10 Aug 2026 03:00:46 GMT",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YZ2FITnhHemhMTUg1VElYSjhncGI5X01HdU1VSFl5WFFKMkNVMjQ0ME9HbUYzN1RYLWZ6SmpOS2JLYlhiMV8wQ3BZTEtGeU1sYzVqLUlFdEwyeE8xc0ZES043ZWVHYXhJQm5mY2w4MDA?oc=5"
-    },
-    {
-      "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMia0FVX3lxTE0yS3VjeVRPcElqTjgtOFhVSHFaRkF4aGlmWm1RdkhvYzZNMnJKQmFBSUo5aGNmXzJFbHUyeVRZQnZWT3JneHdWZjlER2lkdF83dDdZTG16X0N0NmVkWDM3TndNRWlWcjNjUC1B0gFwQVVfeXFMUGg3Sl9IUl9FNUt1bXNSY2loMzlzSDJ1VFJFWHRlb0pfWG9vU21vS3I3SlFvS3paMXRPT1lPSUljd2dIRUZ3SjA5ZFRSMTg2Ull0cjNXUXdOMTJLSTI1Vng5b0lGb3lzVmFXRjMwRkRxdg?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "semiconductor",
-      "keywordLabel": "반도체",
-      "query": "반도체",
-      "title": "韓 경제, 안정 국면 돌입하나…KDI \"반도체 중심 개선세 확대\" - 머니투데이 - 머니투데이",
-      "source": "머니투데이",
-      "publishedAt": "Mon, 10 Aug 2026 03:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yS3VjeVRPcElqTjgtOFhVSHFaRkF4aGlmWm1RdkhvYzZNMnJKQmFBSUo5aGNmXzJFbHUyeVRZQnZWT3JneHdWZjlER2lkdF83dDdZTG16X0N0NmVkWDM3TndNRWlWcjNjUC1B0gFwQVVfeXFMUGg3Sl9IUl9FNUt1bXNSY2loMzlzSDJ1VFJFWHRlb0pfWG9vU21vS3I3SlFvS3paMXRPT1lPSUljd2dIRUZ3SjA5ZFRSMTg2Ull0cjNXUXdOMTJLSTI1Vng5b0lGb3lzVmFXRjMwRkRxdg?oc=5"
-    },
-    {
-      "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zYThPLV9tNkM1ak5UczJRelU1d0xKaGdmdUpsQ25yMExucEtfWlVUUV90bjRvRXk1U2NxOEtpTHVUcjVpUXA1eDl6QjMxZw?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "semiconductor",
-      "keywordLabel": "반도체",
-      "query": "반도체",
-      "title": "반도체·조선 살아나도 청년고용 '한파'…제조업 고용 '양극화' - 전자신문",
-      "source": "전자신문",
-      "publishedAt": "Mon, 10 Aug 2026 03:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zYThPLV9tNkM1ak5UczJRelU1d0xKaGdmdUpsQ25yMExucEtfWlVUUV90bjRvRXk1U2NxOEtpTHVUcjVpUXA1eDl6QjMxZw?oc=5"
-    },
-    {
-      "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMiZkFVX3lxTE53MnpUdExsMUFHelNia1VWR0Q0dVh1b3l1M3BjYWI2N0xqa3cwZlFLYVo2c2hlc19jdDBKWmpNcmFUTDNkXy1ZMzFPVHNoeUVfMWh6WkotdVExbmp6cDZRYm9TS3RJUQ?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "semiconductor",
-      "keywordLabel": "반도체",
-      "query": "반도체",
-      "title": "혹등고래 팬·구리클립 반도체…8월 대한민국 엔지니어상 - 뉴스1",
-      "source": "뉴스1",
-      "publishedAt": "Mon, 10 Aug 2026 03:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53MnpUdExsMUFHelNia1VWR0Q0dVh1b3l1M3BjYWI2N0xqa3cwZlFLYVo2c2hlc19jdDBKWmpNcmFUTDNkXy1ZMzFPVHNoeUVfMWh6WkotdVExbmp6cDZRYm9TS3RJUQ?oc=5"
-    },
-    {
-      "id": "KR-ai-https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BZk53LXVha2NaakloTWFXOW5SNU1yMlI3cHFpQXlSZmhwWVJ2RDczaU9FbmR3THJQRENaRVExMmh6bVFOR0MwT2FIM1NQNXdWS0dBNGtvN1RacU1CQzNtc9IBeEFVX3lxTE1mYmg5ZG14SnBtQ1VfY1FZR1BxdWhrRW9WaWliejFWekRjSmhucmtILUlPYWl0ZHpmV25HOWtTWlF5SDFTUnVjU0FwaXZMQWZuMmF1SHFYN3ZfSlhfUnIzckhHRXJhV3hWSDFyVXZYS2tMNjNNTU55bg?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "ai",
-      "keywordLabel": "인공지능",
-      "query": "인공지능",
-      "title": "AI 대전환 추진…기후부, 청년들과 환경서비스 간담회 - 뉴시스",
-      "source": "뉴시스",
-      "publishedAt": "Mon, 10 Aug 2026 03:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BZk53LXVha2NaakloTWFXOW5SNU1yMlI3cHFpQXlSZmhwWVJ2RDczaU9FbmR3THJQRENaRVExMmh6bVFOR0MwT2FIM1NQNXdWS0dBNGtvN1RacU1CQzNtc9IBeEFVX3lxTE1mYmg5ZG14SnBtQ1VfY1FZR1BxdWhrRW9WaWliejFWekRjSmhucmtILUlPYWl0ZHpmV25HOWtTWlF5SDFTUnVjU0FwaXZMQWZuMmF1SHFYN3ZfSlhfUnIzckhHRXJhV3hWSDFyVXZYS2tMNjNNTU55bg?oc=5"
-    },
-    {
-      "id": "US-semiconductor-https://news.google.com/rss/articles/CBMif0FVX3lxTFBCZDRNd25Kd2F6OGhqZlpScWNyUVZaS01kd1lHYUllVnJwYjdwei1ZcU1acUg1VHpQREdWRzRjVldPd0VzUFhseHowNnZMY0x2THNxTkRPZy1YZWc4ZVJ4YkVKNTZmdHdOQUZkT2k0SEFILW5wWUxWWXBBQW9EU03SAZMBQVVfeXFMT2RFZWJkMHJqeXBNTzlJUHEyWk1yb2x4VXp0Z3ZMb2FNY19oYWlRaXctSmtoV2FtWVZaV0lUNFg3VFlndW1lYUp3MGZkQlo4X0dGVHllWTlHcHhfN2FWbUpYMXBGTm95Z1NqUFpFejdZSjd1TXJnUmlHeVRXdW4tYi12a3ZBUEEwSFdyVVY3NU5FNENV?oc=5",
+      "id": "US-generative-ai-https://news.google.com/rss/articles/CBMimAFBVV95cUxQV1FsNEQtOGJsbWtPT3Z6U01lbEx4cVZfT2dUYWRjdWJzSlVFbUo5U3EyWG0xbnpfT2tzcEcycnkwV28zMDBWcWZxbUZHUG1Vb19kQ29IVGhEelpzaWJWUEFjSmV6WmJzcGVRU010T0c3R3c3OFRWZm5sTWR5ZmFGdC1UOTMyUUNvYVNoM2t0OWZXS1VBWGwtbA?oc=5",
       "region": "US",
       "regionLabel": "미국",
-      "keywordId": "semiconductor",
-      "keywordLabel": "Semiconductor",
-      "query": "semiconductor",
-      "title": "Semiconductor boom drives Korea recovery as inflation and jobs pose risks - CHOSUNBIZ - Chosunbiz",
-      "source": "Chosunbiz",
-      "publishedAt": "Mon, 10 Aug 2026 03:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCZDRNd25Kd2F6OGhqZlpScWNyUVZaS01kd1lHYUllVnJwYjdwei1ZcU1acUg1VHpQREdWRzRjVldPd0VzUFhseHowNnZMY0x2THNxTkRPZy1YZWc4ZVJ4YkVKNTZmdHdOQUZkT2k0SEFILW5wWUxWWXBBQW9EU03SAZMBQVVfeXFMT2RFZWJkMHJqeXBNTzlJUHEyWk1yb2x4VXp0Z3ZMb2FNY19oYWlRaXctSmtoV2FtWVZaV0lUNFg3VFlndW1lYUp3MGZkQlo4X0dGVHllWTlHcHhfN2FWbUpYMXBGTm95Z1NqUFpFejdZSjd1TXJnUmlHeVRXdW4tYi12a3ZBUEEwSFdyVVY3NU5FNENV?oc=5"
+      "keywordId": "generative-ai",
+      "keywordLabel": "Generative AI",
+      "query": "generative AI",
+      "title": "Event explores how AI is reshaping our future - UWA",
+      "source": "UWA",
+      "publishedAt": "Mon, 10 Aug 2026 03:02:39 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV1FsNEQtOGJsbWtPT3Z6U01lbEx4cVZfT2dUYWRjdWJzSlVFbUo5U3EyWG0xbnpfT2tzcEcycnkwV28zMDBWcWZxbUZHUG1Vb19kQ29IVGhEelpzaWJWUEFjSmV6WmJzcGVRU010T0c3R3c3OFRWZm5sTWR5ZmFGdC1UOTMyUUNvYVNoM2t0OWZXS1VBWGwtbA?oc=5"
     },
     {
       "id": "US-tsmc-https://news.google.com/rss/articles/CBMif0FVX3lxTFAzaU9tVUN4cEhRUUhQRlA5eDNYbU1KN0pBdW04UU1MWGhaeEFGbk9DY1liUVNoSC02eUZjWTRpOHF2cWV5aDNnSWFIdUhtMDJ6cHdMbVpObTBRZ0dBeE93RzMyRjVQWktkVzVFTkdlSldtTTdRM1YtTHhURS04YU3SAYQBQVVfeXFMT3dlYlFzT2dlNXhnbmRiNTBoZW1BRXlnYUtiVWU1endmWHNzQ0xWSUR1Z0xRVEVaR1c2V21TdEljdVdMU3daOFhLY0lGNnNGS2VtOXBQYkswVkh4YmQ5LVRlT3VzYUM2UWozOS15bWNkZ2J1VjBLS2hMM3QxbzdhcjFaQ0h3?oc=5",
@@ -431,46 +563,22 @@
       "keywordId": "tsmc",
       "keywordLabel": "TSMC",
       "query": "TSMC",
-      "title": "TSMC Secures Base For Two 1.4nm Fabrication Plants On Its Home Turf When Landowners Changed Sentiment After Learning About The Opportunity Cost - Wccftech",
-      "source": "Wccftech",
+      "title": "TSMC Secures Base For Two 1.4nm Fabrication Plants On Its Home Turf When Landowners Changed Sentiment After Learning About The Opportunity Cost - wccftech.com",
+      "source": "wccftech.com",
       "publishedAt": "Mon, 10 Aug 2026 02:52:25 GMT",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzaU9tVUN4cEhRUUhQRlA5eDNYbU1KN0pBdW04UU1MWGhaeEFGbk9DY1liUVNoSC02eUZjWTRpOHF2cWV5aDNnSWFIdUhtMDJ6cHdMbVpObTBRZ0dBeE93RzMyRjVQWktkVzVFTkdlSldtTTdRM1YtTHhURS04YU3SAYQBQVVfeXFMT3dlYlFzT2dlNXhnbmRiNTBoZW1BRXlnYUtiVWU1endmWHNzQ0xWSUR1Z0xRVEVaR1c2V21TdEljdVdMU3daOFhLY0lGNnNGS2VtOXBQYkswVkh4YmQ5LVRlT3VzYUM2UWozOS15bWNkZ2J1VjBLS2hMM3QxbzdhcjFaQ0h3?oc=5"
     },
     {
-      "id": "KR-sk-hynix-https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqbGJ4VjR5M1BYSXJoUV9OUVhqN2JMamI3cExrVFItNFpJYW02UFJaZzdvVFFIS0d4U0ZkRU0xOHIzUmdFeTFkZFRoaS1SU3VfQWo0OHln?oc=5",
+      "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqbGJ4VjR5M1BYSXJoUV9OUVhqN2JMamI3cExrVFItNFpJYW02UFJaZzdvVFFIS0d4U0ZkRU0xOHIzUmdFeTFkZFRoaS1SU3VfQWo0OHln?oc=5",
       "region": "KR",
       "regionLabel": "한국",
-      "keywordId": "sk-hynix",
-      "keywordLabel": "SK하이닉스",
-      "query": "SK하이닉스",
-      "title": "추미애 “삼성·SK하이닉스, 반도체 공정수 방류 최소화하라” - 중앙일보",
-      "source": "중앙일보",
+      "keywordId": "semiconductor",
+      "keywordLabel": "반도체",
+      "query": "반도체",
+      "title": "추미애 “삼성·SK하이닉스, 반도체 공정수 방류 최소화하라” - joongang.co.kr",
+      "source": "joongang.co.kr",
       "publishedAt": "Mon, 10 Aug 2026 02:50:21 GMT",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqbGJ4VjR5M1BYSXJoUV9OUVhqN2JMamI3cExrVFItNFpJYW02UFJaZzdvVFFIS0d4U0ZkRU0xOHIzUmdFeTFkZFRoaS1SU3VfQWo0OHln?oc=5"
-    },
-    {
-      "id": "US-tsmc-https://news.google.com/rss/articles/CBMisAFBVV95cUxPby0tUU9EZVdvVG1PWGtES1BFcWpON1ZYcFU4OUxVNUtwU1RwTEZ4b2dwSEl1TzBMb1gwN1c2VnYxTnduRkl6QkNYTmNTTU9SbFIxdzFDTkE2ZWFPQS1CVFMzcWo3bHV2eW5NUEZJeW1OWWRxc293VVZrUU9lLV9ZR2FDWmN0SXp4cko2eVFETV9GMks4ZkJjdDkzVHpSdnFyN1g1R0hWMUZZcEdtMF94WA?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "tsmc",
-      "keywordLabel": "TSMC",
-      "query": "TSMC",
-      "title": "Sony, TSMC to Invest $6.4 Billion in Joint Chip Plant in Japan - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "publishedAt": "Mon, 10 Aug 2026 02:46:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPby0tUU9EZVdvVG1PWGtES1BFcWpON1ZYcFU4OUxVNUtwU1RwTEZ4b2dwSEl1TzBMb1gwN1c2VnYxTnduRkl6QkNYTmNTTU9SbFIxdzFDTkE2ZWFPQS1CVFMzcWo3bHV2eW5NUEZJeW1OWWRxc293VVZrUU9lLV9ZR2FDWmN0SXp4cko2eVFETV9GMks4ZkJjdDkzVHpSdnFyN1g1R0hWMUZZcEdtMF94WA?oc=5"
-    },
-    {
-      "id": "KR-samsung-https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FMXpUU3dmXzFMakx5N3ZjalFfOVE4bThxeTIza2JxTmlaM3UtNlNXMHpuRmkzc3E4NWN6SDlCT29qMW00OEl3elNCV3hUZXNmMjVYSGhDNjF0Z9IBX0FVX3lxTE5LWVd5bldUMmZiM0s4QmhCYTZnUkNmS3JrOTJISmdLd19PeDlKbWhXdDJSS1l4anB0Yk94Y0d6Um1VM1FRaUxWcTZnWkZlQXh0cXlDdkNFZy1PSjBsV2pR?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "samsung",
-      "keywordLabel": "삼성전자",
-      "query": "삼성전자",
-      "title": "삼성전자, 일본 NTT 도코모와 ‘AI 무선망’ 품질 최적화 기술 검증 - 경향신문",
-      "source": "경향신문",
-      "publishedAt": "Mon, 10 Aug 2026 02:44:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FMXpUU3dmXzFMakx5N3ZjalFfOVE4bThxeTIza2JxTmlaM3UtNlNXMHpuRmkzc3E4NWN6SDlCT29qMW00OEl3elNCV3hUZXNmMjVYSGhDNjF0Z9IBX0FVX3lxTE5LWVd5bldUMmZiM0s4QmhCYTZnUkNmS3JrOTJISmdLd19PeDlKbWhXdDJSS1l4anB0Yk94Y0d6Um1VM1FRaUxWcTZnWkZlQXh0cXlDdkNFZy1PSjBsV2pR?oc=5"
     },
     {
       "id": "US-hbm-https://news.google.com/rss/articles/CBMimwFBVV95cUxOOW9JY1plVEpFb0wxcGdkV1VCYUdGZDNfX0RQZ05WRkgxRXFrR2l6bEFTVzViWkpxdTRsSXM1U2NleDdpNEFpOG1Sd0otY05MUHJtM3owb21BUUNOMkxGcmNQNnduMHIzQ1RYS2VuemMyM3JtS2s5NWlRRko1aE5YZkViQWxndjkzdTlWa2hHeWp1dlZMQjQtc2N0SQ?oc=5",
@@ -497,40 +605,28 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQTJfR01qQ0VCdzBTUDZyZENlVUw3UmZJM1BpMmx1WFlqZkd2OGFiZkdPRTlHcXhpNlZ4Slk2aTNhNE56UWdYa1FxSkhveHdwWU5wSGtxNkhSN0FDTmctTUZMWDVxOUxjZjJnNWYtNkdGbWNHbEkyVE4xS0JpX29KcEdqbVM?oc=5"
     },
     {
-      "id": "KR-generative-ai-https://news.google.com/rss/articles/CBMicEFVX3lxTE5FTFR3ZXVzM2poWlVfX0I5UWJEbGdJWXQ5VElVZWxIMGNvOHNxOFlfeUkwWHpEYWJCOXdWOVF5NDEtaGs2RkM4LTZhdVQwQVNjaWpUaXcteDl1MnBJYU1Wa0ZrbkpSUjdKa0dHYmp2TUzSAXRBVV95cUxNUVExQ2s4M0cwV3BMSUtwaVJqTVhLSWJncTVvSmQ1TXY4R2NVaUhyUTBjMGRidllKcjMxemphQkhIOF9VTldRc3N4SE5KTnU5Yno3TFZOQUxaTUY4b2NCZjU2OW1GTGlpSkExWG1CY1FsRHV6ZA?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "generative-ai",
-      "keywordLabel": "생성형 AI",
-      "query": "생성형 AI",
-      "title": "北 해커 김수키, 생성형 AI 공격 도구화 착수 정황 포착 - IT조선",
-      "source": "IT조선",
-      "publishedAt": "Mon, 10 Aug 2026 02:31:01 GMT",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FTFR3ZXVzM2poWlVfX0I5UWJEbGdJWXQ5VElVZWxIMGNvOHNxOFlfeUkwWHpEYWJCOXdWOVF5NDEtaGs2RkM4LTZhdVQwQVNjaWpUaXcteDl1MnBJYU1Wa0ZrbkpSUjdKa0dHYmp2TUzSAXRBVV95cUxNUVExQ2s4M0cwV3BMSUtwaVJqTVhLSWJncTVvSmQ1TXY4R2NVaUhyUTBjMGRidllKcjMxemphQkhIOF9VTldRc3N4SE5KTnU5Yno3TFZOQUxaTUY4b2NCZjU2OW1GTGlpSkExWG1CY1FsRHV6ZA?oc=5"
-    },
-    {
-      "id": "KR-samsung-https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sakJsSHFrbmNUd3dEVzJuN0d1T3hSeEpqemFKVnpTbG5SNDc1NVB2dmd2VW56WjBpUDdSZ2JYSDdxOEFEZzJOZXl3d0tzc0lYb05v?oc=5",
+      "id": "KR-samsung-https://news.google.com/rss/articles/CBMicEFVX3lxTE4zVDZhN0d0eXExQXB3enlORUwxTTNpSVdnTVdFcjV3bzVWV2QwMkdNUVdzb19RRHdDS25nMmV0U0dqYzRSTVc2VFY1czZoc2gxenVrdWNGa0QyNU1WZEF1YTM1LXItbzlYaWFGTUxnaEbSAXRBVV95cUxPY2p2OTdFeHFuVEZPVE9EUG1faGttRXd6X2xWTjF4OW54bWxsQlpKcHpYQWkzVlBwZV8tZ2U3NmJ1STdEcDVCWlN2aTNManhhQlBrcmh5N1pDQl9ucUpMT1k5cmFWWkE1d2NwQWowbTFRNzNhMg?oc=5",
       "region": "KR",
       "regionLabel": "한국",
       "keywordId": "samsung",
       "keywordLabel": "삼성전자",
       "query": "삼성전자",
-      "title": "\"삼전·하이닉스 사라\" 소리친 외국 IB…정작 자신들은 매도? [반도체 투자 리포트] - 네이트",
-      "source": "네이트",
-      "publishedAt": "Mon, 10 Aug 2026 02:28:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sakJsSHFrbmNUd3dEVzJuN0d1T3hSeEpqemFKVnpTbG5SNDc1NVB2dmd2VW56WjBpUDdSZ2JYSDdxOEFEZzJOZXl3d0tzc0lYb05v?oc=5"
+      "title": "삼성전자-NTT 도코모, AI-RAN 기반 통신 품질 기술 검증 - IT조선",
+      "source": "IT조선",
+      "publishedAt": "Mon, 10 Aug 2026 02:30:32 GMT",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zVDZhN0d0eXExQXB3enlORUwxTTNpSVdnTVdFcjV3bzVWV2QwMkdNUVdzb19RRHdDS25nMmV0U0dqYzRSTVc2VFY1czZoc2gxenVrdWNGa0QyNU1WZEF1YTM1LXItbzlYaWFGTUxnaEbSAXRBVV95cUxPY2p2OTdFeHFuVEZPVE9EUG1faGttRXd6X2xWTjF4OW54bWxsQlpKcHpYQWkzVlBwZV8tZ2U3NmJ1STdEcDVCWlN2aTNManhhQlBrcmh5N1pDQl9ucUpMT1k5cmFWWkE1d2NwQWowbTFRNzNhMg?oc=5"
     },
     {
-      "id": "KR-ai-https://news.google.com/rss/articles/CBMicEFVX3lxTE5Sc0NSOWxKN2RXTkhLSXlLQ3BhUHBQOVMtWVZPMUhzYWpqcS05ZFJPc3VtbVpsSVdWSDRkencxVkRxMWNyMTFFakUzVUlBRGZDRVZnZzAwdW9xNEpSbDFoNWxGekZmUkZQRGQwbG9JYkbSAXNBVV95cUxPdllnakRwemNMam9iQmI1OC1oNHRoekJVS3JWTlRtUmFBZjYyejFkV0JvOFdqTFB3YVFzTW5mUjVMSnZXbnFpU2NfaEVVRkliSUxWSllPT3NJcjlXYjdKZTV3T3Z4NWwxMVJKa0lGX3RiUERZ?oc=5",
+      "id": "KR-sk-hynix-https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBR2NRM0ZxcDE3SGF4RGZDVFptOVc2a2lrUDIxQnlCM2V3aTFSZllPWjNXeXBVWHFXbEo5WDllMVlGMERHY1JZVlhHMHVFYnNnREZOMVVDbWxTS05BbWfSAWNBVV95cUxOZ093cXY0NWNWeGhHbnRLUUFUaFhDX3NXQkNiWThTSG1tTnRfWDMyc1l6UUwwVlo3dDJRZnJpZzZmYy1maHNKZlk4U3lpck1qUFhtb1F0SWZ4ZDRBRjJPaEd6Tk0?oc=5",
       "region": "KR",
       "regionLabel": "한국",
-      "keywordId": "ai",
-      "keywordLabel": "인공지능",
-      "query": "인공지능",
-      "title": "'인공지능 대전환, 보건의료 혁신 미래를 열다' 국제 심포지엄 개최 - 청년의사",
-      "source": "청년의사",
-      "publishedAt": "Mon, 10 Aug 2026 02:27:22 GMT",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Sc0NSOWxKN2RXTkhLSXlLQ3BhUHBQOVMtWVZPMUhzYWpqcS05ZFJPc3VtbVpsSVdWSDRkencxVkRxMWNyMTFFakUzVUlBRGZDRVZnZzAwdW9xNEpSbDFoNWxGekZmUkZQRGQwbG9JYkbSAXNBVV95cUxPdllnakRwemNMam9iQmI1OC1oNHRoekJVS3JWTlRtUmFBZjYyejFkV0JvOFdqTFB3YVFzTW5mUjVMSnZXbnFpU2NfaEVVRkliSUxWSllPT3NJcjlXYjdKZTV3T3Z4NWwxMVJKa0lGX3RiUERZ?oc=5"
+      "keywordId": "sk-hynix",
+      "keywordLabel": "SK하이닉스",
+      "query": "SK하이닉스",
+      "title": "추미애, 삼성·SK하이닉스에 폐수 방류 줄여라…“인텔·TSMC와 정반대” - 채널A",
+      "source": "채널A",
+      "publishedAt": "Mon, 10 Aug 2026 02:29:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBR2NRM0ZxcDE3SGF4RGZDVFptOVc2a2lrUDIxQnlCM2V3aTFSZllPWjNXeXBVWHFXbEo5WDllMVlGMERHY1JZVlhHMHVFYnNnREZOMVVDbWxTS05BbWfSAWNBVV95cUxOZ093cXY0NWNWeGhHbnRLUUFUaFhDX3NXQkNiWThTSG1tTnRfWDMyc1l6UUwwVlo3dDJRZnJpZzZmYy1maHNKZlk4U3lpck1qUFhtb1F0SWZ4ZDRBRjJPaEd6Tk0?oc=5"
     },
     {
       "id": "KR-generative-ai-https://news.google.com/rss/articles/CBMiakFVX3lxTE41Vm0xMjFCY29kOUx0bWhSREw4eEt0TlZ4QUJVQmFPREtzSUtjTkR2QWJic0FkWVkyc2lBbi1mT2dlSU96ZGRsSE52ekxaMEFkUTlraXZkLVp4dWpvWXp1VHVxNUFDTFExNlE?oc=5",
@@ -539,22 +635,22 @@
       "keywordId": "generative-ai",
       "keywordLabel": "생성형 AI",
       "query": "생성형 AI",
-      "title": "생성형 AI로 '나만의 K-POP' 만든다 - ggilbo.com",
-      "source": "ggilbo.com",
+      "title": "생성형 AI로 '나만의 K-POP' 만든다 - 금강일보",
+      "source": "금강일보",
       "publishedAt": "Mon, 10 Aug 2026 02:26:15 GMT",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41Vm0xMjFCY29kOUx0bWhSREw4eEt0TlZ4QUJVQmFPREtzSUtjTkR2QWJic0FkWVkyc2lBbi1mT2dlSU96ZGRsSE52ekxaMEFkUTlraXZkLVp4dWpvWXp1VHVxNUFDTFExNlE?oc=5"
     },
     {
-      "id": "KR-ai-https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xbFM2Q3dkY2ZpSG13TkVzb1pCUWxUcUJwVkZrZlI2aG91MDBGQ0RlRGp2VTNaQmdSbUJlRXZsT3VQaVFTQkd4RVRvUWhTR1U?oc=5",
+      "id": "KR-ai-https://news.google.com/rss/articles/CBMigwFBVV95cUxPMVoyUHhWWUhFeFZVTlVxNFJEVmdKemFDM09GTkhtbDN4UnJWNGFXeHBQQklQSXByZUNLZVVIM0xTUE13aDFFTmxFVHpZVFVPWmU1YzR4dVB4Qmg5Y0tpdjk2YXZwVXlERV9oaFRhMzR4RDNOeE8wc1g2aGlaQmluSmdkRQ?oc=5",
       "region": "KR",
       "regionLabel": "한국",
       "keywordId": "ai",
       "keywordLabel": "인공지능",
       "query": "인공지능",
-      "title": "마포구, 'AI 메모장' 자체 개발…행정업무 지원 서비스 - v.daum.net",
-      "source": "v.daum.net",
-      "publishedAt": "Mon, 10 Aug 2026 02:19:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xbFM2Q3dkY2ZpSG13TkVzb1pCUWxUcUJwVkZrZlI2aG91MDBGQ0RlRGp2VTNaQmdSbUJlRXZsT3VQaVFTQkd4RVRvUWhTR1U?oc=5"
+      "title": "북한 김수키, 로컬 LLM과 에이전트까지...AI로 공격 고도화 - 조선일보",
+      "source": "조선일보",
+      "publishedAt": "Mon, 10 Aug 2026 02:07:47 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMVoyUHhWWUhFeFZVTlVxNFJEVmdKemFDM09GTkhtbDN4UnJWNGFXeHBQQklQSXByZUNLZVVIM0xTUE13aDFFTmxFVHpZVFVPWmU1YzR4dVB4Qmg5Y0tpdjk2YXZwVXlERV9oaFRhMzR4RDNOeE8wc1g2aGlaQmluSmdkRQ?oc=5"
     },
     {
       "id": "KR-hbm-https://news.google.com/rss/articles/CBMibEFVX3lxTE5ILXFFQWxHOTdnbWR2NWpWaTdPVnYzM21ibHlsZXdqRVRpamVrLTVmb0tWWkRkeTJrYmVaLWlfQTNMQzdKYjBHc0pNeW9aM3R4bnVkcS1Ea3JMYXpOV19YUEhrbmZwaXdaT0h4OQ?oc=5",
@@ -581,16 +677,28 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdFBVM1pmQ0J0T1BQbndVM040cDZ0aW40NmVFNl9STjVSUlpncG0tcVE2c0FiLUVQbDN6ak5xN1lSblZvYWJBMTBaaVg2S0RGdEctVUNWT2xNYjBMaFVId1BYTlVuZHFCY1otN3hzSFFoNlRvTGNRd0tmRmZrMkFWNlVydmFCTXQ0dy11RjJrWWhqVS00bzZjX3BkZG5VVTYyRkI1TG5pZGd6MHV1Z0QyY1NPMHUzQjREeVo3SUl3?oc=5"
     },
     {
-      "id": "KR-samsung-https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1Z1BnUE5oUkY5eHo2RmQ4RnR6YVhhQkFwd1NZRjd1TExuV3NVQllPck82cjhSVk9fQktfbC1rR1YtVktGWGpLeXV1b1laUlk?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "samsung",
-      "keywordLabel": "삼성전자",
-      "query": "삼성전자",
-      "title": "\"주주환원 최대 200조\" 삼성전자 목표가 60만원 유지…데이터센터 특수에 산일전기 뜬다 [株토피아] - v.daum.net",
-      "source": "v.daum.net",
-      "publishedAt": "Mon, 10 Aug 2026 01:59:29 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1Z1BnUE5oUkY5eHo2RmQ4RnR6YVhhQkFwd1NZRjd1TExuV3NVQllPck82cjhSVk9fQktfbC1rR1YtVktGWGpLeXV1b1laUlk?oc=5"
+      "id": "US-micron-https://news.google.com/rss/articles/CBMimAFBVV95cUxNTmRZLWtyWUhoTlM1VGpDY3NtNzQ3bEdNTUYyenM0OWNaTlVsOHFTTXllMGltQnl0YUlRU3Jhd3ZVdUVXeDBSTGxCQk5PemlHSlNUX2ItMURGMjV2dnJoWmhtS3MzQk1tQkNTYlloV2x3Y01MQzJpWXhoT3BfMllQZGw2UlFoOHM1dFJlQU4yeUFVQUQxbzAwSg?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "micron",
+      "keywordLabel": "Micron",
+      "query": "Micron",
+      "title": "Micron Technology Just Bounced 10% Off Its Lows. History Reveals What a $5,000 Investment Will Be Worth by Mid-2027. - The Motley Fool",
+      "source": "The Motley Fool",
+      "publishedAt": "Mon, 10 Aug 2026 02:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTmRZLWtyWUhoTlM1VGpDY3NtNzQ3bEdNTUYyenM0OWNaTlVsOHFTTXllMGltQnl0YUlRU3Jhd3ZVdUVXeDBSTGxCQk5PemlHSlNUX2ItMURGMjV2dnJoWmhtS3MzQk1tQkNTYlloV2x3Y01MQzJpWXhoT3BfMllQZGw2UlFoOHM1dFJlQU4yeUFVQUQxbzAwSg?oc=5"
+    },
+    {
+      "id": "US-qualcomm-https://news.google.com/rss/articles/CBMikgFBVV95cUxNQTZST0QzSGw2RFpvMVRhbElrSFVUM2lwdDBqWVhfSUU4X3YwdDlhNUZUZkhmb19ub25LVzRlZXlxNlNJOW9yRi1NN1VSQzRqU0hYUVZIWGFFdjhYMk10eDZ0d2JOOU9vYnpRN3RSRnFEOXRJNE1OZkIwNTdUdEk5VmNLMXNvbndDb1piX1NibWUwdw?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "qualcomm",
+      "keywordLabel": "Qualcomm",
+      "query": "Qualcomm",
+      "title": "AP Memory Strengthens Global Leadership Team with Appointment of Former Qualcomm Vice President Jian Zhang - Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "publishedAt": "Mon, 10 Aug 2026 02:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQTZST0QzSGw2RFpvMVRhbElrSFVUM2lwdDBqWVhfSUU4X3YwdDlhNUZUZkhmb19ub25LVzRlZXlxNlNJOW9yRi1NN1VSQzRqU0hYUVZIWGFFdjhYMk10eDZ0d2JOOU9vYnpRN3RSRnFEOXRJNE1OZkIwNTdUdEk5VmNLMXNvbndDb1piX1NibWUwdw?oc=5"
     },
     {
       "id": "KR-sk-hynix-https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LYm5Fc1RYRFZMcFFrY0FXeEt5dWZpZkhXMUpHQzBoZnRLc0wwcEpXQVRVR1QyYlpNZ2pzY1FoVlNEUDJLT050UENFOW9FTGRZXzZqRWFuSjVWSmfSAWBBVV95cUxPVXRVczM5OGNQVGtCR3RnWDRLTWkxalpBRmk1eXN5V3RsOERtbUxPSlhvdTVpeWpIN1V4ODRyb0NrU0RnLXM2ZVR5dEpiLUJMZ3duX1BScXBDQXpDdy1GXzI?oc=5",
@@ -629,6 +737,18 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NWndMTzhkcTl0SDY5QVprcGFoM3JGSW5KRUFsWDF1NWQ5SjRqSlQ3MEFDRGZlTS1HUzNFZXpWSFRMQkJ1RmNGQTVsNA?oc=5"
     },
     {
+      "id": "US-micron-https://news.google.com/rss/articles/CBMinwJBVV95cUxOQTl0bloyUXp3dFRSeTRVLUNiS2pOU3UzVnBVSXpyY3FwRzdjWXRwUnRMemZtd01WUFpJak9lUXMwNHVCUFZPTkxfZkNZcFlzWTUxc09RdU1kSHdxNFBFbXlScjdudmwyeEJlVHRzdEdfOHhOd1Vpb2JDZnl3dUpnSG5IODlJTmczSW9Va3BBbS1rZHVidUVYNC1GYVdJQi1qZTgxUlZWSzJEZFJMRFFWSzhPb1RfMjRrSWJ0dW1fRUlYSGt0YmJlMHI5TDZ4QkVFazlzcXowcndfUTM5WjlkVWR5dnBrZ2pFdFpGemxnVm15SEdiRmFORlYwUmZEbG9aYTlEamR2SnRCWHRraG44aks3Qnp5dkNrUk1LTVJiYw?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "micron",
+      "keywordLabel": "Micron",
+      "query": "Micron",
+      "title": "Micron Technology Just Bounced 10% Off Its Lows. History Reveals What a $5,000 Investment Will Be Worth by Mid-2027. - The Globe and Mail",
+      "source": "The Globe and Mail",
+      "publishedAt": "Mon, 10 Aug 2026 01:43:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOQTl0bloyUXp3dFRSeTRVLUNiS2pOU3UzVnBVSXpyY3FwRzdjWXRwUnRMemZtd01WUFpJak9lUXMwNHVCUFZPTkxfZkNZcFlzWTUxc09RdU1kSHdxNFBFbXlScjdudmwyeEJlVHRzdEdfOHhOd1Vpb2JDZnl3dUpnSG5IODlJTmczSW9Va3BBbS1rZHVidUVYNC1GYVdJQi1qZTgxUlZWSzJEZFJMRFFWSzhPb1RfMjRrSWJ0dW1fRUlYSGt0YmJlMHI5TDZ4QkVFazlzcXowcndfUTM5WjlkVWR5dnBrZ2pFdFpGemxnVm15SEdiRmFORlYwUmZEbG9aYTlEamR2SnRCWHRraG44aks3Qnp5dkNrUk1LTVJiYw?oc=5"
+    },
+    {
       "id": "KR-generative-ai-https://news.google.com/rss/articles/CBMibEFVX3lxTE8zcjI4elViNVdhQXEwU0xSSURiZW1VMmxRSHdwM2pUaDRSTmlNNTdrZGluTHNqZnVwaDNQT2VUV2Ytd3NMb19HNTV4a1d5T0h5dXB2S1lwRWRjd25zLTVXMmxBMmRxVlNHZ2N3WA?oc=5",
       "region": "KR",
       "regionLabel": "한국",
@@ -653,16 +773,16 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MUjB3Z2pqVXFqWjRWQWZhVTFEVVpNbm5TaEM0TU9CWTBkeG00R3cxLWkxQjBDVnBjN0FYcDFfcG9xSlM5TjJmd2kyNDhsak1fUHIxVg?oc=5"
     },
     {
-      "id": "US-micron-https://news.google.com/rss/articles/CBMimAFBVV95cUxNTmRZLWtyWUhoTlM1VGpDY3NtNzQ3bEdNTUYyenM0OWNaTlVsOHFTTXllMGltQnl0YUlRU3Jhd3ZVdUVXeDBSTGxCQk5PemlHSlNUX2ItMURGMjV2dnJoWmhtS3MzQk1tQkNTYlloV2x3Y01MQzJpWXhoT3BfMllQZGw2UlFoOHM1dFJlQU4yeUFVQUQxbzAwSg?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "micron",
-      "keywordLabel": "Micron",
-      "query": "Micron",
-      "title": "Micron Technology Just Bounced 10% Off Its Lows. History Reveals What a $5,000 Investment Will Be Worth by Mid-2027. - The Motley Fool",
-      "source": "The Motley Fool",
-      "publishedAt": "Mon, 10 Aug 2026 01:32:53 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTmRZLWtyWUhoTlM1VGpDY3NtNzQ3bEdNTUYyenM0OWNaTlVsOHFTTXllMGltQnl0YUlRU3Jhd3ZVdUVXeDBSTGxCQk5PemlHSlNUX2ItMURGMjV2dnJoWmhtS3MzQk1tQkNTYlloV2x3Y01MQzJpWXhoT3BfMllQZGw2UlFoOHM1dFJlQU4yeUFVQUQxbzAwSg?oc=5"
+      "id": "KR-samsung-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZaTlSdS00eThHVUpsRHI0bldPdWxFUDZlNWM4OEZOQVFuTEtmdjQ5RlFtVjIxU09TTUIzSkdWQjRIQzdRRXNjZ1kxUWlUb3h1QjUwUDBpTDJuLTdLaUtrLUp5OG96a2_SAWxBVV95cUxOc01aeVZmV016NnRROFBvY0hhbjZxdHJmdElFUHNTOVZUSTZGRE0tYkg2NDA1X05La2FobkplS3FXNmhoSGhYc1hWZWE0NTJ4d2s1MFRreFV2Z0JuT09lLXJwYXI3ZGJ1ZTEzY08?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "samsung",
+      "keywordLabel": "삼성전자",
+      "query": "삼성전자",
+      "title": "[영상]갤폴드8 부수는 손 부들부들...\"삼전 개발자의 복수\" 감탄 쏟아졌다 - 머니투데이 - 머니투데이",
+      "source": "머니투데이",
+      "publishedAt": "Mon, 10 Aug 2026 01:33:03 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZaTlSdS00eThHVUpsRHI0bldPdWxFUDZlNWM4OEZOQVFuTEtmdjQ5RlFtVjIxU09TTUIzSkdWQjRIQzdRRXNjZ1kxUWlUb3h1QjUwUDBpTDJuLTdLaUtrLUp5OG96a2_SAWxBVV95cUxOc01aeVZmV016NnRROFBvY0hhbjZxdHJmdElFUHNTOVZUSTZGRE0tYkg2NDA1X05La2FobkplS3FXNmhoSGhYc1hWZWE0NTJ4d2s1MFRreFV2Z0JuT09lLXJwYXI3ZGJ1ZTEzY08?oc=5"
     },
     {
       "id": "KR-hbm-https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sc0VqdlBhZnpyaXJkN3JSeDN0R0lOeWlwUXd6alNUUjY3UnAtWHI5RFdlMzdvek1XdEsxcTZkUXNGWDljcXRnNjFQdnhXa3pjSXBBaXo0Tmhudw?oc=5",
@@ -689,16 +809,40 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zdXdMY0FCbkN6RVhOWE83RE03WXd4bFhmei04SjI3R2tfVTRJT1BBRFVVZGt2R0tEQjVDVkhRVkg4SFZIMTFpZzhLU0F5SG93Tm1WbWI4TE9yMGgtenA2TEtsdXh5SjBGeE96SVMzN24yT2s?oc=5"
     },
     {
-      "id": "KR-samsung-https://news.google.com/rss/articles/CBMic0FVX3lxTFBMQURtdXlaWW1QcDBWSTM4cl92cDZSbGZoclA4NEZfbHlrdWVmbm93dWI5UWN6SHpsSGFBMXdzeko2TTlwSTBFWUpSVVhXSE9CbnFDVzFxVWdJNmUwelBtcEJOMWtmNEw4MmtNRi1LdFl5M0E?oc=5",
+      "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMiWkFVX3lxTE00Q00xcWs3ZXVqRFFyLUV1dDRCVWJqRVk4SjFUTDNUazRENjdXUkpsRFRPNmN0c2NOT2RHSWgwX25ZYU1Vc2p1WjNuMTl3aWYtcGFWMTBYRmhkQQ?oc=5",
       "region": "KR",
       "regionLabel": "한국",
-      "keywordId": "samsung",
-      "keywordLabel": "삼성전자",
-      "query": "삼성전자",
-      "title": "삼성전자 SK하이닉스 D램 가격에 해외 증권가 '고점' 시각 나와, 장기 계약에 단점 부각 - 비즈니스포스트",
-      "source": "비즈니스포스트",
-      "publishedAt": "Mon, 10 Aug 2026 01:20:50 GMT",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMQURtdXlaWW1QcDBWSTM4cl92cDZSbGZoclA4NEZfbHlrdWVmbm93dWI5UWN6SHpsSGFBMXdzeko2TTlwSTBFWUpSVVhXSE9CbnFDVzFxVWdJNmUwelBtcEJOMWtmNEw4MmtNRi1LdFl5M0E?oc=5"
+      "keywordId": "semiconductor",
+      "keywordLabel": "반도체",
+      "query": "반도체",
+      "title": "추미애 \"삼성·SK하이닉스, 반도체 폐수 방류 줄여라\" - 한국경제",
+      "source": "한국경제",
+      "publishedAt": "Mon, 10 Aug 2026 01:24:08 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00Q00xcWs3ZXVqRFFyLUV1dDRCVWJqRVk4SjFUTDNUazRENjdXUkpsRFRPNmN0c2NOT2RHSWgwX25ZYU1Vc2p1WjNuMTl3aWYtcGFWMTBYRmhkQQ?oc=5"
+    },
+    {
+      "id": "KR-hbm-https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FdXZBWTdDTFVnYXYxYm54bGZsd1FSM0tiZUp6Ql9kcEw5VTJ0a2g3TFZtWThNN0dNT2VCcV9UR2pkdDJIamo4RHBvcUE4NTA?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "hbm",
+      "keywordLabel": "HBM",
+      "query": "HBM",
+      "title": "HBM 공급난에 엔비디아·AMD 사양 조정…삼성·SK 몸값 더 오르나 - v.daum.net",
+      "source": "v.daum.net",
+      "publishedAt": "Mon, 10 Aug 2026 01:24:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FdXZBWTdDTFVnYXYxYm54bGZsd1FSM0tiZUp6Ql9kcEw5VTJ0a2g3TFZtWThNN0dNT2VCcV9UR2pkdDJIamo4RHBvcUE4NTA?oc=5"
+    },
+    {
+      "id": "KR-sk-hynix-https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wOXVEWm9uSXZwZ01nczlTMDY2eFdvTHFidnQ5WDBlTWZlZVdFY1Rrc09pY0Zfc2lrelVjZWFrR25fNDFJb0duRG5wbDROWE0?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "sk-hynix",
+      "keywordLabel": "SK하이닉스",
+      "query": "SK하이닉스",
+      "title": "\"SK하이닉스 148만원 vs 470만원\"…같은 주식 두고 목표가 2배 넘게 벌어진 이유 - v.daum.net",
+      "source": "v.daum.net",
+      "publishedAt": "Mon, 10 Aug 2026 01:19:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wOXVEWm9uSXZwZ01nczlTMDY2eFdvTHFidnQ5WDBlTWZlZVdFY1Rrc09pY0Zfc2lrelVjZWFrR25fNDFJb0duRG5wbDROWE0?oc=5"
     },
     {
       "id": "US-intel-https://news.google.com/rss/articles/CBMipgFBVV95cUxORnM2TEJKTkNuU2V2aldEOGlMcWctVGxsMU1ua0VncTJKa09ZUWN6UEZrUkR0M0Y3cXBBRllLU1JMOVlWMWdOMEtSUlM5TVpuRTIxZEJWby1OWldYWnJadG4taEktdkp2eUZtMDlLRnFjakxfREdsS2hqalU4VlE2d2o2SDBQT2tJNXJybjlkOXMyTjZQRkJ2bi1tVnd1My1MelRURGNn?oc=5",
@@ -711,6 +855,18 @@
       "source": "247Sports",
       "publishedAt": "Mon, 10 Aug 2026 01:17:23 GMT",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORnM2TEJKTkNuU2V2aldEOGlMcWctVGxsMU1ua0VncTJKa09ZUWN6UEZrUkR0M0Y3cXBBRllLU1JMOVlWMWdOMEtSUlM5TVpuRTIxZEJWby1OWldYWnJadG4taEktdkp2eUZtMDlLRnFjakxfREdsS2hqalU4VlE2d2o2SDBQT2tJNXJybjlkOXMyTjZQRkJ2bi1tVnd1My1MelRURGNn?oc=5"
+    },
+    {
+      "id": "KR-sk-hynix-https://news.google.com/rss/articles/CBMiYEFVX3lxTE14ckV3R014UUpHOVFFc2x5SkVqaWxSWlpGODBaVnFNUVNfZzM5NUJIdFBuMWNhcU53NEtEMGZTZEQzaVVycXhjdHc4VEVEczh4UFA4Ml9CNktlUFgwWUxBaQ?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "sk-hynix",
+      "keywordLabel": "SK하이닉스",
+      "query": "SK하이닉스",
+      "title": "목표주가 차이 SK하이닉스 3배, 삼성전자 2배…증권사도 \"예측 힘들어\" - asiae.co.kr",
+      "source": "asiae.co.kr",
+      "publishedAt": "Mon, 10 Aug 2026 01:17:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14ckV3R014UUpHOVFFc2x5SkVqaWxSWlpGODBaVnFNUVNfZzM5NUJIdFBuMWNhcU53NEtEMGZTZEQzaVVycXhjdHc4VEVEczh4UFA4Ml9CNktlUFgwWUxBaQ?oc=5"
     },
     {
       "id": "KR-samsung-https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xWGR0VGFUOHplZlRHM0tYZy03WFR2TTZnbzdCSHNKOW5BTWZvTDQ5dmpLOXZGdXhzN0UzU0VnTkpoMWRpVTk4VTJ3dHl5THAyMlVZS2JB?oc=5",
@@ -761,18 +917,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOHExVV8wN0lOMzV3bUVLd1NVZnN0Q1Z3cDFFZE5LbXFsVjFOaG91Y0dCYUE5NXVWNjFGcHV6ckl4ejdnYkZ1aXMyb0pvMXVYZFF4YjZ6bEFVaTM5MXl6TENLMHNNaHJfQ194QkpVTC15VExBNjdLU281MFNVUW41Y2YyMTN5Vi16Umw1ZENYWHFINUd4X1B1aFl5aWlTekY5VW9xc1lXRjQzblFEYlRIcTdsR1BCazZ5VnIyN0laeUlySE8xaVRLWEhuX1dkdw?oc=5"
     },
     {
-      "id": "KR-samsung-https://news.google.com/rss/articles/CBMiggFBVV95cUxNeGVVSnI5OHpkbklrY0JRN1IwNFNhVGtBTThYWnJDbkZBWkVJSzRpemNoaTRIYUxRV1FKZ0dtZTFzeXk5ZV85djZGMHRWa2Z2ekMwWU82bGxKR2EzQThpdW9KRzNEQUFmTFdTbG5xZnJnRWN6My1oQThQQVlzeHM5eEZ30gGWAUFVX3lxTFB6U0tsd1JCOEVxY0M2OGpvNVhMTnQ3eWhUNlhCZkNWVktscUxRWUFnS1VpMXhqa19MQWNyR3ljZGluamx2aEV3U2xoU0RyYk1QMVltTWk2X2VkVmhMa2xoOUFEbS1CNTFORDZtdjlpbUVKYzdlQU94YlpsWHN0N1VfOGUxRHlpWFpGa2x3QUZGTXNocnkwQQ?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "samsung",
-      "keywordLabel": "삼성전자",
-      "query": "삼성전자",
-      "title": "삼성전자, NTT도코모와 AI-RAN 기반 통신 서비스 품질 최적화 기술 검증 - 조선비즈 - Chosunbiz",
-      "source": "Chosunbiz",
-      "publishedAt": "Mon, 10 Aug 2026 01:04:33 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeGVVSnI5OHpkbklrY0JRN1IwNFNhVGtBTThYWnJDbkZBWkVJSzRpemNoaTRIYUxRV1FKZ0dtZTFzeXk5ZV85djZGMHRWa2Z2ekMwWU82bGxKR2EzQThpdW9KRzNEQUFmTFdTbG5xZnJnRWN6My1oQThQQVlzeHM5eEZ30gGWAUFVX3lxTFB6U0tsd1JCOEVxY0M2OGpvNVhMTnQ3eWhUNlhCZkNWVktscUxRWUFnS1VpMXhqa19MQWNyR3ljZGluamx2aEV3U2xoU0RyYk1QMVltTWk2X2VkVmhMa2xoOUFEbS1CNTFORDZtdjlpbUVKYzdlQU94YlpsWHN0N1VfOGUxRHlpWFpGa2x3QUZGTXNocnkwQQ?oc=5"
-    },
-    {
       "id": "US-generative-ai-https://news.google.com/rss/articles/CBMijgFBVV95cUxQN2I2MFAtczUxNHhTOEFSU3Z4SE1KNU1QYmw5MEpNaG94MkdwRFdzWUJIejhWVzhmVF9yaGZxNFdFWVF5ZFNtWFgzTHY3SG9GeEVBUkh6QmE3d0pXV2FzSEZhanJuWEpfdEhzdVptRlFlektGRUJKcGFNbWJ2TEt5eEwwTDczNHNHZHIxVmxn0gFOQVVfeXFMT0lJYk9MT01UMUFUY2xaRmZPMUxFNGltaDM5MGlIaHMyUFZFdkFNTW1ybnpFOXFfTHgyQkNla0dxWk9CdnhSeEozVHVwX0Rn?oc=5",
       "region": "US",
       "regionLabel": "미국",
@@ -785,16 +929,28 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN2I2MFAtczUxNHhTOEFSU3Z4SE1KNU1QYmw5MEpNaG94MkdwRFdzWUJIejhWVzhmVF9yaGZxNFdFWVF5ZFNtWFgzTHY3SG9GeEVBUkh6QmE3d0pXV2FzSEZhanJuWEpfdEhzdVptRlFlektGRUJKcGFNbWJ2TEt5eEwwTDczNHNHZHIxVmxn0gFOQVVfeXFMT0lJYk9MT01UMUFUY2xaRmZPMUxFNGltaDM5MGlIaHMyUFZFdkFNTW1ybnpFOXFfTHgyQkNla0dxWk9CdnhSeEozVHVwX0Rn?oc=5"
     },
     {
-      "id": "KR-ai-https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRWxyOGNwdkxxZUFWcXhtREctNDB0NGJBZnh0MmFsS2YxVm4xWnk2RzhQeVhuQ0g1ay1ZcVdrY1BlMVNmZXVmRjZ3YlRIMDgwckJDLXg4Zlp6Rk3SAWBBVV95cUxPWkNWaDF3dUxmSlNpcW9PcWlEYUQ3RjRaZk9zNHlxYXVWd0NJdURRcUQzZWJYbUkzNFNEbGJhS1FSaHphTFlqdXVwaXBrdHJWYlRqTGRXVlREOGV4WElWdFk?oc=5",
+      "id": "KR-samsung-https://news.google.com/rss/articles/CBMiVkFVX3lxTE54b1B5UEw4eHV3THVSZDRDTTlBQzdNd3RxanROdXFfOGRudGg3RGpRMklZelpsMGFyVi1JRUVGY2tsSGM0WVUyVGdfQnN6WkRDX0lia293?oc=5",
       "region": "KR",
       "regionLabel": "한국",
-      "keywordId": "ai",
-      "keywordLabel": "인공지능",
-      "query": "인공지능",
-      "title": "파주시, 행정업무 지원하는 'AI 플랫폼' 연내 구축 - 연합뉴스",
-      "source": "연합뉴스",
-      "publishedAt": "Mon, 10 Aug 2026 01:00:51 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JRWxyOGNwdkxxZUFWcXhtREctNDB0NGJBZnh0MmFsS2YxVm4xWnk2RzhQeVhuQ0g1ay1ZcVdrY1BlMVNmZXVmRjZ3YlRIMDgwckJDLXg4Zlp6Rk3SAWBBVV95cUxPWkNWaDF3dUxmSlNpcW9PcWlEYUQ3RjRaZk9zNHlxYXVWd0NJdURRcUQzZWJYbUkzNFNEbGJhS1FSaHphTFlqdXVwaXBrdHJWYlRqTGRXVlREOGV4WElWdFk?oc=5"
+      "keywordId": "samsung",
+      "keywordLabel": "삼성전자",
+      "query": "삼성전자",
+      "title": "삼성전자·NTT 도코모, AI 무선망 기반 통신 품질 최적화 기술 검증 - 지디넷코리아",
+      "source": "지디넷코리아",
+      "publishedAt": "Mon, 10 Aug 2026 01:00:03 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54b1B5UEw4eHV3THVSZDRDTTlBQzdNd3RxanROdXFfOGRudGg3RGpRMklZelpsMGFyVi1JRUVGY2tsSGM0WVUyVGdfQnN6WkRDX0lia293?oc=5"
+    },
+    {
+      "id": "KR-samsung-https://news.google.com/rss/articles/CBMibEFVX3lxTE8tVUgwa3p0UE1GUmtRTG0xVmV5N1kzQkl1V0VvU2FRRE1zVzhmYjVIVjlmT2VETkV0alVPaXA4R0NYSEozemVQdWVrRENsUzZxYUdscU0yMGl4Zk9fb1BJTzlfdVlMYzZtbndmVtIBckFVX3lxTE1DZUZXV2t6elJYRWRTZTdPcUlYMkhsQldCMDE4MjRHMnEtSUVGWGpQc0dHQW1jdjlBNG9Ia1hKeDVEM3pPb3dDTkFLRjlfV1k4TFdIWS1NUHd5T3A4V1g4TTZPaGZPTVJvdDlyZFJXNklvZw?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "samsung",
+      "keywordLabel": "삼성전자",
+      "query": "삼성전자",
+      "title": "삼성전자, 日 도코모와 AI 무선망 검증…통신 속도저하 절반으로 - 머니투데이 - 머니투데이",
+      "source": "머니투데이",
+      "publishedAt": "Mon, 10 Aug 2026 01:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tVUgwa3p0UE1GUmtRTG0xVmV5N1kzQkl1V0VvU2FRRE1zVzhmYjVIVjlmT2VETkV0alVPaXA4R0NYSEozemVQdWVrRENsUzZxYUdscU0yMGl4Zk9fb1BJTzlfdVlMYzZtbndmVtIBckFVX3lxTE1DZUZXV2t6elJYRWRTZTdPcUlYMkhsQldCMDE4MjRHMnEtSUVGWGpQc0dHQW1jdjlBNG9Ia1hKeDVEM3pPb3dDTkFLRjlfV1k4TFdIWS1NUHd5T3A4V1g4TTZPaGZPTVJvdDlyZFJXNklvZw?oc=5"
     },
     {
       "id": "KR-ai-https://news.google.com/rss/articles/CBMib0FVX3lxTFB2bHhxNERnQ2pGTi0teHJQc2d5Uzk1NDJUejRhS1hBbG1fdTNwQXlEWWFTUlR1cWVtVER3WWpfR1R2clRyR1RDODlZbmZZWk42Z3ZzQjlTRmYwaklSTlZSaVJFZzQxbGhxalJmWkQ5dw?oc=5",
@@ -809,28 +965,28 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2bHhxNERnQ2pGTi0teHJQc2d5Uzk1NDJUejRhS1hBbG1fdTNwQXlEWWFTUlR1cWVtVER3WWpfR1R2clRyR1RDODlZbmZZWk42Z3ZzQjlTRmYwaklSTlZSaVJFZzQxbGhxalJmWkQ5dw?oc=5"
     },
     {
-      "id": "KR-samsung-https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2UWwtYnlzSHNrczJjempaRzZia0Q2STVyZndKMXdoNm9tZ0pDVVRzM2NCaUx6YkpiSlFQb1UtSF9DbEhMeV9VXzFhUFl0cmdiZXJOTE5ScGVMUQ?oc=5",
+      "id": "KR-generative-ai-https://news.google.com/rss/articles/CBMibEFVX3lxTFA1aW52YzlFS3htRUFybFlIaFRzSFFZdVI4SEZSakxrdktYaU5ENC1TMFNzMkVVSjRfOTd4eFgzWjIwdm9aOWllc21rRjIxX0N1STVSWVpFWXRqbmVQZzZvcUp0a1llX2dvcjg3dQ?oc=5",
       "region": "KR",
       "regionLabel": "한국",
-      "keywordId": "samsung",
-      "keywordLabel": "삼성전자",
-      "query": "삼성전자",
-      "title": "삼성전자-NTT 도코모, AI-RAN 기반 통신 서비스 품질 최적화 기술 검증 - 뉴스1",
-      "source": "뉴스1",
-      "publishedAt": "Mon, 10 Aug 2026 00:55:57 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2UWwtYnlzSHNrczJjempaRzZia0Q2STVyZndKMXdoNm9tZ0pDVVRzM2NCaUx6YkpiSlFQb1UtSF9DbEhMeV9VXzFhUFl0cmdiZXJOTE5ScGVMUQ?oc=5"
+      "keywordId": "generative-ai",
+      "keywordLabel": "생성형 AI",
+      "query": "생성형 AI",
+      "title": "호반문화재단, ‘NEXT ART AI’ 개최…생성형 AI와 예술의 미래 조명 - 나눔경제뉴스",
+      "source": "나눔경제뉴스",
+      "publishedAt": "Mon, 10 Aug 2026 00:53:25 GMT",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1aW52YzlFS3htRUFybFlIaFRzSFFZdVI4SEZSakxrdktYaU5ENC1TMFNzMkVVSjRfOTd4eFgzWjIwdm9aOWllc21rRjIxX0N1STVSWVpFWXRqbmVQZzZvcUp0a1llX2dvcjg3dQ?oc=5"
     },
     {
-      "id": "US-nvidia-https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHl3U203YllMR3hzU3ZOUWhGMkFrdFNRUTJRZmJPWGtYckM0aFRQcGMzR2VWRmxmTEEySl9KdFlsdmJ1TnhTb3UydktFTHdtVTBRSEhUMWRGel9CTGJVZ0dJaW5Ea0RWQXVLcTVTLUxmVW5MT3JqU0VzMGkzdHZJNU51RFNZMGJGbWhfczhsWm1oVThLN2E0Q1Bn?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "nvidia",
-      "keywordLabel": "NVIDIA",
-      "query": "NVIDIA",
-      "title": "Mark Cuban Compared Nvidia to a Dot-Com-Era IPO Machine \"Funding Everyone and Anyone.\" Here's What That Means for AI Stocks. - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "publishedAt": "Mon, 10 Aug 2026 00:50:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHl3U203YllMR3hzU3ZOUWhGMkFrdFNRUTJRZmJPWGtYckM0aFRQcGMzR2VWRmxmTEEySl9KdFlsdmJ1TnhTb3UydktFTHdtVTBRSEhUMWRGel9CTGJVZ0dJaW5Ea0RWQXVLcTVTLUxmVW5MT3JqU0VzMGkzdHZJNU51RFNZMGJGbWhfczhsWm1oVThLN2E0Q1Bn?oc=5"
+      "id": "KR-ai-https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DX3JZOS11SGhkU2ZPTUlHemVVa0lfRWV2SHZuZnN0SlJ0UG5CWVNEZk40WlRMQ3dGMmhMOEdkSFV4UEdvREJ5Q0JLaXR3dFltRE9JaU53?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "ai",
+      "keywordLabel": "인공지능",
+      "query": "인공지능",
+      "title": "오픈AI는 왜 ‘루나’를 무료로 풀었을까 - 지디넷코리아",
+      "source": "지디넷코리아",
+      "publishedAt": "Mon, 10 Aug 2026 00:42:56 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DX3JZOS11SGhkU2ZPTUlHemVVa0lfRWV2SHZuZnN0SlJ0UG5CWVNEZk40WlRMQ3dGMmhMOEdkSFV4UEdvREJ5Q0JLaXR3dFltRE9JaU53?oc=5"
     },
     {
       "id": "KR-generative-ai-https://news.google.com/rss/articles/CBMijgJBVV95cUxQU2xLelVZRWVjalhZOUd2TEgtbTVaMUNWc01DMDFPV3hkLVBkNmoyV0hzUHFZNXY4SEVlYUhmSER6Q1BfcVhfaVVicF80YXhSdThpWFdRbVdkcmdXTUdFTVNvTkxPckdFbUdUMHJ1VG1uX0xuSk5mYjRoSVJaRVVBTlVxYXdOR2sybjVEWlozUWx5OVN3RGlPT1dmM3M5d1FBc1VnVzE5YUFxN0dpY2ZEa3VLOTd0d3JmT041WDNQMy1nclFkLXJmeEFuV0Y5OFNkUTA0Zm9VSXdHbmlodllWVFdCa1BaT0ltSUVZdnVaN3J1Ylk3TTcxd0dVVUctellmUFNRYUhNTVlUNDU5SlE?oc=5",
@@ -839,8 +995,8 @@
       "keywordId": "generative-ai",
       "keywordLabel": "생성형 AI",
       "query": "생성형 AI",
-      "title": "호반문화재단, '넥스트 아트 AI' 개최…생성형 AI 이미지·영상 작품 공모 - dailian.co.kr",
-      "source": "dailian.co.kr",
+      "title": "호반문화재단, '넥스트 아트 AI' 개최…생성형 AI 이미지·영상 작품 공모 - 데일리안",
+      "source": "데일리안",
       "publishedAt": "Mon, 10 Aug 2026 00:40:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQU2xLelVZRWVjalhZOUd2TEgtbTVaMUNWc01DMDFPV3hkLVBkNmoyV0hzUHFZNXY4SEVlYUhmSER6Q1BfcVhfaVVicF80YXhSdThpWFdRbVdkcmdXTUdFTVNvTkxPckdFbUdUMHJ1VG1uX0xuSk5mYjRoSVJaRVVBTlVxYXdOR2sybjVEWlozUWx5OVN3RGlPT1dmM3M5d1FBc1VnVzE5YUFxN0dpY2ZEa3VLOTd0d3JmT041WDNQMy1nclFkLXJmeEFuV0Y5OFNkUTA0Zm9VSXdHbmlodllWVFdCa1BaT0ltSUVZdnVaN3J1Ylk3TTcxd0dVVUctellmUFNRYUhNTVlUNDU5SlE?oc=5"
     },
@@ -857,6 +1013,18 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLU1heFM4R3hkQW1jRkVUbHJaUVdhd0psYkF6SVgwMDV1dXVJa2F4RkZGVGo3X25veU1IUXVHa0MwRDRrVXFTNVpPRHFkd3VBSllqX09HTEtDVDE4ckJ5UmlZLUxoZ3AxTVJsWndsNi1uZWNIeS1RbUpwRGppdHFFN2JUd0dleFNhVVA5bHhpZU9WNDdaU25KNGtjMWRxNmJsZEJEa2ZQQzZ6eWZSQ0ZHRlV4eTVQc3A0b2o5WDd4Qk9JS1JGaUNraExkTjcwX2I2eFktOFFsbDBXdlY4QUln0gHkAUFVX3lxTE1HN3piTzJrd19SYjl4MXgyeHpQWWJ6dm9lUGNoV3pWbHVfRkJNTGwwUmstZnRvRGdBU0d1a1AtRXcxNHYwUUpraTJVWl8xTVVNTDM1NDNYeDY1YTQtR3BBd0pwNVd5TXd1Z09FTjFQSm9BUHJDdkktRTJ2S1BpY21GR1Z5U0lMMElPbWV1LTBUb09kcWhGZ2hlSExOU1JJSnZrbmNNVUlsWDNmSVZpbGRHLVJtdlVETUtadVFnYllEUGZzYjhuN2lteWVMb3JHejdmMDN0MlA5RGREcm1NMk5OUGFEVw?oc=5"
     },
     {
+      "id": "US-micron-https://news.google.com/rss/articles/CBMilwFBVV95cUxORFUya25Rd2tVTFVIVEdVOUtRVnZCaHhFOWhsQWV2YWxIQkxVXzdJTHhwM2QydUVQLXlPcEotUXkxdG5PcTlRZGtka2tBb1BoZndacF9DRFpPYzRXNDlzZXUzaDZIWVlhQVh2ZzNZdnduUnZyNFdQWldLaVNsVmIwdUhKaXd0ZXJuZ1NMZXBtT3FVWE9qaHhj?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "micron",
+      "keywordLabel": "Micron",
+      "query": "Micron",
+      "title": "SK Hynix and Samsung Just Sent a Major Warning to Micron Investors - The Motley Fool",
+      "source": "The Motley Fool",
+      "publishedAt": "Mon, 10 Aug 2026 00:30:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORFUya25Rd2tVTFVIVEdVOUtRVnZCaHhFOWhsQWV2YWxIQkxVXzdJTHhwM2QydUVQLXlPcEotUXkxdG5PcTlRZGtka2tBb1BoZndacF9DRFpPYzRXNDlzZXUzaDZIWVlhQVh2ZzNZdnduUnZyNFdQWldLaVNsVmIwdUhKaXd0ZXJuZ1NMZXBtT3FVWE9qaHhj?oc=5"
+    },
+    {
       "id": "KR-generative-ai-https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aNDhqLVZZYTdGaUk1RTNfOEdxa3I3LXplZDFmUFdrWndUdlB0OFAxcldEdUFnOFNaa3dZcEdZMnFqVm5jZTZPTDUwaW55Szg?oc=5",
       "region": "KR",
       "regionLabel": "한국",
@@ -867,18 +1035,6 @@
       "source": "v.daum.net",
       "publishedAt": "Mon, 10 Aug 2026 00:29:49 GMT",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aNDhqLVZZYTdGaUk1RTNfOEdxa3I3LXplZDFmUFdrWndUdlB0OFAxcldEdUFnOFNaa3dZcEdZMnFqVm5jZTZPTDUwaW55Szg?oc=5"
-    },
-    {
-      "id": "KR-ai-https://news.google.com/rss/articles/CBMibEFVX3lxTFAxQXB4a1E5bExEenlVVjAzLUxNbTktTVpHbk5kdGRjalFFbnZxWGh1NTI0VXJZanM5M3o4VEdMTU02U1R1S0RVTnZ3R01aSlNUaFVEQmluUnhLTTR2RGd5ZldjaXlyUi1XeUczdQ?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "ai",
-      "keywordLabel": "인공지능",
-      "query": "인공지능",
-      "title": "중국 AI 배우 60초 광고료 5500만원 …‘진짜 배우’는 실업자 전락 - 한겨레",
-      "source": "한겨레",
-      "publishedAt": "Mon, 10 Aug 2026 00:24:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxQXB4a1E5bExEenlVVjAzLUxNbTktTVpHbk5kdGRjalFFbnZxWGh1NTI0VXJZanM5M3o4VEdMTU02U1R1S0RVTnZ3R01aSlNUaFVEQmluUnhLTTR2RGd5ZldjaXlyUi1XeUczdQ?oc=5"
     },
     {
       "id": "KR-generative-ai-https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OTTFOWERZbHZ2UGExV19MRmFGQW1rc1l0ZU5nY2lMS2hlNnpNOVpQMW96Q091aTgtQkp5WjVlVnpyZFp0X291ZWlJaHFqZnAwTFZ1UklTcmRWenVH?oc=5",
@@ -905,6 +1061,18 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFd01CU1FJT1ZTNE02cE5fTzhETFNXaC1ZYU5NWmhjXzdpN0NjNlNKUTZUWm8xSTMzQUIzaTM1Sk83YWNYRlMxWmt5bGRZc2xraVFaZmdCQ1FXYzhQbk9rbVFoeGJxampROFppdjBaMUY?oc=5"
     },
     {
+      "id": "KR-samsung-https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmVzZfWFJFUnpwekNaRXZ6VXB1WHloYmlLSjYyTUZ4MEZMWEFYMFBwdDFVcWlSekNjRVNuc0Y1bk9iZFN2Qkpoa1JCQjNmUTVyaDZfcXRtM3JoeE0?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "samsung",
+      "keywordLabel": "삼성전자",
+      "query": "삼성전자",
+      "title": "[단독] 삼성, 발전사업 전담 법인 검토…내년 출범 추진 - 에너지경제신문",
+      "source": "에너지경제신문",
+      "publishedAt": "Mon, 10 Aug 2026 00:16:19 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmVzZfWFJFUnpwekNaRXZ6VXB1WHloYmlLSjYyTUZ4MEZMWEFYMFBwdDFVcWlSekNjRVNuc0Y1bk9iZFN2Qkpoa1JCQjNmUTVyaDZfcXRtM3JoeE0?oc=5"
+    },
+    {
       "id": "KR-generative-ai-https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vNXhJemNIZVdfalRZVGg4RGhha1JZUEZjcjdhUUEtX3RDS2FzOEFDREl1Uml2cTd5T1FjZXNDeXQyNzUyWHFVQjhCbjJDU0Q2cmhr?oc=5",
       "region": "KR",
       "regionLabel": "한국",
@@ -915,18 +1083,6 @@
       "source": "네이트",
       "publishedAt": "Mon, 10 Aug 2026 00:13:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vNXhJemNIZVdfalRZVGg4RGhha1JZUEZjcjdhUUEtX3RDS2FzOEFDREl1Uml2cTd5T1FjZXNDeXQyNzUyWHFVQjhCbjJDU0Q2cmhr?oc=5"
-    },
-    {
-      "id": "US-qualcomm-https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PaFpUVl9aUnBMX0pFdlZLdUNsUnZMMFJYNFJzdEVsMTNZRkZ1ZjZoYTY2Q044MEdhWFVTUWRxZzVrVkQtUWdoRzdZM04yTjJ4TWVQdHZpLVJuSTJjakVJWEVrTS1vZ9IBa0FVX3lxTE9yV0ppRnp6c1l5c2phb0M3WGVXbnQteXIwTWpDM2VuUXEtMWl0b3JWQnREOG1lSnBZREN4aWZZam5QVEtaZ1RhVmNrdW1pdlh1UVRUUVdnZXo3Z0JNRGhuUS1UUjIxWEFqY2VV?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "qualcomm",
-      "keywordLabel": "Qualcomm",
-      "query": "Qualcomm",
-      "title": "Qualcomm-Backed 6G Partnerships - Trend Hunter",
-      "source": "Trend Hunter",
-      "publishedAt": "Mon, 10 Aug 2026 00:11:46 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PaFpUVl9aUnBMX0pFdlZLdUNsUnZMMFJYNFJzdEVsMTNZRkZ1ZjZoYTY2Q044MEdhWFVTUWRxZzVrVkQtUWdoRzdZM04yTjJ4TWVQdHZpLVJuSTJjakVJWEVrTS1vZ9IBa0FVX3lxTE9yV0ppRnp6c1l5c2phb0M3WGVXbnQteXIwTWpDM2VuUXEtMWl0b3JWQnREOG1lSnBZREN4aWZZam5QVEtaZ1RhVmNrdW1pdlh1UVRUUVdnZXo3Z0JNRGhuUS1UUjIxWEFqY2VV?oc=5"
     },
     {
       "id": "KR-samsung-https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEQkRxODV6SlpsOFc3M1c5OVk2c1lWWE9TS3VPWU11UTJIYnp4S0xYRzI2WDZ3V0RyWUZEQjU0ZnJGQ1Z3VnNVQm5BSQ?oc=5",
@@ -941,18 +1097,6 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEQkRxODV6SlpsOFc3M1c5OVk2c1lWWE9TS3VPWU11UTJIYnp4S0xYRzI2WDZ3V0RyWUZEQjU0ZnJGQ1Z3VnNVQm5BSQ?oc=5"
     },
     {
-      "id": "KR-samsung-https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqMk1tWnlVNEpOblJJMzRxb0Z6di1MaDB5elJvcUpiUnRJY0JlZHBfXzJ3T194dDlsM2JrR2d0NVZ3Z2pIVkVic3dhRjJqdEI0UXktdklGc0dYZw?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "samsung",
-      "keywordLabel": "삼성전자",
-      "query": "삼성전자",
-      "title": "삼성전자 팔고 SK하이닉스 매수…1% 초고수의 선택은 - 한국경제",
-      "source": "한국경제",
-      "publishedAt": "Mon, 10 Aug 2026 00:09:21 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqMk1tWnlVNEpOblJJMzRxb0Z6di1MaDB5elJvcUpiUnRJY0JlZHBfXzJ3T194dDlsM2JrR2d0NVZ3Z2pIVkVic3dhRjJqdEI0UXktdklGc0dYZw?oc=5"
-    },
-    {
       "id": "KR-generative-ai-https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tQUVsazhJUUYtZkdNY2taSHVtMTJfUy1WcUJWQmZEMjlCN0VKY2tnd3RDcUN0azAyb3FpSmtTWWE2V1I3NkpZcHVFd0lNNGYtbjNYSERfVGwzWV9aTjZWSkxuNlc?oc=5",
       "region": "KR",
       "regionLabel": "한국",
@@ -963,6 +1107,42 @@
       "source": "서울경제TV",
       "publishedAt": "Mon, 10 Aug 2026 00:04:48 GMT",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tQUVsazhJUUYtZkdNY2taSHVtMTJfUy1WcUJWQmZEMjlCN0VKY2tnd3RDcUN0azAyb3FpSmtTWWE2V1I3NkpZcHVFd0lNNGYtbjNYSERfVGwzWV9aTjZWSkxuNlc?oc=5"
+    },
+    {
+      "id": "KR-sk-hynix-https://news.google.com/rss/articles/CBMif0FVX3lxTE1aQ0VkbzN4V1BBdDBXcVphUTNodGFadHVtVHI1ME1FU3FOU2ZrazhOV2lCd29YanhPSG1rWDdHSDNHTV9HTzVoOE13djFCM25UZ2RwZUt3TmhUXzB5SEpMcmQ2QUZrczJjY0k1Y2FwUHpUYVBHNWJBY25sX2FjRDg?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "sk-hynix",
+      "keywordLabel": "SK하이닉스",
+      "query": "SK하이닉스",
+      "title": "\"SK하이닉스, 중국 충칭 패키징 공장 지분매각 등 검토\" - YTN 사이언스",
+      "source": "YTN 사이언스",
+      "publishedAt": "Mon, 10 Aug 2026 00:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aQ0VkbzN4V1BBdDBXcVphUTNodGFadHVtVHI1ME1FU3FOU2ZrazhOV2lCd29YanhPSG1rWDdHSDNHTV9HTzVoOE13djFCM25UZ2RwZUt3TmhUXzB5SEpMcmQ2QUZrczJjY0k1Y2FwUHpUYVBHNWJBY25sX2FjRDg?oc=5"
+    },
+    {
+      "id": "KR-ai-https://news.google.com/rss/articles/CBMif0FVX3lxTE9sQm9xRndaZU5hZWotNEIxNTZDR2ZQOE5sek4yVHRyckxxZUROTEJONUtXNDM0dzlVU1gzZnZHZnU2Y1NZb3Z3SzB1VWd0bWYxYXRibVhMRDY0a1JTc3B3cVRzd2R4RlB4Q0djSFBiUVRta1RDWVFmNkV2T3dBOWs?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "ai",
+      "keywordLabel": "인공지능",
+      "query": "인공지능",
+      "title": "클로드가 10분 만에 사내망 해킹...\"99%가 뚫린다\" - YTN 사이언스",
+      "source": "YTN 사이언스",
+      "publishedAt": "Mon, 10 Aug 2026 00:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sQm9xRndaZU5hZWotNEIxNTZDR2ZQOE5sek4yVHRyckxxZUROTEJONUtXNDM0dzlVU1gzZnZHZnU2Y1NZb3Z3SzB1VWd0bWYxYXRibVhMRDY0a1JTc3B3cVRzd2R4RlB4Q0djSFBiUVRta1RDWVFmNkV2T3dBOWs?oc=5"
+    },
+    {
+      "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMiVEFVX3lxTE94cEU3bFNvcHBRMGFCWXJVMHVab0ZtUUZaVlBBY1hjbFd5RXRxSzBrRFZ5UFByZzB4a3lHOG9ZRHRjbVZHSVlfdWxyLVVEeWpxNUtGTw?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "semiconductor",
+      "keywordLabel": "반도체",
+      "query": "반도체",
+      "title": "\"이명박 대통령 임기 안에 반도체를\"...정청래, 또 이재명 대통령 이름 말실수 - JTBC",
+      "source": "JTBC",
+      "publishedAt": "Sun, 09 Aug 2026 23:59:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94cEU3bFNvcHBRMGFCWXJVMHVab0ZtUUZaVlBBY1hjbFd5RXRxSzBrRFZ5UFByZzB4a3lHOG9ZRHRjbVZHSVlfdWxyLVVEeWpxNUtGTw?oc=5"
     },
     {
       "id": "KR-generative-ai-https://news.google.com/rss/articles/CBMib0FVX3lxTE80Y0cxcjRTOXhXYjZLdUdDeEU4NC05Y19FRjM0TXZJSllLTG1nTHdHOVBoYmc0WTdPVVpmRXVXVkVkTDlydGI0SnpOVWlrYV8tR1pnVjdFMlpDbExPZnFlXzRlNGVJbU5OQXB6ZjdIY9IBc0FVX3lxTE1xeXMyVUViRHVoTUc3eGxzOWYySEhkZ0VLa1gyRGlHd0syVGx5NnpKVUZtS2hNOUoxZVlxWkN4NTVTSGFRQVVKa3RfRnRVdE44LVh2d1hxYjVPUXA4YWh4SG1RS2pMR1hVc1JweGk5ZzRQYkk?oc=5",
@@ -1013,18 +1193,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tbXZpdV8xVHMzUnpZeExjTFd1enl4WnRCTVd6VzdncU1NWVhTdmlZeGk0UTJ2ODBiaDFoeHc4ZTlEX3lvcVdJMU1Ydml3STVpSDlKYk9mQ2pfZw?oc=5"
     },
     {
-      "id": "KR-sk-hynix-https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiR2llWHAzU0piUE40c0szTWdxSVNtdGVKZXVrZ3h0Zm8xSzBEa1kxVzF6b08xMXZUdFA3S2doOGxyTl9XZWpQWk1wTE5EWk5QM2tMZmVmMkdQdUFwSHBv?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "sk-hynix",
-      "keywordLabel": "SK하이닉스",
-      "query": "SK하이닉스",
-      "title": "SK하이닉스, '100조원대 주주환원' 이르면 이달 발표... 주가 반전 카드 될까 - 조세일보",
-      "source": "조세일보",
-      "publishedAt": "Sun, 09 Aug 2026 23:42:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiR2llWHAzU0piUE40c0szTWdxSVNtdGVKZXVrZ3h0Zm8xSzBEa1kxVzF6b08xMXZUdFA3S2doOGxyTl9XZWpQWk1wTE5EWk5QM2tMZmVmMkdQdUFwSHBv?oc=5"
-    },
-    {
       "id": "KR-generative-ai-https://news.google.com/rss/articles/CBMiUkFVX3lxTE5URGQzTGh2SXFVMVRxbjVhM1JRNi1OLWEwSlJlUW9Oa2gxLURDcWx1cWk5enpJcVhSR3IyNWlqRXE1dnFuWGhtSWIyZEdDTTc3ZHc?oc=5",
       "region": "KR",
       "regionLabel": "한국",
@@ -1037,12 +1205,12 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5URGQzTGh2SXFVMVRxbjVhM1JRNi1OLWEwSlJlUW9Oa2gxLURDcWx1cWk5enpJcVhSR3IyNWlqRXE1dnFuWGhtSWIyZEdDTTc3ZHc?oc=5"
     },
     {
-      "id": "KR-samsung-https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQWhaTk1PcnRwSTdNUkJHbHlvMmtSMWMzVmlBcjBfSjU5LV9VXzBPZUxCWk9NRmJxWkFqaG0xR05zb1NlWldxRUw4akNNNkpSNDB4V3Bna2ZBc04tWXA4NkwzcnMxbURNUklzWWVsTDdPYWhFcExYcVA1aFhEVUVoTzdIT3RXdEtTVEhN?oc=5",
+      "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQWhaTk1PcnRwSTdNUkJHbHlvMmtSMWMzVmlBcjBfSjU5LV9VXzBPZUxCWk9NRmJxWkFqaG0xR05zb1NlWldxRUw4akNNNkpSNDB4V3Bna2ZBc04tWXA4NkwzcnMxbURNUklzWWVsTDdPYWhFcExYcVA1aFhEVUVoTzdIT3RXdEtTVEhN?oc=5",
       "region": "KR",
       "regionLabel": "한국",
-      "keywordId": "samsung",
-      "keywordLabel": "삼성전자",
-      "query": "삼성전자",
+      "keywordId": "semiconductor",
+      "keywordLabel": "반도체",
+      "query": "반도체",
       "title": "반도체株 안전판인가 족쇄인가…삼성·SK하이닉스 ‘5년 계약’의 두 얼굴 - 조선일보",
       "source": "조선일보",
       "publishedAt": "Sun, 09 Aug 2026 23:29:00 GMT",
@@ -1073,15 +1241,15 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PSzhzRFF1aHNiNjZSbDI2WFI1TG1RODctTlNwRzcxbEdfS0J3SUR2eE1RTGpwWGZZR1ktOXV4SFlPZTRabm56QXA4MzF6Vk0xUm4zUURSeUlqaXdDQ1NaUWdLd3pJemPSAWxBVV95cUxQSWI3WDhkcVRERFI3dUxhc0RMcl82bUhGcFJSMUtQcmFwN1FYcWFqY255S1d2bkY5WllnanBDLVAtcjgtRnNiNWVSQTlZTTVFSXZDR2hhYXZwdHZlbW5TMFhPOFJYMTEzZ0FSRy0?oc=5"
     },
     {
-      "id": "KR-sk-hynix-https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fazZiRDRTRjFMZm5rbWd0dFI2MXh5R0YtSDRsQnRvcXNyUW15M3dyVl9yLUJQU3A2VmhEa2pNdnkyTlQtSnpFOEtMU2ZzT3M?oc=5",
+      "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fazZiRDRTRjFMZm5rbWd0dFI2MXh5R0YtSDRsQnRvcXNyUW15M3dyVl9yLUJQU3A2VmhEa2pNdnkyTlQtSnpFOEtMU2ZzT3M?oc=5",
       "region": "KR",
       "regionLabel": "한국",
-      "keywordId": "sk-hynix",
-      "keywordLabel": "SK하이닉스",
-      "query": "SK하이닉스",
+      "keywordId": "semiconductor",
+      "keywordLabel": "반도체",
+      "query": "반도체",
       "title": "추미애 “반도체 폐수부터 줄여라”…삼성·SK하이닉스 정조준 - v.daum.net",
       "source": "v.daum.net",
-      "publishedAt": "Sun, 09 Aug 2026 23:08:04 GMT",
+      "publishedAt": "Sun, 09 Aug 2026 23:08:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fazZiRDRTRjFMZm5rbWd0dFI2MXh5R0YtSDRsQnRvcXNyUW15M3dyVl9yLUJQU3A2VmhEa2pNdnkyTlQtSnpFOEtMU2ZzT3M?oc=5"
     },
     {
@@ -1095,6 +1263,18 @@
       "source": "samsung.com",
       "publishedAt": "Sun, 09 Aug 2026 23:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNNF9lVXdSenRpQjh2VUYwWF9POXZJcVFvSkt1VHFJTVNGZG5DMmlYNzllbUNrMUE1VkpnUU1WU284cmhlcUREaTdLNlNSY1hnSnlxb0VuVVJIZ2ZkS0hWZmE4QWtpbmt2OWk0ZDA0SUpDQ3lEMGtfRmphbFd2OWZWRTdVamdodlJ0Q1F3OWdEYW9JZlV1OGJGeklOR1AwTnR0S3NmQ2dhQm9KcXVKanUtVy1RaE8weU1DYUNNZkMyc2k0NV94NVJFNFo5NDVmOUJRMmd4VkcxOHBjMHJDa25TbFRSVGIzeGNuUHQ4OW1IanFnWG1RUVhlN2VWSVpESGFnMlYybkotZlpNYjBOcW9ZOWF6VWxBTkFRQllyWkg1RVBKRDJVWkw2cTUwb3hicEM2M19HSEFkSjRURnE4Z3VfUDUwUQ?oc=5"
+    },
+    {
+      "id": "KR-foundry-https://news.google.com/rss/articles/CBMiakFVX3lxTE9lcGp2anY5WFREVEdtaEpmN2h6c1JlVGFWVzlOTWp3RGsweTNxNTl3VFZKcS1hSV9HOWZmZmlQMkl3ZTJrLTh0NnJkREVCSnF3Wi00Zk1ZdHBVbnltcnI5UHhSYUJFbm1GN3c?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "foundry",
+      "keywordLabel": "파운드리",
+      "query": "파운드리",
+      "title": "엣지 AI 성능 병목, 맞춤형 ‘스토리지 파운드리’로 해결해야 한다 - 지티티코리아",
+      "source": "지티티코리아",
+      "publishedAt": "Sun, 09 Aug 2026 23:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lcGp2anY5WFREVEdtaEpmN2h6c1JlVGFWVzlOTWp3RGsweTNxNTl3VFZKcS1hSV9HOWZmZmlQMkl3ZTJrLTh0NnJkREVCSnF3Wi00Zk1ZdHBVbnltcnI5UHhSYUJFbm1GN3c?oc=5"
     },
     {
       "id": "KR-foundry-https://news.google.com/rss/articles/CBMicEFVX3lxTE9mb2lKMHFnYUczbTAzQVcyUmx5T0tSbEdxUWxOUS1ZRkNON1JST0RYTXFZS1FtQmlZaWZpRkw0eVZDNjE1djZLMGFzbXhLU0JvOUhITjhxNkZHcDVlSVVDWkY0Z3dMdmFSXzgyNXRDR3g?oc=5",
@@ -1121,52 +1301,16 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVGgtckhnYXhBQk5NMmRncldRQWlnSmFFUFJjdlJKQU5uek1wZHExMHVXM3IxQTktZ05vbFp0SWVOblhBUjRrUUxUaUIyRXBKTjJFWVdWLVh2ei1VekZ3eXZrZC12RjEzVHppTjNkamVnV0pZRXA5V1ZlSXRlc0JfZ1VnUDVNQUJK0gGcAUFVX3lxTE1HZnpUQkNKOHVZcFdiV3RUNDJfNnZlUzJIMGdSak1kUjQ4UnpTVmdaWE1mMTM5ejdsLUtEeDBQS0pEQ0JKMEVHcUtLbDk2NnJENXZfaTlUZEIyNnF5YWNsQjFzVFVtb0lCMVVnc1ZpRjNHMXV1Zzd0a3ctejVybE1RZVBmTzdXb2JfcGdBcW02d2JKQWRseENvUmh6Zw?oc=5"
     },
     {
-      "id": "US-generative-ai-https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ga0ZMR2J5MzlSWWtNQVFzRnpMa0EzUUc2b3VtSzR1SWM5S05iMUxyZW1jRm5MVWJBTko3T1RGaVNTYXRYUHhnbW9QYmpQb3htaktaMEktSW5OWlpkMEsteWdWWThDRExwSk91Nng2anhlamhEMXVj?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "generative-ai",
-      "keywordLabel": "Generative AI",
-      "query": "generative AI",
-      "title": "Amorepacific Launches AI Research Platform to Accelerate Beauty Innovation - BeautyMatter",
-      "source": "BeautyMatter",
-      "publishedAt": "Sun, 09 Aug 2026 22:41:15 GMT",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ga0ZMR2J5MzlSWWtNQVFzRnpMa0EzUUc2b3VtSzR1SWM5S05iMUxyZW1jRm5MVWJBTko3T1RGaVNTYXRYUHhnbW9QYmpQb3htaktaMEktSW5OWlpkMEsteWdWWThDRExwSk91Nng2anhlamhEMXVj?oc=5"
-    },
-    {
-      "id": "KR-samsung-https://news.google.com/rss/articles/CBMigAFBVV95cUxQTkZTaXZrSnUzUXhwT0lqRHBxWTJqODFhX29uZkp1Zk9teF9hVW5IMlNfeGpDRmtYaTY0YWc2bHpOMldjVnNEem9QSmctdi1UTlhsU0o2STNUUlpGNmYzemZCMk9LZGl1Nk9wNmx3UExjT3hXMkhrTGZaWmtIMFpFZg?oc=5",
+      "id": "KR-samsung-https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OenM5a2hjak9KcFdxTDFkSTQ2WXBMSFdnX1o3N1RESWthRWlWX1FLUGF0Wk9xNlFHZUpodDdzeUxQN1hVVmIwbTA5S3RWSlFySHBvd3l6MS05dw?oc=5",
       "region": "KR",
       "regionLabel": "한국",
       "keywordId": "samsung",
       "keywordLabel": "삼성전자",
       "query": "삼성전자",
-      "title": "\"60만전자 간다\" 삼성전자, 주주환원 최대 200조 전망 - edaily.co.kr",
-      "source": "edaily.co.kr",
-      "publishedAt": "Sun, 09 Aug 2026 22:38:50 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTkZTaXZrSnUzUXhwT0lqRHBxWTJqODFhX29uZkp1Zk9teF9hVW5IMlNfeGpDRmtYaTY0YWc2bHpOMldjVnNEem9QSmctdi1UTlhsU0o2STNUUlpGNmYzemZCMk9LZGl1Nk9wNmx3UExjT3hXMkhrTGZaWmtIMFpFZg?oc=5"
-    },
-    {
-      "id": "KR-hbm-https://news.google.com/rss/articles/CBMid0FVX3lxTFBGS0E5bkV0djNBdHhjZ3k1SWVZWmdfVVp3X1h5T0htQzZYclNFLUVXdGlfTGFNV2szRkg4Q2ZnRFRFSjBhcWQtNWVpckx4VGpub3hoS3JLZTlONXZQQnRtWkpzMzNPV1B5emg1LVpIUktFNUFuUkVr?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "hbm",
-      "keywordLabel": "HBM",
-      "query": "HBM",
-      "title": "JP모간 ＂SK하이닉스, 영원한 1등은 없다＂…격돌하는 HBM 3사 [ 글로벌 IB리포트 ] - 한국경제TV",
-      "source": "한국경제TV",
-      "publishedAt": "Sun, 09 Aug 2026 22:04:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGS0E5bkV0djNBdHhjZ3k1SWVZWmdfVVp3X1h5T0htQzZYclNFLUVXdGlfTGFNV2szRkg4Q2ZnRFRFSjBhcWQtNWVpckx4VGpub3hoS3JLZTlONXZQQnRtWkpzMzNPV1B5emg1LVpIUktFNUFuUkVr?oc=5"
-    },
-    {
-      "id": "US-amd-https://news.google.com/rss/articles/CBMixgFBVV95cUxQbFU4YmJ0Y0l2cG1wejJRUGpzZGlDZWxYWFhBMFdIZVVFWEI2Z0RLMWV5TzlCTmwwcGkwWlBGM1RUR2F3NFQ0b2dzWm53QVhzN2pqd1JhRnFnVnNab0tEQzdQcUVRYlNZVXBEclRHR1FvblhSbVBGN3Zkek9pX0o1TEdkYWZDMWd2a3pWQWd1QUdtand1V3JaMXRQclUxbGN4TzljSVQ1UlBZdll1ZmpoU0VfQk43TDhVbjBUTDNWVWZHS2lvMVE?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "amd",
-      "keywordLabel": "AMD",
-      "query": "AMD",
-      "title": "AMD Ryzen 9 9950X3D deal slashes $100 off the price of the most powerful retail CPU on the market - PC Guide",
-      "source": "PC Guide",
-      "publishedAt": "Sun, 09 Aug 2026 21:45:53 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbFU4YmJ0Y0l2cG1wejJRUGpzZGlDZWxYWFhBMFdIZVVFWEI2Z0RLMWV5TzlCTmwwcGkwWlBGM1RUR2F3NFQ0b2dzWm53QVhzN2pqd1JhRnFnVnNab0tEQzdQcUVRYlNZVXBEclRHR1FvblhSbVBGN3Zkek9pX0o1TEdkYWZDMWd2a3pWQWd1QUdtand1V3JaMXRQclUxbGN4TzljSVQ1UlBZdll1ZmpoU0VfQk43TDhVbjBUTDNWVWZHS2lvMVE?oc=5"
+      "title": "\"삼성전자, 지금 당장 사라\"…200조 '역대급 호재' 예고에 들썩 - 한국경제",
+      "source": "한국경제",
+      "publishedAt": "Sun, 09 Aug 2026 22:29:47 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OenM5a2hjak9KcFdxTDFkSTQ2WXBMSFdnX1o3N1RESWthRWlWX1FLUGF0Wk9xNlFHZUpodDdzeUxQN1hVVmIwbTA5S3RWSlFySHBvd3l6MS05dw?oc=5"
     },
     {
       "id": "KR-foundry-https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZX2FIdUVzNmQ2RlAtTks3R1J2emtyRG9ib2ZsVFh6anptaDNEd09rQUxHaE1tZXBNbTc1dWdFcTZBak0wZkFHZ1FXYWE4WXFYZFljX0lOMUpPa0p0ckd0VkNHMzcwUzNJRUJLV1M3N3ZMN1k?oc=5",
@@ -1193,28 +1337,16 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa1pOcGV2bHNITFR4REdET3hNajdDcVFXa0RrYmE0djdYUWNuYkVNQ0gwMklVcVFGSWt0eFdwaUNGSDBrc2hUTHNDOU0yNVpiWWxWWWNHQVlNckM0OTk2Sk1VUk51QnRLZUI2WkJYbHVJVzJVOUFyRE44S2VXdVRyMVVOelBQaVoz?oc=5"
     },
     {
-      "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PYUo4UGRkM2NGWUs0eFpHbmZwamFYZ2hJNUN2S2IzTzdUaUpWRjJhSFR6TlhFZlJEWl9xdFd5NlpUM1hCdXpMY0R5NnlydDQ?oc=5",
+      "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtSXlYUld0Q0tCU0E3Nlg2Rks4ZmF3ejNtcUZXbjdJMF9sLVNWVGhib1FlWWlNc0w3U2cyRXFxZ20yOTVIcGktTlR4TTJDNkhRNXFmemxEcUtGcW_SAWBBVV95cUxNNTQ1VDNIRE1HaThiVm5EeUZPczh2SDJweGNoVTJCOFBDSWV0QkJORllBbDZSRVh2MHN4TWZialFTeFo4bjk2SW5jZTJyZTgzdDVNWkJnYzZxTUplQmRFOEM?oc=5",
       "region": "KR",
       "regionLabel": "한국",
       "keywordId": "semiconductor",
       "keywordLabel": "반도체",
       "query": "반도체",
-      "title": "[中반도체굴기] ② 14조원 '실탄' 쥔 CXMT, 심야에도 공장 건설 속도 - v.daum.net",
-      "source": "v.daum.net",
-      "publishedAt": "Sun, 09 Aug 2026 21:11:53 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PYUo4UGRkM2NGWUs0eFpHbmZwamFYZ2hJNUN2S2IzTzdUaUpWRjJhSFR6TlhFZlJEWl9xdFd5NlpUM1hCdXpMY0R5NnlydDQ?oc=5"
-    },
-    {
-      "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0RWpjUXo5ZmluR3U3Q2hOcVBQbGR6Y1dmNFdHYjZ2YllNWF9sa21xUW1NWl9uREE4WTdOU1QtM2F4eE5oNkdYSkxxTkJRS2lpYnAzcm82MjJrakHSAWBBVV95cUxQd25wdTVjbkFYdXlLR04tNEZOU191aWdZYjk0NFEyNnlWZUk1N0RiVGFzUzQyd2E1dlBpT3QxRXNmQmR4M2FBQ1dyZHJjR1VUVmlsN2dhakEyNXNIZDBCUFk?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "semiconductor",
-      "keywordLabel": "반도체",
-      "query": "반도체",
-      "title": "[中반도체굴기] ① 강력한 美제재 뚫고…'추격자'에서 '경쟁자'로 - 연합뉴스",
+      "title": "[中반도체굴기] ② 14조원 '실탄' 쥔 CXMT, 심야에도 공장 건설 속도 - 연합뉴스",
       "source": "연합뉴스",
-      "publishedAt": "Sun, 09 Aug 2026 21:10:02 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0RWpjUXo5ZmluR3U3Q2hOcVBQbGR6Y1dmNFdHYjZ2YllNWF9sa21xUW1NWl9uREE4WTdOU1QtM2F4eE5oNkdYSkxxTkJRS2lpYnAzcm82MjJrakHSAWBBVV95cUxQd25wdTVjbkFYdXlLR04tNEZOU191aWdZYjk0NFEyNnlWZUk1N0RiVGFzUzQyd2E1dlBpT3QxRXNmQmR4M2FBQ1dyZHJjR1VUVmlsN2dhakEyNXNIZDBCUFk?oc=5"
+      "publishedAt": "Sun, 09 Aug 2026 21:10:12 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtSXlYUld0Q0tCU0E3Nlg2Rks4ZmF3ejNtcUZXbjdJMF9sLVNWVGhib1FlWWlNc0w3U2cyRXFxZ20yOTVIcGktTlR4TTJDNkhRNXFmemxEcUtGcW_SAWBBVV95cUxNNTQ1VDNIRE1HaThiVm5EeUZPczh2SDJweGNoVTJCOFBDSWV0QkJORllBbDZSRVh2MHN4TWZialFTeFo4bjk2SW5jZTJyZTgzdDVNWkJnYzZxTUplQmRFOEM?oc=5"
     },
     {
       "id": "KR-hbm-https://news.google.com/rss/articles/CBMiggFBVV95cUxPcVBrVjc4ck9HX2doMmdNREJYVVY2S0FYcDBhb1RHMGdMUnhpSXJHVjhJRVFRRmtQMThoWGV3Z2piNERWdzRsdHM5ZXJZZHhFOGZFRFR2Szl3WDVVbDZrMDJJMXhuMHZ2SVJaQy01bjFTVUZhcUFFS09fSVBVOU42UkdB0gGWAUFVX3lxTFBUaUF1VnN4cFZZSDFSdlktQ3pndVMtQ2h0YkRrZHk1aW5Xblp2eDI3OTVDN3N0QmpPQWxDQW1QVndUSDlPWkFrMjZXLWdiYjlIak9fVk9PN082Z2g5aXd4eUJ5UzlVMjFfQWlVclFYeTFEOVE5MlhzWkM2Sk5qTmQ4ZGNINFloWjNMd0ZCdEpXVjJTYjlYQQ?oc=5",
@@ -1253,30 +1385,6 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OLXFEanlXaFU4Mm4zYXpmaTdDVG5DWXhaSmZXc0JWeVlsRGh6V1dXaTh4cFl4Q1JnNjR5a3pheXIwVUN2aXBvSFUzQkFIWUZlbG5tYjVuSlM3WkxjY2Q0a2hVMUhYeGhITWhXSVR5aHl4OXJuN1ZOTll30gGOAUFVX3lxTFBuNS15cHpJOEZVX0ZOT3NmZUxLV3I1Slh2dXg3bHdhSzJRS3hDUmtiX2Uza3VTMHZ6QWlUT2sxbzFyYWlRV3RTcEJvT19oRFpYSWhfT1YxbFcxT01iTHN0T00zWnp6M3RLdlFXUG5LUWxGamNuODY5cHZZeGg3QlE4Q0FROGtjRTlOWDBmaWc?oc=5"
     },
     {
-      "id": "US-ai-chip-https://news.google.com/rss/articles/CBMivgFBVV95cUxOdFdvZ2tPSDZZdVpMbUxQLXlSOGZTeHd3QlA1LXR5Y1M4d1ZlWnpIVkNRdjd2MTFmZmVGemFvYlJLUzVKeDBPUFdLUE9ENGY4RkhwaDBYY3U1V25DNHpTQUZFbVlUVXhUSnZ1TUJJbmlvNmhxZ3JOS1EyQlE5Yk9WSUhtUkd1U2ZqTzRBalVfOUlIa01ZRFZ3TVdJd09CVWRVckpaY2RxMlp5YjV6WTBMSXFZTjhLWFBLVWN5ekJ3?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "ai-chip",
-      "keywordLabel": "AI Chip",
-      "query": "AI chip",
-      "title": "China Unleashes $28 Trillion Capital Markets to Challenge US in AI - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "publishedAt": "Sun, 09 Aug 2026 21:00:19 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdFdvZ2tPSDZZdVpMbUxQLXlSOGZTeHd3QlA1LXR5Y1M4d1ZlWnpIVkNRdjd2MTFmZmVGemFvYlJLUzVKeDBPUFdLUE9ENGY4RkhwaDBYY3U1V25DNHpTQUZFbVlUVXhUSnZ1TUJJbmlvNmhxZ3JOS1EyQlE5Yk9WSUhtUkd1U2ZqTzRBalVfOUlIa01ZRFZ3TVdJd09CVWRVckpaY2RxMlp5YjV6WTBMSXFZTjhLWFBLVWN5ekJ3?oc=5"
-    },
-    {
-      "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pSWh2dGdfVFZjQVY2ZVNNSURfUk00YWJNWmctWXBvZjBNZDdQYWxPa0tlVExQSV80WHZpWERZUFZVRlkwdlBSUXBQLUZPYkZFMFE?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "semiconductor",
-      "keywordLabel": "반도체",
-      "query": "반도체",
-      "title": "“결국 주식 전문가들도 전혀 모른다”…속썩이는 ‘반도체’ 매도 타이밍은 - 매일경제",
-      "source": "매일경제",
-      "publishedAt": "Sun, 09 Aug 2026 20:47:54 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pSWh2dGdfVFZjQVY2ZVNNSURfUk00YWJNWmctWXBvZjBNZDdQYWxPa0tlVExQSV80WHZpWERZUFZVRlkwdlBSUXBQLUZPYkZFMFE?oc=5"
-    },
-    {
       "id": "US-semiconductor-https://news.google.com/rss/articles/CBMilgFBVV95cUxPcmJ2Q3VxaWhJb29Ua1g5ei01YUNVc1FINFVkQ0lPbThITUpqQmQ4WndMT3hneVo2bkViSTZKeXVmVEtzUlBGb2tVYkIxblBqdDFOQ2JNZk1MTFotWHpNbnE4SndjWFhKbXhDWHlSRlJRQ1k1bjR5SndCZkhMeVBXMEJVZS1Dem5lTGJrcDdqTHVidTFIVlE?oc=5",
       "region": "US",
       "regionLabel": "미국",
@@ -1313,18 +1421,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONVBSRTItcUtrR2NBMXQ0MkFYc2RCM2ZJZEtDTW8zNDRGaDdsci1nY2xRb2dUY2dfSzJ3NFViVXpvZFRiRWtXbXA0cl9RN3A5QnozcDBYSHlKYUpwZG1Oc1pWeFJnaVhRQy1Ma1RKQjNJU2xCTGtWOFBIN1hBZC1yNThvcEltcWxxdXJISmc4V3EwQXd3Zmg0Q3BkRkZGYTEw?oc=5"
     },
     {
-      "id": "US-nvidia-https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0R2U1JJUUQzS2s1Zzc4MGRMZzhhMjQ0WWxRbG4tQ2ltMmJfaVl0RXQ1aDdKLWtYVkVxNVdUUlNNem9UWXRXZG9PTUhCcXJVbUFUUERxUmFCUXY3QmhNa09DTXhhMWphbFJsR3g1c3RrQkpXTHdvSHY1cFB6Z0kyS0RPTHN0a0hFSlFMSFAxazk4M3diUUp6cg?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "nvidia",
-      "keywordLabel": "NVIDIA",
-      "query": "NVIDIA",
-      "title": "Nvidia Is Going to Space With Elon Musk's Million-Satellites Plan. Here's Why It Could Be the Start of a Trillion-Dollar Cycle. - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "publishedAt": "Sun, 09 Aug 2026 20:11:12 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0R2U1JJUUQzS2s1Zzc4MGRMZzhhMjQ0WWxRbG4tQ2ltMmJfaVl0RXQ1aDdKLWtYVkVxNVdUUlNNem9UWXRXZG9PTUhCcXJVbUFUUERxUmFCUXY3QmhNa09DTXhhMWphbFJsR3g1c3RrQkpXTHdvSHY1cFB6Z0kyS0RPTHN0a0hFSlFMSFAxazk4M3diUUp6cg?oc=5"
-    },
-    {
       "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wWjVhZkdMQndDMnNzQmQwWlZUWWJfMVhlNGFsZHFqaGhLN2pEcERtZHBONWdQQ01DMURqcVpSYmFEbllDOTVrZWFsR2JOdWZRVnlpblhnSU9CZmNJLVVxdHdHZjlXYjJt0gFuQVVfeXFMUE9XdENOalllenNPV0x4VFlkZXpVX1E0SjhGam9PR2xOOXpPTFUwY0hqZy1DdE8tTUluWFN6THNkckloUkF3aTJwcGNVWWZpVkhIRjRUaWtGLUVVZTlRSzA2UFVQQVdZNHNrT29GRGc?oc=5",
       "region": "KR",
       "regionLabel": "한국",
@@ -1337,14 +1433,26 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wWjVhZkdMQndDMnNzQmQwWlZUWWJfMVhlNGFsZHFqaGhLN2pEcERtZHBONWdQQ01DMURqcVpSYmFEbllDOTVrZWFsR2JOdWZRVnlpblhnSU9CZmNJLVVxdHdHZjlXYjJt0gFuQVVfeXFMUE9XdENOalllenNPV0x4VFlkZXpVX1E0SjhGam9PR2xOOXpPTFUwY0hqZy1DdE8tTUluWFN6THNkckloUkF3aTJwcGNVWWZpVkhIRjRUaWtGLUVVZTlRSzA2UFVQQVdZNHNrT29GRGc?oc=5"
     },
     {
+      "id": "US-hbm-https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdFU4SFhBMXM2bUxVb2pMRXBNcnpKMXNFenNta09TazJVaTZCNDlKTXRZbU8zbHRzWG5lNjlUcmI4dWU2SHFNNXRscGM3ZGRRYlJpbkxMQnRyR2RCZzVfcmlDUV9sLTluU3Q2MHNmQ2REREZmZ3I1Wnp4SXNoWkowVXZXRHVkYTNG?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "hbm",
+      "keywordLabel": "HBM",
+      "query": "HBM",
+      "title": "NVIDIA Trims HBM Capacity 81% Amid Cost Surge - 조선일보",
+      "source": "조선일보",
+      "publishedAt": "Sun, 09 Aug 2026 20:05:47 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdFU4SFhBMXM2bUxVb2pMRXBNcnpKMXNFenNta09TazJVaTZCNDlKTXRZbU8zbHRzWG5lNjlUcmI4dWU2SHFNNXRscGM3ZGRRYlJpbkxMQnRyR2RCZzVfcmlDUV9sLTluU3Q2MHNmQ2REREZmZ3I1Wnp4SXNoWkowVXZXRHVkYTNG?oc=5"
+    },
+    {
       "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMiVkFVX3lxTE42SFFScnFTd1h2SzJNamdDbXVMdkJkNlRRdGhDVXRTQ3lzb0M4MURDN0JiZjdxY3Q2R08xSkwxR0owYkk5akZ5cXdJOVNhSlpjMlNJUE9R?oc=5",
       "region": "KR",
       "regionLabel": "한국",
       "keywordId": "semiconductor",
       "keywordLabel": "반도체",
       "query": "반도체",
-      "title": "“하닉 290층 사람 있어요”…이 뉴스 2개 뜨면, 반도체 팔아라 - 중앙일보",
-      "source": "중앙일보",
+      "title": "“하닉 290층 사람 있어요”…이 뉴스 2개 뜨면, 반도체 팔아라 - joongang.co.kr",
+      "source": "joongang.co.kr",
       "publishedAt": "Sun, 09 Aug 2026 20:00:03 GMT",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42SFFScnFTd1h2SzJNamdDbXVMdkJkNlRRdGhDVXRTQ3lzb0M4MURDN0JiZjdxY3Q2R08xSkwxR0owYkk5akZ5cXdJOVNhSlpjMlNJUE9R?oc=5"
     },
@@ -1359,6 +1467,18 @@
       "source": "Yahoo Finance",
       "publishedAt": "Sun, 09 Aug 2026 19:50:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcFZid1NtVklNbkllVmdCdGg4am1RV2RYZnYxXzhISzZtNzVDYnZ3eXg2TE1iVjJLT1RyX0lERHhNUFNwS0tjdzhqd2lmSXUyNDN6R3VodVpRRW1BVUI2a21ab0IwUmx0b204SmZ5VzlxODNOYVNQT0FnOVBZUTNvdm1sbDFkcEF5SUFOUEdNOVFhcHZ1SUlEUFlPVllmdHBrbTlmVEh3?oc=5"
+    },
+    {
+      "id": "KR-ai-https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZNVdBYV9RamJtZjdZVktyUnlENzZPa3BDV0EycnhFbmRCWW56a180TkdwMV8xbW42dHZHSnNRejBYQ0tmWmpreXE1eGZyUUk?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "ai",
+      "keywordLabel": "인공지능",
+      "query": "인공지능",
+      "title": "오픈AI, 새 모델 ‘아스트라’ 개발 중단… “통제 벗어나 공격 위험” - v.daum.net",
+      "source": "v.daum.net",
+      "publishedAt": "Sun, 09 Aug 2026 19:34:11 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZNVdBYV9RamJtZjdZVktyUnlENzZPa3BDV0EycnhFbmRCWW56a180TkdwMV8xbW42dHZHSnNRejBYQ0tmWmpreXE1eGZyUUk?oc=5"
     },
     {
       "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMibkFVX3lxTE9NMl9NR3VlV1NYOE9SQ0NpbHVIeXJoZGhvclgyZ1hkOUtqNWUtX3VacEhncUQwN25YU1pGVzd4Sl9URC1UN0lTVkV2YkFxM3dzMi1KblVMR3F6SUFXZ1VQZFZsMjdDSEZaZUlPaGJ30gFzQVVfeXFMTk9oWkNlUnVKOEVaMGw1MG92R3doUFFDZEpXRk44OGM5aGR4MVY3TEd5YVhjVkwzZG8zLWs3VnN6LW95c3pPTXNDcUw2UGt6RFBrSjl2eFZybmpXT040QmI4b1VXdlJlVE1mZ3RrS1pJOEdIQQ?oc=5",
@@ -1385,18 +1505,6 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wdFR0ZkQxQnNSQjRHT1dTWmlXODFqaXQwQ2FvSkVMRkNkMjdtc1k3bWRIX1BrM1ZYQVNCWEJSaVlwTm1kdzU2ek5hTl9DVTRxaDVxb0E3dmdmVVg1LS1lX3dsNnpFdUptRGl3eFhZblVaelU?oc=5"
     },
     {
-      "id": "US-intel-https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTU5VkJfQ1lneTFaN1UtV05iODd2anczT19nSFY1bVdsdUl3ZENKV1p3N2dJdXNuc2RFNVJiMFE5TlRVWE9jN21jb2dIRVJfU0kydU43SXVlSGtVbU14Y0dhMGg3S3Q3d1JlRjZ3clN2RTlpeGhiX3lTRDZ6Z3pMcWZVMWhoX0VOdXR1QnVieWF5S3dwU0VMV3JCRmV3TmFISktvd0RwMVhqazRvVENtRTMyVzVlRWdiZThMTG94cw?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "intel",
-      "keywordLabel": "Intel",
-      "query": "Intel",
-      "title": "Notebook: Latest Florida Gators Recruiting Intel as of August 9 - 247Sports",
-      "source": "247Sports",
-      "publishedAt": "Sun, 09 Aug 2026 18:26:56 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTU5VkJfQ1lneTFaN1UtV05iODd2anczT19nSFY1bVdsdUl3ZENKV1p3N2dJdXNuc2RFNVJiMFE5TlRVWE9jN21jb2dIRVJfU0kydU43SXVlSGtVbU14Y0dhMGg3S3Q3d1JlRjZ3clN2RTlpeGhiX3lTRDZ6Z3pMcWZVMWhoX0VOdXR1QnVieWF5S3dwU0VMV3JCRmV3TmFISktvd0RwMVhqazRvVENtRTMyVzVlRWdiZThMTG94cw?oc=5"
-    },
-    {
       "id": "US-amd-https://news.google.com/rss/articles/CBMijgFBVV95cUxQMEFqUEV5LTFsdkhpYXVpbkJYTjV6aHk0Rks4QTEtc000WTdPR0QzT19vSGx3emlONXpUcFBsclhsYV9ic2t5WUZZOENHbHN0ZW1hSjlZWlE1c1lMcml1S3ZKTmF3WDVfYVkxQUFsQUNkYTZ1S1BuQVRtME9TYXRWZ0lpcVpiUm00bWtWYnh3?oc=5",
       "region": "US",
       "regionLabel": "미국",
@@ -1419,30 +1527,6 @@
       "source": "The Washington Post",
       "publishedAt": "Sun, 09 Aug 2026 18:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFBmV0tHYUtmWW9rV0xCQXg4RThKVmxVN3l6bmRTVTNCb0p2M1BFLUhWTDN4Y29zaFg3eDB6Vm1ldHZISlhUS2tPYUMtZTRMZGstWjByMzdRZ3BObGhtWG1pVzMwNUlBOGVTR2JSUzFKckZfWHF1WkYtXzdJOU5uOVJfbkJZUUhINHU2elZkdmNWOXJHNzFZU0t4QjltTF9ZbnEwYnRURmhQTXZBU1E?oc=5"
-    },
-    {
-      "id": "US-micron-https://news.google.com/rss/articles/CBMilwFBVV95cUxOR0UzM3VpQ1ZOOHJxRkFscVEyR1FMVGsydHNWaE5XZHlSbmJramNNM1czckRRS1F6TGtEYkRlcHBvMk5nV2FmaXlkZktBNmJUSGNNYThsSFBhSmdacGZBaFBSMlh3TXBuNy1xYWhzMzJzcGhXT1FvR2k5NVA2UzdiYlRqUnpfbVpCMUk1LUpUay1NdWJCSnJF?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "micron",
-      "keywordLabel": "Micron",
-      "query": "Micron",
-      "title": "Opinion: The Best AI Memory Stock to Buy Isn't Micron or Sandisk -- It's This Korean Giant - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "publishedAt": "Sun, 09 Aug 2026 17:43:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR0UzM3VpQ1ZOOHJxRkFscVEyR1FMVGsydHNWaE5XZHlSbmJramNNM1czckRRS1F6TGtEYkRlcHBvMk5nV2FmaXlkZktBNmJUSGNNYThsSFBhSmdacGZBaFBSMlh3TXBuNy1xYWhzMzJzcGhXT1FvR2k5NVA2UzdiYlRqUnpfbVpCMUk1LUpUay1NdWJCSnJF?oc=5"
-    },
-    {
-      "id": "US-intel-https://news.google.com/rss/articles/CBMixwFBVV95cUxOMHRWR09NNFVUamV0S2c0dHV6LVVuS2VCR1BhcDVsNF9qbVd2SEFFcEdEeXNQc3d5VnptcTQ2eGhEU3F2UkktQllOS0NTLW4yYVZqazNpdTVEdXZ1VDE3a2RfSlBKam80aEs5aTJrYkp0TWp3V3FtNEpPcHpCd3N0Rmt6R1FqZWRxMWNTakU1NFF0dzFPSGY3SHE0V1c0c0NwTEdRSkU0djlfN3psTE43Y19yOTRoZ28tWlM1M1FXc0JCU0UxSmVB?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "intel",
-      "keywordLabel": "Intel",
-      "query": "Intel",
-      "title": "CLEMSON FOOTBALL AUGUST CAMP: Sunday Nuggets & more Christopher Vizzina intel - On3",
-      "source": "On3",
-      "publishedAt": "Sun, 09 Aug 2026 17:30:17 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMHRWR09NNFVUamV0S2c0dHV6LVVuS2VCR1BhcDVsNF9qbVd2SEFFcEdEeXNQc3d5VnptcTQ2eGhEU3F2UkktQllOS0NTLW4yYVZqazNpdTVEdXZ1VDE3a2RfSlBKam80aEs5aTJrYkp0TWp3V3FtNEpPcHpCd3N0Rmt6R1FqZWRxMWNTakU1NFF0dzFPSGY3SHE0V1c0c0NwTEdRSkU0djlfN3psTE43Y19yOTRoZ28tWlM1M1FXc0JCU0UxSmVB?oc=5"
     },
     {
       "id": "US-nvidia-https://news.google.com/rss/articles/CBMirAFBVV95cUxNVjJWX1YxWThBRWFMM0h4c2JwQ0JWR05Ia2J1bXZHc1pRQjFhSEZHZGNVbHBlSXhOd09ZWnJRbFZTMlBGbXhLYkwwTXM1TU9hN2p3RkpGRy1nenFQa3gxZG45dHZHR2NRZFZuejlMeGdLVjIzMnNLNlAzWkVYYzU1QzcydzROSTdHR2kyUG9IS2lFY1QtR0ZoR2lILWwtanZybF9ncUFvWWhwUzYz?oc=5",
@@ -1481,6 +1565,18 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWwtVTFVdlhnSW9WMmxtUWlFdXgyR3drdU5vRTVJTHF6dE1ESml3U0NZaTlBTDN5WDA4YWZWb0ZIR2Nma3FlbGM1eWpEeHl4c0JwMjNsWE94dDF3QmItUkhhNjNTWXV0aXNvRmRjekhVMHN0bEkxY0pqMVFha3gzR0Nsbw?oc=5"
     },
     {
+      "id": "US-micron-https://news.google.com/rss/articles/CBMinwFBVV95cUxNSkZiNEJHVS1zLUtaOFlia3pZSC1TZ0dBRWRIUW9hT216blZQUUwzTDhtM2pvSGpkMFFIeVVrLTJBVmVodlAyUEtFeE42LUpxa0NqUTQ3cmpzWUhEZThFZDBzaWVjLW9vam5zVGdnTWxfUVRfQVFqS0FZYUx5bFBhdUZnZ0x6MGZMSFh1bk0zdkRoRXFHM1dZUnNvZ25KaXc?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "micron",
+      "keywordLabel": "Micron",
+      "query": "Micron",
+      "title": "Don’t Assume Micron Will Share SanDisk’s Fate. Here's Why. - Barchart.com",
+      "source": "Barchart.com",
+      "publishedAt": "Sun, 09 Aug 2026 15:00:02 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSkZiNEJHVS1zLUtaOFlia3pZSC1TZ0dBRWRIUW9hT216blZQUUwzTDhtM2pvSGpkMFFIeVVrLTJBVmVodlAyUEtFeE42LUpxa0NqUTQ3cmpzWUhEZThFZDBzaWVjLW9vam5zVGdnTWxfUVRfQVFqS0FZYUx5bFBhdUZnZ0x6MGZMSFh1bk0zdkRoRXFHM1dZUnNvZ25KaXc?oc=5"
+    },
+    {
       "id": "KR-generative-ai-https://news.google.com/rss/articles/CBMia0FVX3lxTE1QSTdLd2RfOHRMWjdOaDkxTk1Zdk5kRWJ2R1l0SWNNRkJSaDczWHppVzBZQXJTaEZLVlhyWkVBbEJXYmhMTl9XZm5aTERjSHlfMG9QOHFnNmowOE9FcXY4Wk5MRnUzcTduUXVF?oc=5",
       "region": "KR",
       "regionLabel": "한국",
@@ -1499,8 +1595,8 @@
       "keywordId": "ai-chip",
       "keywordLabel": "AI Chip",
       "query": "AI chip",
-      "title": "Nvidia's China AI chip share is forecast to collapse from 40% to 8% as Huawei scales - marketscale.com",
-      "source": "marketscale.com",
+      "title": "Nvidia's China AI chip share is forecast to collapse from 40% to 8% as Huawei scales - MarketScale",
+      "source": "MarketScale",
       "publishedAt": "Sun, 09 Aug 2026 14:50:40 GMT",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc3FYTkRuQWUta3dBcWc4U3IyUFB0YlBuZGlkdWF2a2MycjNER19uX2JFVlNtS1Q2b0NRZWNuVDI0WWlYNGdPRkRDSF9wNFRUYkwwWFpkTi1wemRfOHFyY0UxOVl1SVVYVUR2eElsN3B1LXBVWTllaXBnelE2aWJLN2s5cjdGNGFXU0NYM3JJSThtQlB4RlQzRTNQeFhzNEREcDd3X21SQWh4c2xKTEhORWdCNVlkSktZSUFDSDZOYmFLZzV0TGw0TW9aZzdjR0I4?oc=5"
     },
@@ -1529,12 +1625,12 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNlpqZFhObE5nOHZJVURmbXFoeTBCZUJ6MXlaNUplTExTMVZRQXJWeGxkY0tqcnI1OFR6WWpTci12elh0QXNKTzNaZDB6aFdRWjZpZ2tUeE03bjF0ZXFQR1NPUGptXzJVVmZKQk9iTjFqUHcxTzNPLTBZWUJQaWJFVU1RemQ?oc=5"
     },
     {
-      "id": "US-semiconductor-https://news.google.com/rss/articles/CBMimAFBVV95cUxPWFNXcVVzemhpT0tGdExxZi1HRV91cVlIcHVTTHZDUGYtcjQwMzhuWXNpMVk2dVB3Uko0Wk5rRjBrQjd2NU5tdUxrLVdfWk43cEk4c1QzaXpmVmQtalNoY3BsYVFnX2VXM01QTVYtWS1iSm1Edk5rNmdjQnJPUFJMeXhDMHFoV0NVcVdWdEtSeGlSYUoydWpjTA?oc=5",
+      "id": "US-broadcom-https://news.google.com/rss/articles/CBMimAFBVV95cUxPWFNXcVVzemhpT0tGdExxZi1HRV91cVlIcHVTTHZDUGYtcjQwMzhuWXNpMVk2dVB3Uko0Wk5rRjBrQjd2NU5tdUxrLVdfWk43cEk4c1QzaXpmVmQtalNoY3BsYVFnX2VXM01QTVYtWS1iSm1Edk5rNmdjQnJPUFJMeXhDMHFoV0NVcVdWdEtSeGlSYUoydWpjTA?oc=5",
       "region": "US",
       "regionLabel": "미국",
-      "keywordId": "semiconductor",
-      "keywordLabel": "Semiconductor",
-      "query": "semiconductor",
+      "keywordId": "broadcom",
+      "keywordLabel": "Broadcom",
+      "query": "Broadcom",
       "title": "Top Semiconductor Stock Outpacing Nvidia With a 36% Gain Over 6 Months - The Motley Fool",
       "source": "The Motley Fool",
       "publishedAt": "Sun, 09 Aug 2026 14:00:00 GMT",
@@ -1589,12 +1685,12 @@
       "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOY0UxaGJndmV4M3plalZMdHNzdWl3MEp3cm5maG1wSFlyUFhXOWZWNjB0MFZvM3M1c1Y2ZWlqNWNoaEpjU2xIWnpVSWl5VE9hQk9EbHB0cHlaRTlpbFhDSG01N0FEOFplN3dvTEJ2eFhrY3ZPWkloaGQ1dTRyVjNQLWwwZGM5dWFRcEFPZFd1U2FHSU1NQUFhZW5JT0Vib1dzRUpxMDEtLTRhUTRYUG5UQmhhZmlJNlphS2kzYmlsTDY2UjFhakh6czZ1MzMzLXpzRVBGdkN6OE9kaHBxYlMwaXl5WGlOR0xYYWhVc2hQdWxaZzVmNWg0ZUR3YVdUcS16eWNjRm1SQ2IxaUZZZjJOM25SZExKQWVJd0dVSmlxU092SGQ4ejhnTGNzMGZxbWdGZVd3emlhMFhCSzVSal9N?oc=5"
     },
     {
-      "id": "US-micron-https://news.google.com/rss/articles/CBMiogFBVV95cUxOb191OFFIeGRZVGVDUnN6OW1maGNPUXRwbXdaYmFCcUQzbjJTUzNRVTgyMW9pUHJWUkRheVliMmFUVWhWZE9YWEoyV2s4YXJJbXFQeHQ4bDNEOE9vS281UzlHcHZFdk5INW5IYnhOejk3XzJHT2h2MVYzT2dSNDB3QTYtU0xFU3Itano1MDBEQnl0WWJZZ2pwd212OWJqSzdCZ2c?oc=5",
+      "id": "US-nvidia-https://news.google.com/rss/articles/CBMiogFBVV95cUxOb191OFFIeGRZVGVDUnN6OW1maGNPUXRwbXdaYmFCcUQzbjJTUzNRVTgyMW9pUHJWUkRheVliMmFUVWhWZE9YWEoyV2s4YXJJbXFQeHQ4bDNEOE9vS281UzlHcHZFdk5INW5IYnhOejk3XzJHT2h2MVYzT2dSNDB3QTYtU0xFU3Itano1MDBEQnl0WWJZZ2pwd212OWJqSzdCZ2c?oc=5",
       "region": "US",
       "regionLabel": "미국",
-      "keywordId": "micron",
-      "keywordLabel": "Micron",
-      "query": "Micron",
+      "keywordId": "nvidia",
+      "keywordLabel": "NVIDIA",
+      "query": "NVIDIA",
       "title": "3 Artificial Intelligence (AI) Stocks to Load Up On in August - Yahoo Finance",
       "source": "Yahoo Finance",
       "publishedAt": "Sun, 09 Aug 2026 12:30:00 GMT",
@@ -1709,30 +1805,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMWF1YzZ4T1ZKQ0dPcWRpVnBfelphcDJDN2FRM2oyX0hUQU1iWGZzT21zNFhBVGh5Vm9EZTlnWmlRbnBsY3VBcHo4Uk00OEN5NXlwVXZ6YkNKMWZkWVJZSHNzM2NZMl8xbFJFRS13WHFHN0owUXNKRkJRRU9kNFNZdmdlVTlsRTNmcXljblhIdElSc2hGNnZ1ZTdSbjcycGFuaVpIQnNoYUlGRTlhX1p6Vmhn0gG3AUFVX3lxTFA0dmZkcnlienhueWdVZmMyUG91WGlJSHRjRU9icVl3YmVVWVVUZVVyanpLcjFhR1BUNVNUNXMwOGRFcmtiM25GUnpiYWpxN2VSU1A2V3QzcG15Nko3bUY3Z0J3RVJ5STN1S1k2bWxvb2VYN1pHYVpob2lYZ2JwNHpEeDktTmNQWE1yUW1zUURtVnZlV2doTHM0UHFHaVJkNWdHLV8wUDhHenhNSmcxel9OTzFZdGZSWQ?oc=5"
     },
     {
-      "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMid0FVX3lxTFA0amtYOTNPWHRWWUxBSVNYZk02SkVaY1JPVkRfa2RRa0lCQmdPR3d4dHZlRHpmZGZPb0R1a1R0OFVVOW5yYTZPbWVXUFRDcGNHSTEzXzRVLVBaOWRmMWVFSXJLMFpiMS1uV0p1aWZVdDBBV09JWFVn0gFmQVVfeXFMUEUwbDE2VTlFOEdxejN1OGhYWUVTLVdnZ1V3NTI1eFZRd01WSmdHMWtOV1lIOXpGamJUdW94OXJ4bW5haC1IaGxLZ3NvcUNaTWc2RE4xOEhIWWxHRWU4N1RZbTlWMEZB?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "semiconductor",
-      "keywordLabel": "반도체",
-      "query": "반도체",
-      "title": "정청래 또 말실수…“이명박 임기 안에 호남 반도체 제품 출시” - 동아일보",
-      "source": "동아일보",
-      "publishedAt": "Sun, 09 Aug 2026 11:08:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0amtYOTNPWHRWWUxBSVNYZk02SkVaY1JPVkRfa2RRa0lCQmdPR3d4dHZlRHpmZGZPb0R1a1R0OFVVOW5yYTZPbWVXUFRDcGNHSTEzXzRVLVBaOWRmMWVFSXJLMFpiMS1uV0p1aWZVdDBBV09JWFVn0gFmQVVfeXFMUEUwbDE2VTlFOEdxejN1OGhYWUVTLVdnZ1V3NTI1eFZRd01WSmdHMWtOV1lIOXpGamJUdW94OXJ4bW5haC1IaGxLZ3NvcUNaTWc2RE4xOEhIWWxHRWU4N1RZbTlWMEZB?oc=5"
-    },
-    {
-      "id": "KR-semiconductor-https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nS0JRcGNBNjFCVWJEa3VIUXU0Ql96YXktYkdOLV9xMFdSYlotUmp3bzMydU9lZUZoVDJGNHExMlpZamM4TWJ0bWpyOHRaU2Ri?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "semiconductor",
-      "keywordLabel": "반도체",
-      "query": "반도체",
-      "title": "정청래의 실수 “이명박 임기내 광주반도체…” - 문화일보",
-      "source": "문화일보",
-      "publishedAt": "Sun, 09 Aug 2026 10:49:03 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nS0JRcGNBNjFCVWJEa3VIUXU0Ql96YXktYkdOLV9xMFdSYlotUmp3bzMydU9lZUZoVDJGNHExMlpZamM4TWJ0bWpyOHRaU2Ri?oc=5"
-    },
-    {
       "id": "US-qualcomm-https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMXB2SW81OHNRTWp2VFQ3a3BtRFllZ3ZpNlFjbURBamRCSjIxYmFLeVc2NXBWQU9BclV4TEtvbEhvRWttUFh2aTlPQWZ2TlhZUkVKdmp2c1I1ZGJSZHJqeHp4TXFtSmxmOUQ1bllfQzJFQXJINE9nYVBJaDdUZzBiVHdhUnhuVHhReWhncUx3MDJyUGFBLTliOXR6ck9BMUdmamFmS182Nk9yX3JwSHRwZzVNUk8ybEpIWllv?oc=5",
       "region": "US",
       "regionLabel": "미국",
@@ -1793,18 +1865,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZGhaajNuWXdVelQyN0ZBNzQ3eGhUVkNfVEZxRzNXM1V2WjhKaGYzUFRtUHdFSElOVThVMWphbjZBZGVjNEhwRHJEdHM4QVdvdXJ3dDZza2xLcllFNE1MN1NNWTNKY1I1X012TXJheTlSTjE4VllpWlhHR2ZuOWljQ094MnR5bzFZWGc0TTlCaFRuMjA0cHlVVkFCekV0VWRUeU5NZ04xZXBuS2U3d3JuWA?oc=5"
     },
     {
-      "id": "US-micron-https://news.google.com/rss/articles/CBMilgFBVV95cUxOWndrX2FWZkdnSnVYTk1Bazl4MlJGVGNKUGVIR2kya052a1I3b1J5WkxOUWdqYzV0dUlWS3hmdjdfOTljdXlmeUFtMkk1SHFkR3Y1VmZnTXIwbVUwVldESXJmaFIyeWxzeWxCZ3JkWGdUS25HV0J6dy0tT3ZBbnA5QUVLRjN1UmpZMGdCSlQtekI0cThOX0E?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "micron",
-      "keywordLabel": "Micron",
-      "query": "Micron",
-      "title": "Commentary: Let's build the Micron plant right - Times Union",
-      "source": "Times Union",
-      "publishedAt": "Sun, 09 Aug 2026 09:20:30 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWndrX2FWZkdnSnVYTk1Bazl4MlJGVGNKUGVIR2kya052a1I3b1J5WkxOUWdqYzV0dUlWS3hmdjdfOTljdXlmeUFtMkk1SHFkR3Y1VmZnTXIwbVUwVldESXJmaFIyeWxzeWxCZ3JkWGdUS25HV0J6dy0tT3ZBbnA5QUVLRjN1UmpZMGdCSlQtekI0cThOX0E?oc=5"
-    },
-    {
       "id": "KR-foundry-https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xUWl0VGozOC1JdmkxejBSMVZlWUcxNmZfRzNDTjNMNkgzcDNzV3Q4dGd1V3JNakRUbWxnQ09pVkhIX041NkFxdXRxVGJqaUFmOUHSAVNBVV95cUxQX0Jjbl9aYzUwcjYyZ0hiTWh0aXVJN054Y241QWRuTUswS0NwaWJNUDBFUzl6MnVHZmVFamFUOC1MMGVRMWRsYS03bUNoeGt4TkQySQ?oc=5",
       "region": "KR",
       "regionLabel": "한국",
@@ -1847,8 +1907,8 @@
       "keywordId": "nvidia",
       "keywordLabel": "NVIDIA",
       "query": "NVIDIA",
-      "title": "I Build AI Data Centers. I Want Them to Disappear From View. - businessinsider.com",
-      "source": "businessinsider.com",
+      "title": "I Build AI Data Centers. I Want Them to Disappear From View. - Business Insider",
+      "source": "Business Insider",
       "publishedAt": "Sun, 09 Aug 2026 09:01:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSk9hNnphSGczcVpuM3I4UzViaTFGREdaa2hPeWdYNjA3TzdMS2RMem9QQWtHbWw3cG5XOHRuMmJnc0lYdmNJd1BWTTZzbm1wVno2VFlGOTFhdjJWUEswS2RZcjRPbDBRT3I1bllETXlwWjh6aXhXek5NWmQ0SU1GaGVjY2dXYjR1YmVCTURDLUZzUWRSZGp4MElJNXVSXzNCdTJRbjZWb0l0dw?oc=5"
     },
@@ -1877,6 +1937,18 @@
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5M1pSNV9kaVpkVC1ZZEdTOG5jdjRkM0lBakd5SFZTTjJOOG53clcyMGRCaDAwZEpFc3Mta2E0ZmJWMENVQl9kUklBOG9hV25kNWhxcmVPN2hxWmxhVUdFOGZ4VQ?oc=5"
     },
     {
+      "id": "US-semiconductor-https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0d5bGJQOS1EY1FQUjMzcDRnZEVod1NwS2dJRUhraElXbTY3aXQ5Zk5uOXRJWDd2NUxIaEprejl5a2VjWTF0VS1BNlZQWnRUTnF6OG9mQl95YjgwMUtfNmRiNlpiWXRmOHctVXZ6NEI3WERiNkdwWVFJZjRRYjRVdk5aeWlTeElvR3dVeWtVX2l0ckRmVG9kNg?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "semiconductor",
+      "keywordLabel": "Semiconductor",
+      "query": "semiconductor",
+      "title": "Cathie Wood's Ark Piled Into Nvidia and Taiwan Semiconductor After Meta's Earnings Miss. Here's What It Signals for Artificial Intelligence (AI) Stocks. - The Motley Fool",
+      "source": "The Motley Fool",
+      "publishedAt": "Sun, 09 Aug 2026 08:05:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb0d5bGJQOS1EY1FQUjMzcDRnZEVod1NwS2dJRUhraElXbTY3aXQ5Zk5uOXRJWDd2NUxIaEprejl5a2VjWTF0VS1BNlZQWnRUTnF6OG9mQl95YjgwMUtfNmRiNlpiWXRmOHctVXZ6NEI3WERiNkdwWVFJZjRRYjRVdk5aeWlTeElvR3dVeWtVX2l0ckRmVG9kNg?oc=5"
+    },
+    {
       "id": "US-intel-https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVpVYThRSmNIOWJmMEhfRUFqWHVZYzFzV1NTODZOcVFRNU81T3RYazZ2NHlzZVRLMWVnSGZFanM5NENtT3V6clBIaVFCMFFac1hpRmFqQ25wdzYtdUdBSUNnTENrTkNyRzVUQnFsejg0UmIyMmdhT0ZSeEZ2MnZGNS1yYW5oZWVnTVgtZmg1eTlUejhaUGxvaw?oc=5",
       "region": "US",
       "regionLabel": "미국",
@@ -1887,18 +1959,6 @@
       "source": "The Motley Fool",
       "publishedAt": "Sun, 09 Aug 2026 07:10:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVpVYThRSmNIOWJmMEhfRUFqWHVZYzFzV1NTODZOcVFRNU81T3RYazZ2NHlzZVRLMWVnSGZFanM5NENtT3V6clBIaVFCMFFac1hpRmFqQ25wdzYtdUdBSUNnTENrTkNyRzVUQnFsejg0UmIyMmdhT0ZSeEZ2MnZGNS1yYW5oZWVnTVgtZmg1eTlUejhaUGxvaw?oc=5"
-    },
-    {
-      "id": "KR-sk-hynix-https://news.google.com/rss/articles/CBMiRkFVX3lxTE5pNFdjY1RYYjhoTTZ4cVNvdXMyZDhDYW5rZG4tUDVESlQ4MTZHUXFwWTd5aUY4WlpUdTNia0J1alk5U01jWmc?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "sk-hynix",
-      "keywordLabel": "SK하이닉스",
-      "query": "SK하이닉스",
-      "title": "\"주식 반토막에 배당금은 더 속상\" SK하이닉스, ‘나스닥’급 주주환원 나설까 - v.daum.net",
-      "source": "v.daum.net",
-      "publishedAt": "Sun, 09 Aug 2026 07:01:28 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5pNFdjY1RYYjhoTTZ4cVNvdXMyZDhDYW5rZG4tUDVESlQ4MTZHUXFwWTd5aUY4WlpUdTNia0J1alk5U01jWmc?oc=5"
     },
     {
       "id": "US-intel-https://news.google.com/rss/articles/CBMingFBVV95cUxQamJMSkZyZ0YtMVlzamNKdWF2b2hua2tDOXpkanhkbkNiQUZkY1dicWp5U19BWUZGenZRUlNiNl96cXdkdXdjbWg2eFhCeHB2RUxSbUhEbXRFVVQ0RzJNRUZKOHNaTmJPLThxMmVLb0Nma2w4RmNGZVVCR3FCRF9TeXZJa0s0Mk1UUTZjS05TUHpLVGNWMGgwTjNWM2NqUQ?oc=5",
@@ -1935,18 +1995,6 @@
       "source": "Nikkei Asia",
       "publishedAt": "Sun, 09 Aug 2026 06:05:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa05wZmxqWXU4RHZHMWRBWW9jeDdnbVFJUWcwTzNhbmEtaTFxMlR6TmNqZWtCSlpfSWhNMEdKRXAzdXlzLXVMOFZVeEZ1LWlpd3daRk5DS1JTWGRyQVJNdzVSWWRHMFNtQTlyYnBuQnI3TlRuNG5kQ3NBaXlxd3lTRVBEOG5iMWdnVFBocVA4dFh3YVA5RXZtalFrNlRIRTBmMkRvRA?oc=5"
-    },
-    {
-      "id": "KR-sk-hynix-https://news.google.com/rss/articles/CBMicEFVX3lxTE84VE53WVpROHRRZ2NsODZ6dEVMZE1UWUQ4cEVKWnNIck9ZWnRXa0ZsaldReS1RZjFKSDRrYWp0eXRQX253V1RPSXBuM042WURXWGRKV3c5WGdfN3c1dzR2RXBaVmFjZkZMbjRuVFFWRk4?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "sk-hynix",
-      "keywordLabel": "SK하이닉스",
-      "query": "SK하이닉스",
-      "title": "SK하이닉스 54조 시설투자…최태원 \"공급 늘려 가격 낮춰야\" - 연합인포맥스",
-      "source": "연합인포맥스",
-      "publishedAt": "Sun, 09 Aug 2026 04:00:12 GMT",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84VE53WVpROHRRZ2NsODZ6dEVMZE1UWUQ4cEVKWnNIck9ZWnRXa0ZsaldReS1RZjFKSDRrYWp0eXRQX253V1RPSXBuM042WURXWGRKV3c5WGdfN3c1dzR2RXBaVmFjZkZMbjRuVFFWRk4?oc=5"
     },
     {
       "id": "KR-ai-chip-https://news.google.com/rss/articles/CBMic0FVX3lxTE93Qk55c2hiX3FqM3NINHl3YkthZXhyR2laVzc2Q0dseUVjWFlUbWlBOGlxbmQtY1NBUFdpazR6WXZaN1JMLXlXX0VBLUJxMGZJb2VCcnUzSjRPaDhIOUNlNnlHa3NKTXpSbEJLQUZFZndtVzTSAXdBVV95cUxOamR0aF9RVG5UUEppVS1QeGxJYWkxUmp1V08tM1R4LUtGMDRMUktxaGx5RjlkRkVJLTZhODhrLVlyZi1rY3M3YUJUV3lmVWhhdmRYN0hSbkI0RHBlRGhhNlF4Nkt4U2kzSmNQcG1HcnZGZS1iVlM5WQ?oc=5",
@@ -1997,18 +2045,6 @@
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01QzZwdUFHMWFUZzBWSHhiQUtsRVoxUHlkYkdrMTRQeHYzaW45bUdUQ09faXdLMVF4ZktnMzNlRjZ1VmVtb2VRX09KN1JEV0k?oc=5"
     },
     {
-      "id": "US-intel-https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU3UzdHdxTFAzSXM4aFUzSnZKaS1SV1k5X3oyRFdUOGFvNmRaRERSZVpoU0E2TE9mZktxbWZyZFpZQUpTQzRzUFdRNnVKT3U2MGFPdXFoOXBnYnBESGY5eU13RmFSb1NWakY1MmhrOWZjZzA3bWRHTC1iS1lwU0VZajNFXzlKVE1vRVNNSnlfcHFLMkFKM1I1cjI2SWFkeU1rUDZqekhXbGc0aXJjNGNWblFIR0VKYmVQQ0I4bUtaMXlIdWItVGRPNXlnZnlJMjRwMGlJ?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "intel",
-      "keywordLabel": "Intel",
-      "query": "Intel",
-      "title": "Tom Krasovic: Trade-deadline intel could benefit Padres this offseason and in the future - San Diego Union-Tribune",
-      "source": "San Diego Union-Tribune",
-      "publishedAt": "Sun, 09 Aug 2026 00:37:17 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU3UzdHdxTFAzSXM4aFUzSnZKaS1SV1k5X3oyRFdUOGFvNmRaRERSZVpoU0E2TE9mZktxbWZyZFpZQUpTQzRzUFdRNnVKT3U2MGFPdXFoOXBnYnBESGY5eU13RmFSb1NWakY1MmhrOWZjZzA3bWRHTC1iS1lwU0VZajNFXzlKVE1vRVNNSnlfcHFLMkFKM1I1cjI2SWFkeU1rUDZqekhXbGc0aXJjNGNWblFIR0VKYmVQQ0I4bUtaMXlIdWItVGRPNXlnZnlJMjRwMGlJ?oc=5"
-    },
-    {
       "id": "US-generative-ai-https://news.google.com/rss/articles/CBMihAFBVV95cUxQV3pGdUV6T252LUxqUHFtbjItVnZ4eld1b3RBSUVwcUF5YWhWTXNEcjI5WnN2ZzFJUmh0WGFvVHpDOVI4dmVfTURIeU93Mk5aS19YLWFJdTlSa0RLVmVzR2FhYnM5QzdtNElVSzNsZE1EZFRRdjFvbzJsRUVxbDJGRWQyLWo?oc=5",
       "region": "US",
       "regionLabel": "미국",
@@ -2033,28 +2069,16 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtZEE2R294dkJfT0YxMi1sdDBnOV9MaG5jUGkwS3Zvb2ctdVRlRXItT0k5dDVZTEN3TFgxcnhkM2kweFdyRmJyd3JqVkx6RG9tVjNTSFlPMFd4cWFWMHZMaXFvSjBsblByaFVfQkVONFhpdmlsT1o1TWdQMDI?oc=5"
     },
     {
-      "id": "KR-ai-https://news.google.com/rss/articles/CBMiVkFVX3lxTE42Rl9aUDZCbEZQMVhObXNVYjFyRlN5TkRuMHBDbm1mQ1pHMXprQXdyaWxsZU9LcFdudEZXYjctMjJnWXlFb05ySG5hbE5wRGdkN2VSWHRn?oc=5",
+      "id": "KR-ai-chip-https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sRnNPWF9FdE1zRUc2ZTRCczhtMVlvQi14NWltelMwZDVQRzJtWWR3N3dER25GZ1NlSWZOaHhBa2pkZkJfcDRqZ29QNV9HaEk?oc=5",
       "region": "KR",
       "regionLabel": "한국",
-      "keywordId": "ai",
-      "keywordLabel": "인공지능",
-      "query": "인공지능",
-      "title": "AI 학과 늘리기만으론 부족…\"모든 전공에 AI 역량 심어야\" - 지디넷코리아",
-      "source": "지디넷코리아",
-      "publishedAt": "Sat, 08 Aug 2026 22:17:37 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42Rl9aUDZCbEZQMVhObXNVYjFyRlN5TkRuMHBDbm1mQ1pHMXprQXdyaWxsZU9LcFdudEZXYjctMjJnWXlFb05ySG5hbE5wRGdkN2VSWHRn?oc=5"
-    },
-    {
-      "id": "US-nvidia-https://news.google.com/rss/articles/CBMilwFBVV95cUxQWTZMcnRnanpzT25LSnVzdFMzX01mY1dJYUVzUWZXUFk1OHNBbjlKbXlESHU5WndZaHEwbTlsbkpSLXFiS1ZTZWRoUl9fX09HM3hWclI5dm84N3BjeFhSeGI0RFg1dG83WHNTSVRIQXRhUDItQ3R5VFlKZmw5cnJBYUMxWXktdXRHUWZkdFJmOXg5NUZjbXd3?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "nvidia",
-      "keywordLabel": "NVIDIA",
-      "query": "NVIDIA",
-      "title": "Nvidia’s $3 Billion Bet on Lancium Signals the Compute Landlord Thesis Has Reached the Power Layer - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "publishedAt": "Sat, 08 Aug 2026 21:12:09 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWTZMcnRnanpzT25LSnVzdFMzX01mY1dJYUVzUWZXUFk1OHNBbjlKbXlESHU5WndZaHEwbTlsbkpSLXFiS1ZTZWRoUl9fX09HM3hWclI5dm84N3BjeFhSeGI0RFg1dG83WHNTSVRIQXRhUDItQ3R5VFlKZmw5cnJBYUMxWXktdXRHUWZkdFJmOXg5NUZjbXd3?oc=5"
+      "keywordId": "ai-chip",
+      "keywordLabel": "AI칩",
+      "query": "AI칩",
+      "title": "메모리 치킨게임 엄습, 장기계약은 매직카드일까 [AI칩 인사이드] - v.daum.net",
+      "source": "v.daum.net",
+      "publishedAt": "Sat, 08 Aug 2026 21:05:01 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sRnNPWF9FdE1zRUc2ZTRCczhtMVlvQi14NWltelMwZDVQRzJtWWR3N3dER25GZ1NlSWZOaHhBa2pkZkJfcDRqZ29QNV9HaEk?oc=5"
     },
     {
       "id": "KR-foundry-https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQY3dZQXhDdGtZXzB4bFl3OHY0U3IyTXhHQkZKeHVobHQxUWE1aUFta1NzVUNLSE5feEc1aDhScFFBNmNKOXhyTFBiQXJZWnNxczZGRUl6cTlzaWFBT0VNbdIBYEFVX3lxTFBQY3dZQXhDdGtZXzB4bFl3OHY0U3IyTXhHQkZKeHVobHQxUWE1aUFta1NzVUNLSE5feEc1aDhScFFBNmNKOXhyTFBiQXJZWnNxczZGRUl6cTlzaWFBT0VNbQ?oc=5",
@@ -2069,26 +2093,14 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQY3dZQXhDdGtZXzB4bFl3OHY0U3IyTXhHQkZKeHVobHQxUWE1aUFta1NzVUNLSE5feEc1aDhScFFBNmNKOXhyTFBiQXJZWnNxczZGRUl6cTlzaWFBT0VNbdIBYEFVX3lxTFBQY3dZQXhDdGtZXzB4bFl3OHY0U3IyTXhHQkZKeHVobHQxUWE1aUFta1NzVUNLSE5feEc1aDhScFFBNmNKOXhyTFBiQXJZWnNxczZGRUl6cTlzaWFBT0VNbQ?oc=5"
     },
     {
-      "id": "KR-ai-chip-https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUOWZjTmJyVU1HX3ZSOFpRYlRQelN2REt0VzczVnhKOGRKQURpdXNnSTdtODZZa2k5MExKZjRvblJnTlpSbklYdnFlUVR4NUk?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "ai-chip",
-      "keywordLabel": "AI칩",
-      "query": "AI칩",
-      "title": "\"칩도 장비도 중국산으로\"…AI 제재가 키운 자립 속도전 [AI 패권, 중국의 반격③] - v.daum.net",
-      "source": "v.daum.net",
-      "publishedAt": "Sat, 08 Aug 2026 21:01:51 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUOWZjTmJyVU1HX3ZSOFpRYlRQelN2REt0VzczVnhKOGRKQURpdXNnSTdtODZZa2k5MExKZjRvblJnTlpSbklYdnFlUVR4NUk?oc=5"
-    },
-    {
       "id": "US-generative-ai-https://news.google.com/rss/articles/CBMimgFBVV95cUxQRU1qMkVBTXYyLVZ5bXFrWXFxUnMyTXVjRlk0VTFZR0pCakEybC1MYmhhcE4xeEpnb1huU2xkTGlyNmIxalpxV2k1Z1ROVmJRQ0dtVlZ2ak1HSmRGN2hfS0tXaDh0YkZDMEJyNENqZUdSQ3JRckkxanduM09UV2hLb0xleTJaLXhRY3c2clEzQkdPTEFRVkhkOUVn?oc=5",
       "region": "US",
       "regionLabel": "미국",
       "keywordId": "generative-ai",
       "keywordLabel": "Generative AI",
       "query": "generative AI",
-      "title": "Generative AI Could 'Invent' Biological Discoveries That Don't Exist - sciencealert.com",
-      "source": "sciencealert.com",
+      "title": "Generative AI Could 'Invent' Biological Discoveries That Don't Exist - ScienceAlert",
+      "source": "ScienceAlert",
       "publishedAt": "Sat, 08 Aug 2026 21:01:36 GMT",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRU1qMkVBTXYyLVZ5bXFrWXFxUnMyTXVjRlk0VTFZR0pCakEybC1MYmhhcE4xeEpnb1huU2xkTGlyNmIxalpxV2k1Z1ROVmJRQ0dtVlZ2ak1HSmRGN2hfS0tXaDh0YkZDMEJyNENqZUdSQ3JRckkxanduM09UV2hLb0xleTJaLXhRY3c2clEzQkdPTEFRVkhkOUVn?oc=5"
     },
@@ -2117,28 +2129,28 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc3diTDc1NXZtZ0R6Mks5cGY3Slk0MjdvbGoya0xuN0k1bXJ3UmdpNWRtQ0dxRTBLNzNGbjhPQnB5VEttODU0c25wb1lONlBmeURBazNYYXBVYUVUNkE4eDFONUgyS3E4TzVUanYtRk9JWlU5cmNhNHQzVkxSQzFMWXZ6YnNwb1ZLbnB0VmJrQzBLRjZOSWc?oc=5"
     },
     {
-      "id": "KR-ai-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HcnhBc2lEQkhBUklUeVpkZ08wYjFoUEVJdWtac2JEcnFBSkg4R0NncWl1b0t4eUNPb0gtX3hyYlJuRklLbWhiV01oTm9BWWVxd0lINUlHeVpOdEdtakFxcEJNekxWOGs?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "ai",
-      "keywordLabel": "인공지능",
-      "query": "인공지능",
-      "title": "엔비디아, 전력업체 랜시엄에 4조원 투자…AI 인프라 확보 - 연합뉴스TV",
-      "source": "연합뉴스TV",
-      "publishedAt": "Sat, 08 Aug 2026 19:49:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HcnhBc2lEQkhBUklUeVpkZ08wYjFoUEVJdWtac2JEcnFBSkg4R0NncWl1b0t4eUNPb0gtX3hyYlJuRklLbWhiV01oTm9BWWVxd0lINUlHeVpOdEdtakFxcEJNekxWOGs?oc=5"
-    },
-    {
       "id": "US-amd-https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGtWVC1zbHczdDVpUmQ1SDV1RFNXb09qQkR0MGtqUGtEbGhUa0l0Vnl3UjlkVWZ5emNFZzFORkdWNndqakk5MGJjRlpqel9NRE9FcndoQWJTRVF4aFlOd1IwV3JNUXZIWFEwd0tMRjl2OEdsajhaVVptR2FtWDBZM09lOWxPNVMwUWdTTmV2cDdYQVVmR1ROQ3Z4eldiNlU?oc=5",
       "region": "US",
       "regionLabel": "미국",
       "keywordId": "amd",
       "keywordLabel": "AMD",
       "query": "AMD",
-      "title": "I switched from NVIDIA to AMD, and one difference surprised me every day - How-To Geek",
-      "source": "How-To Geek",
+      "title": "I switched from NVIDIA to AMD, and one difference surprised me every day - howtogeek.com",
+      "source": "howtogeek.com",
       "publishedAt": "Sat, 08 Aug 2026 17:45:13 GMT",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGtWVC1zbHczdDVpUmQ1SDV1RFNXb09qQkR0MGtqUGtEbGhUa0l0Vnl3UjlkVWZ5emNFZzFORkdWNndqakk5MGJjRlpqel9NRE9FcndoQWJTRVF4aFlOd1IwV3JNUXZIWFEwd0tMRjl2OEdsajhaVVptR2FtWDBZM09lOWxPNVMwUWdTTmV2cDdYQVVmR1ROQ3Z4eldiNlU?oc=5"
+    },
+    {
+      "id": "US-broadcom-https://news.google.com/rss/articles/CBMingFBVV95cUxOWjlSeHZuTUY5RExackFSblRDSEN6bVlNbmNaVVdfWWtDRVpVVmhaQWZjaDF1SWRWT3ZPRTgtQkt2V0t0Y2pPNHJJelZKdlNTTE8zSWZFS0ZheWZaaDVTTWtFNFZpUmNtZzctNjdtSTlWLVJzOGlGUjdQTEotNWp2TmZHd0FZUHp0UU9GV1ZEOVRwZi1yNkpHZjNzS04xZw?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "broadcom",
+      "keywordLabel": "Broadcom",
+      "query": "Broadcom",
+      "title": "Nvidia, Micron or Broadcom: What Would Raymond Dalio Do? - 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "publishedAt": "Sat, 08 Aug 2026 17:30:39 GMT",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWjlSeHZuTUY5RExackFSblRDSEN6bVlNbmNaVVdfWWtDRVpVVmhaQWZjaDF1SWRWT3ZPRTgtQkt2V0t0Y2pPNHJJelZKdlNTTE8zSWZFS0ZheWZaaDVTTWtFNFZpUmNtZzctNjdtSTlWLVJzOGlGUjdQTEotNWp2TmZHd0FZUHp0UU9GV1ZEOVRwZi1yNkpHZjNzS04xZw?oc=5"
     },
     {
       "id": "US-intel-https://news.google.com/rss/articles/CBMimwFBVV95cUxQdWtlcmNWbC04ZEhpaWlHS2Fsc0NmOEdaOThtRTVFendlcmp0MkFSNFIyaGhickJ6bWFIbnZ2VGRkZWZPZlg1WEN2MjlGLUwxTmJLLU1GSE43d0w5clQxNk1BNEVkVTF0eE9wNk9NN2FmUFIyWDFmQ2MzcXBxbmJLQ2l2Q085SzdSampzSXk5TExIXzNNVGpuQlBGONIBoAFBVV95cUxNU1NqS011RGhwQ0VyLTMxSjh1cXlNUkU2TzlocVZHdXlkZDk4TUEzdFhXOG1TOHFKdUxEZ3JLZWpxQmlpX21BbnVwYlhmNDZWWEtqLUhMdFEwN2hoeWNkVy0ta2VJR0RxOTF4M3FLcGZuUmRYWWltNXJiV3JUOHlzWldWZGYwVER2bXRJQ0FaRGZ4dzFRY09DOXozdWw1TWx5?oc=5",
@@ -2153,18 +2165,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdWtlcmNWbC04ZEhpaWlHS2Fsc0NmOEdaOThtRTVFendlcmp0MkFSNFIyaGhickJ6bWFIbnZ2VGRkZWZPZlg1WEN2MjlGLUwxTmJLLU1GSE43d0w5clQxNk1BNEVkVTF0eE9wNk9NN2FmUFIyWDFmQ2MzcXBxbmJLQ2l2Q085SzdSampzSXk5TExIXzNNVGpuQlBGONIBoAFBVV95cUxNU1NqS011RGhwQ0VyLTMxSjh1cXlNUkU2TzlocVZHdXlkZDk4TUEzdFhXOG1TOHFKdUxEZ3JLZWpxQmlpX21BbnVwYlhmNDZWWEtqLUhMdFEwN2hoeWNkVy0ta2VJR0RxOTF4M3FLcGZuUmRYWWltNXJiV3JUOHlzWldWZGYwVER2bXRJQ0FaRGZ4dzFRY09DOXozdWw1TWx5?oc=5"
     },
     {
-      "id": "US-broadcom-https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVZEZFRjdWVMN2ZSWDJ2SXRsT3JURlpUcFJ6T2IzVzhKNXRVN202dUhIbXhuY2NuNHFwaGRnQXEtUEFfM1hzckEweGxHRDF6TVI0SmVaUFlLRlFpNWdIRkIyellwVzlhUmpfQXR2emZzek81b2VRQlFZOEpVSGFGRWNkYXBTYlhHVW1aTllWYWpGYldEQlFlRQ?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "broadcom",
-      "keywordLabel": "Broadcom",
-      "query": "Broadcom",
-      "title": "Alphabet CEO Sundar Pichai Just Made a Decision That Could Move Nvidia and Broadcom Stock - The Motley Fool",
-      "source": "The Motley Fool",
-      "publishedAt": "Sat, 08 Aug 2026 16:30:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVZEZFRjdWVMN2ZSWDJ2SXRsT3JURlpUcFJ6T2IzVzhKNXRVN202dUhIbXhuY2NuNHFwaGRnQXEtUEFfM1hzckEweGxHRDF6TVI0SmVaUFlLRlFpNWdIRkIyellwVzlhUmpfQXR2emZzek81b2VRQlFZOEpVSGFGRWNkYXBTYlhHVW1aTllWYWpGYldEQlFlRQ?oc=5"
-    },
-    {
       "id": "US-semiconductor-https://news.google.com/rss/articles/CBMifkFVX3lxTFBySHlrbGRWYVFPMFI0enlQQTk1VDh6NjJtS1NGcF9ZVXdQRGpFOG5WNXo0WTZuT1hnNGFOdjhpRERZN0s4cndLU2l3UVFZYndIeV9MQWpyWkk1b0g5eE1ySGNTUmY1UUpiUDdOM0pYVlR0dzRleG9MUHpLcU5Sdw?oc=5",
       "region": "US",
       "regionLabel": "미국",
@@ -2177,16 +2177,16 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBySHlrbGRWYVFPMFI0enlQQTk1VDh6NjJtS1NGcF9ZVXdQRGpFOG5WNXo0WTZuT1hnNGFOdjhpRERZN0s4cndLU2l3UVFZYndIeV9MQWpyWkk1b0g5eE1ySGNTUmY1UUpiUDdOM0pYVlR0dzRleG9MUHpLcU5Sdw?oc=5"
     },
     {
-      "id": "US-broadcom-https://news.google.com/rss/articles/CBMinAFBVV95cUxNaHBiRkhLTnppNmJHTXZwUWR5U2hIczdOaWNLMWFtUlBmeHNEaXBKS3ZmNHMxZ2loU1dxaDNCckl6ZVI4Q2R0Tno1RmxDb0VvUGp2ZEFNOTdWQUlEV1M2WndDbE5yRVFMd254MVRyNTZOZ1dHVy1tNXdTX2M2dnB5VzdiN2VWT2sxcUZkazMxeGFLWWVMc0hTOFdWSzI?oc=5",
+      "id": "US-amd-https://news.google.com/rss/articles/CBMiywFBVV95cUxQd1hhT3RxaWVENGNpVWl2RmFsZFdCS3lQWlUzS3BxR2VZdEFhMXAyZnVtallERFIwSG9zSDdkeVk2enItMy16ejJDbzFBdGtpcXRUN2xna0FVU0tjT0t4RW1CNXk5cG1WVW1Ha1FpVWdEbW55elFGYW83VU02c1RmNUwwOHhwaUZJbXNpRlRoMDBneWZTcGx5eTBoeEM0blk2TDJQX1QxOG1OMUVvOVR3aVJvZG5vUVg0SWhWUlp4YjVUR1JYVDEtUVZscw?oc=5",
       "region": "US",
       "regionLabel": "미국",
-      "keywordId": "broadcom",
-      "keywordLabel": "Broadcom",
-      "query": "Broadcom",
-      "title": "Alphabet CEO Sundar Pichai Just Made a Decision That Could Move Nvidia and Broadcom Stock - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "publishedAt": "Sat, 08 Aug 2026 15:50:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaHBiRkhLTnppNmJHTXZwUWR5U2hIczdOaWNLMWFtUlBmeHNEaXBKS3ZmNHMxZ2loU1dxaDNCckl6ZVI4Q2R0Tno1RmxDb0VvUGp2ZEFNOTdWQUlEV1M2WndDbE5yRVFMd254MVRyNTZOZ1dHVy1tNXdTX2M2dnB5VzdiN2VWT2sxcUZkazMxeGFLWWVMc0hTOFdWSzI?oc=5"
+      "keywordId": "amd",
+      "keywordLabel": "AMD",
+      "query": "AMD",
+      "title": "AMD Tops Q2 Estimates, but Investors Still Hit the Sell Button. What's Next for AMD Stock. - Barchart.com",
+      "source": "Barchart.com",
+      "publishedAt": "Sat, 08 Aug 2026 15:15:02 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd1hhT3RxaWVENGNpVWl2RmFsZFdCS3lQWlUzS3BxR2VZdEFhMXAyZnVtallERFIwSG9zSDdkeVk2enItMy16ejJDbzFBdGtpcXRUN2xna0FVU0tjT0t4RW1CNXk5cG1WVW1Ha1FpVWdEbW55elFGYW83VU02c1RmNUwwOHhwaUZJbXNpRlRoMDBneWZTcGx5eTBoeEM0blk2TDJQX1QxOG1OMUVvOVR3aVJvZG5vUVg0SWhWUlp4YjVUR1JYVDEtUVZscw?oc=5"
     },
     {
       "id": "US-nvidia-https://news.google.com/rss/articles/CBMilwFBVV95cUxQQnRjUi0wemhBNHUyOFREVG42YTJMZmdFYlVXOGpYa2V1SWQ5Qmx1VEFuTUUzWDR3bHNUV3V4TF9YT2dBSlhKQzNSalBkMklObFIwbGpwc05VdWJQRWhGeHpkYUtiM2dEN0w5Yi1sMjdseGNjeGRPVmpxRjdieHlVdnFTeGF1R3ZkVnNxT3pYSHVQZ0MwR2xN?oc=5",
@@ -2213,16 +2213,16 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNalBNcERjSmpzc2F6LW8tSGZvSEFOaUxBN2NZaVd4SkpiV0l2MjlrQk83bnFSUEhLVmtkQ0gwckxQdC14NDczYWVHLVhQYUV0RHVHYVQzMmFYWTVkcGM3QWtDSlVkY003RFVHakM1NTlCQUc5X3lEUnA3OXlwel8ySHlCek9xd1FBaHBtVWxzV05qQWxxcWc?oc=5"
     },
     {
-      "id": "KR-sk-hynix-https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZdFV4dlV0ZnY0cC1zNTVIWHhlZ2dNT3Vnc1NEdXBEUzlHMGQtYVUyc2RkaTktVFJUX2pHbFp5SWdMVnZuZkNsWGhfbVNrcjdIU0pmc2hR?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "sk-hynix",
-      "keywordLabel": "SK하이닉스",
-      "query": "SK하이닉스",
-      "title": "SK하이닉스, 中 충칭공장 지분 판다?…“확정된 바는 없다” - 중앙일보",
-      "source": "중앙일보",
-      "publishedAt": "Sat, 08 Aug 2026 14:10:38 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZdFV4dlV0ZnY0cC1zNTVIWHhlZ2dNT3Vnc1NEdXBEUzlHMGQtYVUyc2RkaTktVFJUX2pHbFp5SWdMVnZuZkNsWGhfbVNrcjdIU0pmc2hR?oc=5"
+      "id": "US-broadcom-https://news.google.com/rss/articles/CBMimwFBVV95cUxOS2ZvNVhEWXhvby1SWnFjV21BcjdoN2dGWGVyY1liYTRSY1hDZjY0dDVlamVKUnRkUm5KcldUbGVrb1Z5VTJteHVQbDFSNjdSMG1hR1ZrckdEa2RDcWNfV3BFTDVXdThZdVZveWxyN3djY240WEtVMHRJMi1hNE9oTXNGWmtiMWFyempvZXZzV0luUjl0dzdtYmQzRQ?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "broadcom",
+      "keywordLabel": "Broadcom",
+      "query": "Broadcom",
+      "title": "Broadcom Vs. Nvidia: The Real Challenger and Champion Story in Chips - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "publishedAt": "Sat, 08 Aug 2026 13:10:04 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS2ZvNVhEWXhvby1SWnFjV21BcjdoN2dGWGVyY1liYTRSY1hDZjY0dDVlamVKUnRkUm5KcldUbGVrb1Z5VTJteHVQbDFSNjdSMG1hR1ZrckdEa2RDcWNfV3BFTDVXdThZdVZveWxyN3djY240WEtVMHRJMi1hNE9oTXNGWmtiMWFyempvZXZzV0luUjl0dzdtYmQzRQ?oc=5"
     },
     {
       "id": "US-tsmc-https://news.google.com/rss/articles/CBMiowFBVV95cUxPWDZKaEhWSXZDd2VMV1ZQNDNSMnpiTm9pWFFGS1h3YXdhTF9QTDA4Z3ozVWNWQzY0YTgtRDNNVDRSaG5EVTg4WVIyOFhfSzEza29nWlRWcUFJVnN0c1Q0aThjWmVnOXdTZ2NQTkdMTW41TngzTEZ4Vms3ck9rYjRwVHJsMHFyZ2ljeDhPMHh0aDRqZFVhak5ZaUhZSGxkcUk2cXE4?oc=5",
@@ -2237,28 +2237,16 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWDZKaEhWSXZDd2VMV1ZQNDNSMnpiTm9pWFFGS1h3YXdhTF9QTDA4Z3ozVWNWQzY0YTgtRDNNVDRSaG5EVTg4WVIyOFhfSzEza29nWlRWcUFJVnN0c1Q0aThjWmVnOXdTZ2NQTkdMTW41TngzTEZ4Vms3ck9rYjRwVHJsMHFyZ2ljeDhPMHh0aDRqZFVhak5ZaUhZSGxkcUk2cXE4?oc=5"
     },
     {
-      "id": "US-amd-https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd2tqLXFlOWhyaXFOdzBHbkJ0VU9RSDJxcmpVclNJbVlmeld2ODlzRTc1bzk0Z000U2Rhc1FVTnVQWHUzNlM2SmU5REVKU3FudXlHdjFiN2lUbU9vdWlnMmVXVlNsZ21Nb2N2Skk0V2FFS3gyZ3FpazVRMGdTV0FDZGs3QVJtYVJWRkFfY1B6RVV6bVFUdG1rT2o0QnIwU1ExTUlKYm14cWZ4aWI1NWJwaW5fbEhHUDNKN0Fvc01YWXc4bUVWYWlucDJzNUhMZHV2S29V?oc=5",
+      "id": "US-nvidia-https://news.google.com/rss/articles/CBMimwFBVV95cUxPakZxR3F2WHJLdks0TmtGem8zWmE3c1dzUm1oZzAtbVhjTUlUMF9QdElHR1p2LVNlMmwyTXpNd2tCTGlkRWJDeG1yUlh4VzdteEFDbUdrNFVhcG1Pdk1Pa0kwR3hPT1hCVnk4WER1aTFIX0FneGFKa1NHeV9FYzFFMEpZV0ZFbmd4ZkxmZ1J0c0RQNUY4SmJzMTNQSQ?oc=5",
       "region": "US",
       "regionLabel": "미국",
-      "keywordId": "amd",
-      "keywordLabel": "AMD",
-      "query": "AMD",
-      "title": "Advanced Micro Devices (AMD) Price Prediction: How Much a $5,000 Investment Could Be Worth by 2031 - 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "publishedAt": "Sat, 08 Aug 2026 13:00:11 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd2tqLXFlOWhyaXFOdzBHbkJ0VU9RSDJxcmpVclNJbVlmeld2ODlzRTc1bzk0Z000U2Rhc1FVTnVQWHUzNlM2SmU5REVKU3FudXlHdjFiN2lUbU9vdWlnMmVXVlNsZ21Nb2N2Skk0V2FFS3gyZ3FpazVRMGdTV0FDZGs3QVJtYVJWRkFfY1B6RVV6bVFUdG1rT2o0QnIwU1ExTUlKYm14cWZ4aWI1NWJwaW5fbEhHUDNKN0Fvc01YWXc4bUVWYWlucDJzNUhMZHV2S29V?oc=5"
-    },
-    {
-      "id": "US-amd-https://news.google.com/rss/articles/CBMivAFBVV95cUxQbW04Um54enVOcFNEVHM5dTlwU1c4TkhhWGsxYjlneW5GOTBaVjA0OURZRkU1ZUtldUdZOGlmYVBDSHlSZ0l0MmFxUnIyUFBTTUFHbkt0TEkwbHhydGkyekN6bEl0aW44T1VRaUhONjRVbHZpTzRSdVpaWlVlN2JZLVZkUkxMcF9DRFFvSGg5UXZLLVZMLUhuSko5RnM2LWxnWFpzcDVrNlBxNGJON2NvLUx1LW9lYjNXT2VwMw?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "amd",
-      "keywordLabel": "AMD",
-      "query": "AMD",
-      "title": "Not a single AMD graphics card Radeon does not provide playable FPS in 2K Gears of War E-Day - GameGPU",
-      "source": "GameGPU",
-      "publishedAt": "Sat, 08 Aug 2026 12:57:48 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbW04Um54enVOcFNEVHM5dTlwU1c4TkhhWGsxYjlneW5GOTBaVjA0OURZRkU1ZUtldUdZOGlmYVBDSHlSZ0l0MmFxUnIyUFBTTUFHbkt0TEkwbHhydGkyekN6bEl0aW44T1VRaUhONjRVbHZpTzRSdVpaWlVlN2JZLVZkUkxMcF9DRFFvSGg5UXZLLVZMLUhuSko5RnM2LWxnWFpzcDVrNlBxNGJON2NvLUx1LW9lYjNXT2VwMw?oc=5"
+      "keywordId": "nvidia",
+      "keywordLabel": "NVIDIA",
+      "query": "NVIDIA",
+      "title": "Elon Musk Just Announced Major News for Nvidia Shareholders - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "publishedAt": "Sat, 08 Aug 2026 11:50:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPakZxR3F2WHJLdks0TmtGem8zWmE3c1dzUm1oZzAtbVhjTUlUMF9QdElHR1p2LVNlMmwyTXpNd2tCTGlkRWJDeG1yUlh4VzdteEFDbUdrNFVhcG1Pdk1Pa0kwR3hPT1hCVnk4WER1aTFIX0FneGFKa1NHeV9FYzFFMEpZV0ZFbmd4ZkxmZ1J0c0RQNUY4SmJzMTNQSQ?oc=5"
     },
     {
       "id": "US-nvidia-https://news.google.com/rss/articles/CBMizgFBVV95cUxOSHVtd2o4bW0zMHhSWDVjejlRTXExOU55UmwtV2lyWTNQa1FZTlJ4RXNwMkd5U25nY1Y0d1g0cUxDbHZYRVVRQkEtQ3l2aHdXOERJYlQtemlEaVdiYjlyRS1xc281UTAtaGRRTzBPdUYtUzc3WkhWNmtpaFZzTDhzSUhlTFdGd0Z5SzJmMUR5cktsQWdlZ0hLZ3lJRnJnSVFJY2pvUkVJRlJZSlhuUnVucmpCT3k1d2lSV3lERFF2OF81MDNTRDFZUDJhSXVydw?oc=5",
@@ -2273,18 +2261,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSHVtd2o4bW0zMHhSWDVjejlRTXExOU55UmwtV2lyWTNQa1FZTlJ4RXNwMkd5U25nY1Y0d1g0cUxDbHZYRVVRQkEtQ3l2aHdXOERJYlQtemlEaVdiYjlyRS1xc281UTAtaGRRTzBPdUYtUzc3WkhWNmtpaFZzTDhzSUhlTFdGd0Z5SzJmMUR5cktsQWdlZ0hLZ3lJRnJnSVFJY2pvUkVJRlJZSlhuUnVucmpCT3k1d2lSV3lERFF2OF81MDNTRDFZUDJhSXVydw?oc=5"
     },
     {
-      "id": "US-micron-https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzMtV2ZBUUZBaFdVdldlOE5pWjJnT3piY25UeVJieUdPM2FMbHRVT2hjT0ZXRHUtTVg5V2xkVlRybFZiYTg1bXEyUFVWNEh3UEdoOVF6MzRoT1NiOVZOYXh6TDB1a2lZT2dRNEZOVkU1bF9MUmZfd3hHYWxrWWViOE00Zzl3cEI4MHNoRi02SzFlRTFtVnNpUFFCbFRfLVNfTFFFWUhIU1Q3S0JnVUtiMjdvMlNmM3d5dHk5ejVDYTFQRlE?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "micron",
-      "keywordLabel": "Micron",
-      "query": "Micron",
-      "title": "UNICOM Systems Inc. Buys 24,800 Shares of Micron Technology, Inc. $MU - MarketBeat",
-      "source": "MarketBeat",
-      "publishedAt": "Sat, 08 Aug 2026 10:11:33 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzMtV2ZBUUZBaFdVdldlOE5pWjJnT3piY25UeVJieUdPM2FMbHRVT2hjT0ZXRHUtTVg5V2xkVlRybFZiYTg1bXEyUFVWNEh3UEdoOVF6MzRoT1NiOVZOYXh6TDB1a2lZT2dRNEZOVkU1bF9MUmZfd3hHYWxrWWViOE00Zzl3cEI4MHNoRi02SzFlRTFtVnNpUFFCbFRfLVNfTFFFWUhIU1Q3S0JnVUtiMjdvMlNmM3d5dHk5ejVDYTFQRlE?oc=5"
-    },
-    {
       "id": "US-generative-ai-https://news.google.com/rss/articles/CBMiigFBVV95cUxPZVhHTkxYZzVmd2hFdG1EaThzeU81US1kTkY0SzhtNkI2N2pyTDZncC1yN0RBSEgzXy0teDVxRXp2NWUtS0tiUktONkVlQVRNc0JKZ2IwSmR0Mkk1Y2hzLVBSUkxiMGhDZWoxSjdyOEZpUkJHSkR1c0JLQm54ckpKZnI4amRXZHdWZHc?oc=5",
       "region": "US",
       "regionLabel": "미국",
@@ -2295,6 +2271,18 @@
       "source": "Axios",
       "publishedAt": "Sat, 08 Aug 2026 10:04:39 GMT",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZVhHTkxYZzVmd2hFdG1EaThzeU81US1kTkY0SzhtNkI2N2pyTDZncC1yN0RBSEgzXy0teDVxRXp2NWUtS0tiUktONkVlQVRNc0JKZ2IwSmR0Mkk1Y2hzLVBSUkxiMGhDZWoxSjdyOEZpUkJHSkR1c0JLQm54ckpKZnI4amRXZHdWZHc?oc=5"
+    },
+    {
+      "id": "US-ai-chip-https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XaXNMS0MyanRsUjZOV0sxOHo2SzlaWld5Y2x6VzlXYVp0ME5aNlZZRlpzaWVVbmhpNkQzVGJfUFBCVllLaTZmWjMxb0xGSmtZTVBnNy1jbw?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "ai-chip",
+      "keywordLabel": "AI Chip",
+      "query": "AI chip",
+      "title": "USD.AI price today, CHIP to USD live price, marketcap and chart - CoinMarketCap",
+      "source": "CoinMarketCap",
+      "publishedAt": "Sat, 08 Aug 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XaXNMS0MyanRsUjZOV0sxOHo2SzlaWld5Y2x6VzlXYVp0ME5aNlZZRlpzaWVVbmhpNkQzVGJfUFBCVllLaTZmWjMxb0xGSmtZTVBnNy1jbw?oc=5"
     },
     {
       "id": "KR-ai-chip-https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CWTQzQkNwem95YU1JblBwaU5fWW8tbWxOSVlsYnMyeW9uRXg5NXpaRE54UVQ0ZGlPaFZfc2V0V1RZOUVZTDBBX2xhXzBndzBjaUtlcVl4blp0aEpGa0E?oc=5",
@@ -2315,10 +2303,22 @@
       "keywordId": "nvidia",
       "keywordLabel": "NVIDIA",
       "query": "NVIDIA",
-      "title": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports - reuters.com",
-      "source": "reuters.com",
+      "title": "Nvidia to invest up to $3 billion in Stargate data center developer Lancium, the Information reports - Reuters",
+      "source": "Reuters",
       "publishedAt": "Sat, 08 Aug 2026 01:42:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQVlHNnRpWjl0RUFEajBjQnAtMGtUTnYyVXVBNEpCMFRFVEJNb3g4Q0FPWWtRNnAxX0x3RHMzdVFLN3dJLXQ3Z0pTOEtMQnFnUWFCVS1jUlhZYXZIaGpCTF9EQXVWVmhyemxIZmF5X1JveTNJbC1Hb2FWNjBrZkFyRjNmQlRhbFpET2Q2c3pRMjhYVUN4eEs1WURpaEVWWnpi?oc=5"
+    },
+    {
+      "id": "US-nvidia-https://news.google.com/rss/articles/CBMilwFBVV95cUxPU1pLRnVzd2NiOHFRNWp5UmF5anZwcThRTmRTM3Y0ZTFnYTBaNS1RQUN1emRmaTUtNUxsWllZdjBQUFUzekpVTGk1WkpKSGtmUHhtdDk5ZGlrUEhnTWxwREpFNDZTNkhxUi14YzVpOUsxNnMzMFZtbFpJNW52VHZNdFp4TW5kRVhPVEJPd0RiZ3JoUzA1SDA4?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "nvidia",
+      "keywordLabel": "NVIDIA",
+      "query": "NVIDIA",
+      "title": "Nvidia to invest up to $3 billion in Lancium, the Information reports - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "publishedAt": "Sat, 08 Aug 2026 01:42:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU1pLRnVzd2NiOHFRNWp5UmF5anZwcThRTmRTM3Y0ZTFnYTBaNS1RQUN1emRmaTUtNUxsWllZdjBQUFUzekpVTGk1WkpKSGtmUHhtdDk5ZGlrUEhnTWxwREpFNDZTNkhxUi14YzVpOUsxNnMzMFZtbFpJNW52VHZNdFp4TW5kRVhPVEJPd0RiZ3JoUzA1SDA4?oc=5"
     },
     {
       "id": "US-nvidia-https://news.google.com/rss/articles/CBMirAFBVV95cUxPLW9KQi0yZ29oaWZQTUtaRGdJT2NFYUpuVWU1V1BUVk5iVFBsNXNiT280cGRKRGwzTzc1c2dRUm9GeTdkaDJJZjFuQ3gzaEs2U3Y5MkRsQTRaajB6N0EySzZmRGE3WU9wWWZoRkVFTGk1M1U1aktOdFF2dkM4a0kxZWVFQ1E1S2lLSjZIV3VxanRhOUp1elprcU1uWVgyV3V4eXVTLXFfcll0dzhl?oc=5",
@@ -2327,8 +2327,8 @@
       "keywordId": "nvidia",
       "keywordLabel": "NVIDIA",
       "query": "NVIDIA",
-      "title": "Nvidia to Invest Up to $3 Billion in Blackstone-Backed Power Firm Behind Stargate - The Information",
-      "source": "The Information",
+      "title": "Nvidia to Invest Up to $3 Billion in Blackstone-Backed Power Firm Behind Stargate - theinformation.com",
+      "source": "theinformation.com",
       "publishedAt": "Sat, 08 Aug 2026 01:23:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLW9KQi0yZ29oaWZQTUtaRGdJT2NFYUpuVWU1V1BUVk5iVFBsNXNiT280cGRKRGwzTzc1c2dRUm9GeTdkaDJJZjFuQ3gzaEs2U3Y5MkRsQTRaajB6N0EySzZmRGE3WU9wWWZoRkVFTGk1M1U1aktOdFF2dkM4a0kxZWVFQ1E1S2lLSjZIV3VxanRhOUp1elprcU1uWVgyV3V4eXVTLXFfcll0dzhl?oc=5"
     },
@@ -2393,6 +2393,18 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeHJJM1hTODUzVjhuMnZicjNqYXhTd2N2NHBTY3E5TV9GcjhNcndvampCbEJGck5LNkNLRTF1UmZnU0RCdmtIU3U3NHFNdUR1emE3NU1FbWJnRGNvTWhqRVdJcTdBNTFvbDlaT0NkVVNpLXZHWXZKS2c1djdxdERVNWRPWG5qMUtnenlINXVKaXZCOW1SOFpLTVRVTQ?oc=5"
     },
     {
+      "id": "US-intel-https://news.google.com/rss/articles/CBMib0FVX3lxTE4xMFlSTzRyblhVLVI0RTRCbHp4NE96NFRkREN6dWx2aTF0WVFuTW9uSWdkU2tRRE9BNXI2cWJXNV9oUXZIaVRBa2VrejJCNmFfbm5YZUNRNXhkZWZsY1ZBRTZpU2p2LWdxWFI1aW1iVdIBd0FVX3lxTE0zb0FuYlFkX0dFUHpXWktDWm15UlB0SkFYVVROYmoyXzVYOUltc1FYN1VUOW9BelNEbDBXVTZlTm5zaE80LUVkYmlDdmV0MHEtZUJFMHhpX0xQWW9CZ3pIVmNsYjFSVnF2aUpLdThpR1A4T05qNlM0?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "intel",
+      "keywordLabel": "Intel",
+      "query": "Intel",
+      "title": "Ryan Presley Wins $100,000 Award for Indigenous Art—and More Industry Intel - Artnet News",
+      "source": "Artnet News",
+      "publishedAt": "Fri, 07 Aug 2026 21:42:18 GMT",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xMFlSTzRyblhVLVI0RTRCbHp4NE96NFRkREN6dWx2aTF0WVFuTW9uSWdkU2tRRE9BNXI2cWJXNV9oUXZIaVRBa2VrejJCNmFfbm5YZUNRNXhkZWZsY1ZBRTZpU2p2LWdxWFI1aW1iVdIBd0FVX3lxTE0zb0FuYlFkX0dFUHpXWktDWm15UlB0SkFYVVROYmoyXzVYOUltc1FYN1VUOW9BelNEbDBXVTZlTm5zaE80LUVkYmlDdmV0MHEtZUJFMHhpX0xQWW9CZ3pIVmNsYjFSVnF2aUpLdThpR1A4T05qNlM0?oc=5"
+    },
+    {
       "id": "US-semiconductor-https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmY2dXRxdGJtN1ZHVlh3QzJ3cWRxNlZ3WVBSTUxXbERqQnBWdzhmNlhOd0dwMjRGN2ViRG9ndWdJSDlxVEdYZ3JVcVdXWDNXWmEzV2E5Zk9zM3B0MTRjLTNRU3RwSFJMd3BoV2wtamxueDVyQUVrZjdQSG1ORjhaZ2NrdlpRaXZXaGM0OV9BM0ZKTEZUbktmcVVZRlowa3p6ZklXLVBKYkJpcUIyelpIeUZzXzFDdw?oc=5",
       "region": "US",
       "regionLabel": "미국",
@@ -2403,30 +2415,6 @@
       "source": "CNBC",
       "publishedAt": "Fri, 07 Aug 2026 21:01:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmY2dXRxdGJtN1ZHVlh3QzJ3cWRxNlZ3WVBSTUxXbERqQnBWdzhmNlhOd0dwMjRGN2ViRG9ndWdJSDlxVEdYZ3JVcVdXWDNXWmEzV2E5Zk9zM3B0MTRjLTNRU3RwSFJMd3BoV2wtamxueDVyQUVrZjdQSG1ORjhaZ2NrdlpRaXZXaGM0OV9BM0ZKTEZUbktmcVVZRlowa3p6ZklXLVBKYkJpcUIyelpIeUZzXzFDdw?oc=5"
-    },
-    {
-      "id": "US-nvidia-https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGtNelRnbGpMZHMyTVZfRk5neGhsOWREX1FSazBPRlZBck1iYW5CcTBXT3JmWmhhNVpxc1lqSHNESWhwdEJjZ2ZabEg3VnljRmNSalYwYmg4eEZyRmR6aS1lTGVmcFktQ213UWhWdFJJQ25YOHRzbUVqVW1jV2FKSm02T3pZSTM5azNSUjNyN28tRTJFb2ZaZUtpNkdGeVFZWS10bmNRSnRIX3h3S3dEYW1Hay1lUmh3N0R3dmZn?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "nvidia",
-      "keywordLabel": "NVIDIA",
-      "query": "NVIDIA",
-      "title": "Two reasons why Nvidia’s stock saw its biggest weekly surge in more than a year - MarketWatch",
-      "source": "MarketWatch",
-      "publishedAt": "Fri, 07 Aug 2026 20:41:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGtNelRnbGpMZHMyTVZfRk5neGhsOWREX1FSazBPRlZBck1iYW5CcTBXT3JmWmhhNVpxc1lqSHNESWhwdEJjZ2ZabEg3VnljRmNSalYwYmg4eEZyRmR6aS1lTGVmcFktQ213UWhWdFJJQ25YOHRzbUVqVW1jV2FKSm02T3pZSTM5azNSUjNyN28tRTJFb2ZaZUtpNkdGeVFZWS10bmNRSnRIX3h3S3dEYW1Hay1lUmh3N0R3dmZn?oc=5"
-    },
-    {
-      "id": "US-micron-https://news.google.com/rss/articles/CBMimAFBVV95cUxOS1F1ejdIdF9fUzdiYURhbnY0MUs2NmhTbm14QWhCX0ZYTFhySUE2RnNoM0lwa21nU2Q1LTJjTW5CZHJ1aXR4MVRTS2V6U25DYUpRdkV6ajlLNktTM1FsLUhJcEZMajNpSFpFZzZzNkdOMUdPVDUxWV94UUQ1dFhzRk1BVU9PWWdHbUlJWTdQN05GQVJjRVFheQ?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "micron",
-      "keywordLabel": "Micron",
-      "query": "Micron",
-      "title": "Micron Stock Slips as Citi Cuts Target by $250 - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "publishedAt": "Fri, 07 Aug 2026 19:32:30 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS1F1ejdIdF9fUzdiYURhbnY0MUs2NmhTbm14QWhCX0ZYTFhySUE2RnNoM0lwa21nU2Q1LTJjTW5CZHJ1aXR4MVRTS2V6U25DYUpRdkV6ajlLNktTM1FsLUhJcEZMajNpSFpFZzZzNkdOMUdPVDUxWV94UUQ1dFhzRk1BVU9PWWdHbUlJWTdQN05GQVJjRVFheQ?oc=5"
     },
     {
       "id": "US-intel-https://news.google.com/rss/articles/CBMiowFBVV95cUxQTjM5bFVXSzAyUnNuZWl1WHlDLUk0a2lSMVNRdnl0UnJJclNnWGVPWmpEdDFvY3lqVWNjSGZhNTlEdGQ4TnhYa0V5MlpVVldIZ3RmUXE2dFNZMFBtWDBVRFRpWWZ6TlhqSHZuS2p5SXFESkNBcDhqYTJNUW1MeFNMZ3ZKQmdiWHFXdWowd1RNSlJGM0Z2OTRYcDFLSGhtWnRnT2Nr?oc=5",
@@ -2453,6 +2441,18 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjQklHQXo3aFp0TzRSRzhaVjI1SWpneDBIR1hhRzNVOHhqMkgxcE1SUGdTQWNVdG5CbDlDSEd2b0NDVV9oMXZVcFlpS2ZFdEhtR3BIcks4QjlOYXMwNEhOSVZHREFKeDRYVVZadmZpUno?oc=5"
     },
     {
+      "id": "US-micron-https://news.google.com/rss/articles/CBMiggFBVV95cUxNa0FaNGhTOGpyZXZEOVNzY2FvVnkxeDBFUFZPVHJKVWVOVGN4ejEtS1JiY1V6bHlVM2dkWGtQTl9QZDhGUWhSUnRMU1g0bDhNaDVSdDN2ZVp0aGItWHA3bWlIVVJBRXN6R1R1amVwb25MYk96dUE2R3hIbTl5cFM1a3J3?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "micron",
+      "keywordLabel": "Micron",
+      "query": "Micron",
+      "title": "Why SK Hynix’s $38 Billion Memory Splurge Is No Problem for Micron Stock - Barron's",
+      "source": "Barron's",
+      "publishedAt": "Fri, 07 Aug 2026 18:17:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa0FaNGhTOGpyZXZEOVNzY2FvVnkxeDBFUFZPVHJKVWVOVGN4ejEtS1JiY1V6bHlVM2dkWGtQTl9QZDhGUWhSUnRMU1g0bDhNaDVSdDN2ZVp0aGItWHA3bWlIVVJBRXN6R1R1amVwb25MYk96dUE2R3hIbTl5cFM1a3J3?oc=5"
+    },
+    {
       "id": "US-generative-ai-https://news.google.com/rss/articles/CBMid0FVX3lxTE5VeVRyUDM5cUc5TDh0dTkxN1hLaVFZZnowTmdLakY5N3liMTFZelFpVmVJQjFLOUxvWFh5dVlSUGZocVJHV1hrTGZqbElJcHNzM3gxWVZPOEU5akx1V0Fsd2Rha3Q3SWx2NDk0OEJpUnkwdUVhQ2Jj?oc=5",
       "region": "US",
       "regionLabel": "미국",
@@ -2471,8 +2471,8 @@
       "keywordId": "intel",
       "keywordLabel": "Intel",
       "query": "Intel",
-      "title": "US intel assesses Putin could launch attack aimed at testing NATO unity - edition.cnn.com",
-      "source": "edition.cnn.com",
+      "title": "US intel assesses Putin could launch attack aimed at testing NATO unity - CNN",
+      "source": "CNN",
       "publishedAt": "Fri, 07 Aug 2026 17:47:40 GMT",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOWNfa1JIcmE3VEpBaFU3X3JnVVZxVzk5SkctaC13V2ZVMDNfd2d4eVlqQUozd3hCY1pPeGp6b0xlZ1gxMGVBX184WlQ3SllPbk1ZbVJVdnh6LXdBWWpFeWNUZ25PWkRpTEhVSW5qcW5QODNpVGpSSFBiaXp4SkdmM1RsU3A4UlFXZnNscg?oc=5"
     },
@@ -2519,8 +2519,8 @@
       "keywordId": "tsmc",
       "keywordLabel": "TSMC",
       "query": "TSMC",
-      "title": "TSMC & Researchers Make Big Breakthrough In Chip Transistor Technology As Part Of Push Towards Developing Sub-1-nanometer Technologies - Wccftech",
-      "source": "Wccftech",
+      "title": "TSMC & Researchers Make Big Breakthrough In Chip Transistor Technology As Part Of Push Towards Developing Sub-1-nanometer Technologies - wccftech.com",
+      "source": "wccftech.com",
       "publishedAt": "Fri, 07 Aug 2026 16:16:41 GMT",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeENnZnVXeklGQ0l3MVQ0cUp4c09JZVR2RnZhdHBOY3NtbkR0WTNlRWZxV2d2SUMxYl9TekdDbG5wRXVQU2pkWlVKYWNZVWZjWlhmNzQ3YWVUdlVvWEZsTXFnaFB2VklJX2ZKc2tXVk9POXBzZXViMDJUYUxhRGZkS1pRU3lPT2J5RVBucHZnTTdSMU1aQzJiblRocktJalBjMkplSE5yN091ZXFSY3AwVmx2dlMyWDhrYnpKbEhkRWVVcUFzQUlibUhrYmtVWi1hbWxQQUJmalNvNTJUNWVFUzVSLUVYbndHMkHSAe8BQVVfeXFMUFkxNkluS0wybnl6WHdMeTFJbFBDak9UQnpFblF4a3d0aWhjUTNUV3lxbDhUZjBaZk5KbVpvM3FTWGpNLU9Lc25hTlJNbWRCZ3d0RkhHS3NDekJHeHJJVFlid3RkdkZwU0xlRzhVX3ZGTkczaE1YYks4Z21mTElQcHdiZHpqV1pJVDd2NVF0TmFnZmNabmE2MW9YUjhsdlduNVFXaWRjb0JPY21sSGtvdjBmTnZVbXJJWjdsblItcWVPYlp0Q3NzQjBmZ2tIZ1BxbnR1ZndkMHpUSWtlNlZZVVk4bjFoYU02SWFwV3E5M0k?oc=5"
     },
@@ -2543,8 +2543,8 @@
       "keywordId": "generative-ai",
       "keywordLabel": "Generative AI",
       "query": "generative AI",
-      "title": "Stanford Evo 2 AI model generates phages against E. coli - AI News",
-      "source": "AI News",
+      "title": "Stanford Evo 2 AI model generates phages against E. coli - artificialintelligence-news.com",
+      "source": "artificialintelligence-news.com",
       "publishedAt": "Fri, 07 Aug 2026 15:07:44 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdnJ5SW8tZ1dTMWVBSzc0aHk5ODQybWg1ZW5NQ0FCazlxTzcyTU9YWUJiSm5MeGlGV0dZSUlKNlp5Q3NMVy13dFZ2ZEFTazI1N1NaTFFzejVYSnlLZ3lESy01dm95eF9CVGdUaVR3dnZYUjBEbzJmSy1EZll2dWRhaTZ0WVh4ZjlfNGV1MXVHcXJ3UVZoQlNBNjJUTVV0LTlqSXg3T21ZdEQ?oc=5"
     },
@@ -2657,18 +2657,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTWFuR1BxU0J6UHp4OVRTcS11anRIb2NBTVNBSG5PWnVHdTBjQTdhWkxxN1BjcEFFM1BGTkp3enFjckNGU1g0blVkdm0zQzdHYXplSDJDSkkxRWdjbmp5Z0xqU0FKMVBSR0dMR1FGVmI3RTd4a3E2MlkwMlVmc242ZlpxU2RfclFXc2xWUHhrVnVHaHlWbXJPWnhtX1BzTDk1QzZpM1VrclRpSThNMXJiRUxvd0I2dFU2Qy1vYmgzelMwVnh2dE1zYklISFDSAcwBQVVfeXFMTkRNdXAzUy03TVhRTWw3MmpfSGtEZ0htWW00MWltWmFyTkd4WnBhNkFfeTRmckk5Ukx3cjV5alN5YWxmTkNMb0pGRVdfVEtjbkpHZzdpd2dpdjVxNW9KZUszX2dRM2hSbjNiSzhyRkpsYW9qYTBkTnpaOUZ2aUNtbFg0N0szZHJySFNneGJacjlsNUhYM09Qc3Q1SVFibnZzSDl6QzhvdzhTcnJPSzJWYWQ2RWlGN09TMHJFVklEMmtTdEhja1drTWlRbUxO?oc=5"
     },
     {
-      "id": "US-micron-https://news.google.com/rss/articles/CBMirgFBVV95cUxObElFbTFkSFg5SmoyUGdNbTNIalZzazFiMUNIU2Q0SkJKdzBiSmhKYlZDeVRyeXNqMXFBNkpheXR3SzJLOHBoSTZKV25nZ0IxaFNnOXR0TEZDdTU4VlJGUlVzYjI3VkFTUWNqakxRNUJocEp1WFFZM2wteno3LUQ4TGpoV09PWUl6UDBSbUdfbjdQc2l2cjVnRmd5cU5yelFwRjZUZ2ROVkx1anoxSlE?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "micron",
-      "keywordLabel": "Micron",
-      "query": "Micron",
-      "title": "Micron Technology Stock Is Gaining Friday: What's Going On? - Benzinga",
-      "source": "Benzinga",
-      "publishedAt": "Fri, 07 Aug 2026 10:44:40 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObElFbTFkSFg5SmoyUGdNbTNIalZzazFiMUNIU2Q0SkJKdzBiSmhKYlZDeVRyeXNqMXFBNkpheXR3SzJLOHBoSTZKV25nZ0IxaFNnOXR0TEZDdTU4VlJGUlVzYjI3VkFTUWNqakxRNUJocEp1WFFZM2wteno3LUQ4TGpoV09PWUl6UDBSbUdfbjdQc2l2cjVnRmd5cU5yelFwRjZUZ2ROVkx1anoxSlE?oc=5"
-    },
-    {
       "id": "US-hbm-https://news.google.com/rss/articles/CBMiTkFVX3lxTE42OC1DWl83NFJQSENld1pBOExMSVM1cE5kMXpSN0oyWW5rN0QwaHhsUEd0Smc0cVNCZC1NT2p2S2NBSU9kY29VWVNXcWtodw?oc=5",
       "region": "US",
       "regionLabel": "미국",
@@ -2687,8 +2675,8 @@
       "keywordId": "sk-hynix",
       "keywordLabel": "SK하이닉스",
       "query": "SK하이닉스",
-      "title": "SK하이닉스, 용인·청주 신규 팹 건설에 54조 투자 - thelec.kr",
-      "source": "thelec.kr",
+      "title": "SK하이닉스, 용인·청주 신규 팹 건설에 54조 투자 - 디일렉",
+      "source": "디일렉",
       "publishedAt": "Fri, 07 Aug 2026 08:26:52 GMT",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wVjJYcWNDMlZzcUh3eUd2SzFIdXIxVllqMFhmQVloZmNTdzM0V3NQTG5nN3M3VFZOTnVtYm01QnBZdDdXRGJjLXpUTGZhWnpWS296dDV5dWUyN2o1UnVBSzIwRVJ3QQ?oc=5"
     },
@@ -2711,22 +2699,22 @@
       "keywordId": "qualcomm",
       "keywordLabel": "Qualcomm",
       "query": "Qualcomm",
-      "title": "The Snapdragon 8 Elite Gen 6 Pro may be a dream for Android gamers, as it tries to justify its eye-watering cost - phonearena.com",
-      "source": "phonearena.com",
+      "title": "The Snapdragon 8 Elite Gen 6 Pro may be a dream for Android gamers, as it tries to justify its eye-watering cost - PhoneArena",
+      "source": "PhoneArena",
       "publishedAt": "Fri, 07 Aug 2026 07:11:34 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVld3cDZ1WDhweDcwRVZ4WF93WWVNdk1CMUxCajItVW01dU5FWFN2TU42ZWY2c2dNSGp1cm1GWnBmQzVOSl9yMXB4aUZfeUdUQTJ5Q3BkWl9lQ3lsYzUxU0VGRGRvRlhsc1FBc0gyZmFZYlJvREtWZHhLaHFnY2JDN2xuU3lwUllZM0tmQko1Rm8zT21nUnlVdU1oSlJVRkJuam5hTEFhVEZUZXc?oc=5"
     },
     {
-      "id": "KR-ai-chip-https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aWnozNFN1ODBONmJEYUpwYUMydmhCNlRMbUFyeUpJY2JGQ0tqRExyaVRoX25fWFBhelVhLUlVOWdsQWUwZlp3cENvLVQ4cnloSHE1OVNBUlQ4VzVrNHhyZjVDVUM?oc=5",
+      "id": "KR-sk-hynix-https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ub0FjVnNONlVINjhyYTNsMlVQT1p2dkNveDBpVGJDd2V2WlVhUVdDZGZERzhLS3Z4SEFOcG1mOGtSTUJQR2p6NUN4aERDXzE3R0tNczRRX1dFUQ?oc=5",
       "region": "KR",
       "regionLabel": "한국",
-      "keywordId": "ai-chip",
-      "keywordLabel": "AI칩",
-      "query": "AI칩",
-      "title": "메모리 치킨게임 엄습, 장기계약은 매직카드일까 [AI칩 인사이드] - MTN 머니투데이방송",
-      "source": "MTN 머니투데이방송",
+      "keywordId": "sk-hynix",
+      "keywordLabel": "SK하이닉스",
+      "query": "SK하이닉스",
+      "title": "한달여만에 주가 반토막 난 SK하이닉스…향후 관찰 포인트는 - 한국경제",
+      "source": "한국경제",
       "publishedAt": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aWnozNFN1ODBONmJEYUpwYUMydmhCNlRMbUFyeUpJY2JGQ0tqRExyaVRoX25fWFBhelVhLUlVOWdsQWUwZlp3cENvLVQ4cnloSHE1OVNBUlQ4VzVrNHhyZjVDVUM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ub0FjVnNONlVINjhyYTNsMlVQT1p2dkNveDBpVGJDd2V2WlVhUVdDZGZERzhLS3Z4SEFOcG1mOGtSTUJQR2p6NUN4aERDXzE3R0tNczRRX1dFUQ?oc=5"
     },
     {
       "id": "KR-foundry-https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1Q20zTjAxMU9zalMxeFhPWnlKZ3JRY2EwYmxWZkpHeXd5d2ZpMXhPVExsMnFDaHJLX2Fpc0dNbGw4WHJhWVRvZTllaw?oc=5",
@@ -2801,18 +2789,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS1FXWHdxczVPbVVzUzJCU3o1UVhHOEl6MGxHaGs5T3R2ZlFqRlBjTkJrZmhFelhpYl85U0RyTWViQ0tXUTE2QVVOUDVBcnNEUEFOYmF3N25fME5mNnR0T3NRcFYyek9JUGFmU3ptSm51elJ6M0lhQnB5akZIamdzUC1NYktIczBjWlFndS1FWDVWQQ?oc=5"
     },
     {
-      "id": "KR-sk-hynix-https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rTVZZQnczdC1sSWN5MmI3bTFKZVUxSjZsVERReV9fSkcwakJpNHNzWDhCV3lydVZsWVVnbWVnM1UwSGpkVUJXdy1oQTRjZHc2UkFBdm12MGh2QkHSAWBBVV95cUxQclAwdi1GS01Vd21vcGNPZ0c1SDUxSXhGdjFoODRoem5lLWwwdnRQQVBtaVJlZU4zUl80YUMtUkJPbGhWVVJGMG1wWm51RnVIdjFiR3EyUUxWbVV0UkxpMy0?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "sk-hynix",
-      "keywordLabel": "SK하이닉스",
-      "query": "SK하이닉스",
-      "title": "SK하이닉스 통합노조 신설 추진…구성원간 성과급 불만 확산 - 연합뉴스",
-      "source": "연합뉴스",
-      "publishedAt": "Fri, 07 Aug 2026 04:32:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rTVZZQnczdC1sSWN5MmI3bTFKZVUxSjZsVERReV9fSkcwakJpNHNzWDhCV3lydVZsWVVnbWVnM1UwSGpkVUJXdy1oQTRjZHc2UkFBdm12MGh2QkHSAWBBVV95cUxQclAwdi1GS01Vd21vcGNPZ0c1SDUxSXhGdjFoODRoem5lLWwwdnRQQVBtaVJlZU4zUl80YUMtUkJPbGhWVVJGMG1wWm51RnVIdjFiR3EyUUxWbVV0UkxpMy0?oc=5"
-    },
-    {
       "id": "KR-ai-https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVdVI0a1NVS2wxUUtTOG90bWx2bU10anhNdUlRTEVncUd3YUFfOVdDNlRLVU15Z2pEeXMxallMOGR5TVY2cjlGWHc4bktEUW1IYnk4RnpxeDhXaWRYU0JmWXlEbGVxMFE?oc=5",
       "region": "KR",
       "regionLabel": "한국",
@@ -2885,14 +2861,14 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tLWp4RUtPM1dLYlF4QjMyMXRaUTN3eVYxYlVlb3pCYmExa1VJQ0pCYnVFeDJudmlxazlfakp5QWdicDM0RGlTSkpMbVp2UnpTWWxVWkJlUWdfTWvSAWBBVV95cUxPaVhNbVBLQXlONDJpY1J4R21oSEs0WEVINGZZSFVqUUJETVVLUFVhRG40MG82c0xJS1ctb1NtX0VYb2RaclU0b2xvQldMSUpsYUdiRVQ1ZnlmMTc3QXZ6VTY?oc=5"
     },
     {
-      "id": "US-amd-https://news.google.com/rss/articles/CBMirgFBVV95cUxPWUF0eTJUTHJzZWdiSWNVbjA5VGhldm83MG9sZnd2d2ZGRzRISEFDVFUtU3JDSGtTaWJpS0xvM0lhT2FKUnJEUmZIeTdkcElDN0UyMXN6bW5KRlNadEpEVTg5OFloSFBYM0IxclhVNG04eS1GZURWaVRFR21rYmhWWFp0U1JfcnFqTWZ6aEJrcE1tSXpobjNLQ2ZmdG9jd0lxc0JzZnZUN3Q0Wjc0Y1E?oc=5",
+      "id": "US-ai-chip-https://news.google.com/rss/articles/CBMirgFBVV95cUxPWUF0eTJUTHJzZWdiSWNVbjA5VGhldm83MG9sZnd2d2ZGRzRISEFDVFUtU3JDSGtTaWJpS0xvM0lhT2FKUnJEUmZIeTdkcElDN0UyMXN6bW5KRlNadEpEVTg5OFloSFBYM0IxclhVNG04eS1GZURWaVRFR21rYmhWWFp0U1JfcnFqTWZ6aEJrcE1tSXpobjNLQ2ZmdG9jd0lxc0JzZnZUN3Q0Wjc0Y1E?oc=5",
       "region": "US",
       "regionLabel": "미국",
-      "keywordId": "amd",
-      "keywordLabel": "AMD",
-      "query": "AMD",
-      "title": "AMD deepens AI inference bet with Taalas deal as chip race heats up - reuters.com",
-      "source": "reuters.com",
+      "keywordId": "ai-chip",
+      "keywordLabel": "AI Chip",
+      "query": "AI chip",
+      "title": "AMD deepens AI inference bet with Taalas deal as chip race heats up - Reuters",
+      "source": "Reuters",
       "publishedAt": "Thu, 06 Aug 2026 21:29:08 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWUF0eTJUTHJzZWdiSWNVbjA5VGhldm83MG9sZnd2d2ZGRzRISEFDVFUtU3JDSGtTaWJpS0xvM0lhT2FKUnJEUmZIeTdkcElDN0UyMXN6bW5KRlNadEpEVTg5OFloSFBYM0IxclhVNG04eS1GZURWaVRFR21rYmhWWFp0U1JfcnFqTWZ6aEJrcE1tSXpobjNLQ2ZmdG9jd0lxc0JzZnZUN3Q0Wjc0Y1E?oc=5"
     },
@@ -2933,12 +2909,12 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPci1vdTNrNGxtRnR1ZXY1QWZ3TUhWbmJGeXFKc2FxMnJZRElJalZleEJlUnI4cGFRZ0FFZS0tWW1XRG5sWEZobVJZd2gtNWJlWDVsU2pjbG9YY18tUzE3RVFaN3NqbmxnWTNYZmRJdEJTZWczM3lwbFBLMklaeG5ZMmQwcjZrQVRSZENN?oc=5"
     },
     {
-      "id": "US-ai-chip-https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFZXOEd3NjlDdkg4QWd5V2ttbUNKSHRGWWN5SGVkZ0RfdDNpbGFGV0FWSmI2VVU1S2NKczFtbjF4WXZMa0lxVTB6VEItS2s4dk51cll6SkxJX3hOQUstMEVMQzZEME1sR3hwSE9FT1pJSy1ybDBtbEtXWE9FZEJVOVNyVlRZbnVHOURCaTBjX1RkSzNBLTRoT3Z0MjJDR2Y1a3VyONIBqgFBVV95cUxOWEliVmlNaTFTb2dyN3FVMndGZE85LXRDZWg1Tl9lSExCYXJRVGthMWNTREpMdlF2aE5SNXQ1a19xNzdkcmY5VndEcUw5T2pNalJLb3ZBeHg1RXNwRWc1Y1VsQjVMa2VHRHhvV2pISXdQUzBKellzYm9KUUlVSDNnYnpFeUNPMkJUY1lzcC03VTZWWm5zTmV5aGQwOC03ME5yVENHZGhMLVJvQQ?oc=5",
+      "id": "US-amd-https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFZXOEd3NjlDdkg4QWd5V2ttbUNKSHRGWWN5SGVkZ0RfdDNpbGFGV0FWSmI2VVU1S2NKczFtbjF4WXZMa0lxVTB6VEItS2s4dk51cll6SkxJX3hOQUstMEVMQzZEME1sR3hwSE9FT1pJSy1ybDBtbEtXWE9FZEJVOVNyVlRZbnVHOURCaTBjX1RkSzNBLTRoT3Z0MjJDR2Y1a3VyONIBqgFBVV95cUxOWEliVmlNaTFTb2dyN3FVMndGZE85LXRDZWg1Tl9lSExCYXJRVGthMWNTREpMdlF2aE5SNXQ1a19xNzdkcmY5VndEcUw5T2pNalJLb3ZBeHg1RXNwRWc1Y1VsQjVMa2VHRHhvV2pISXdQUzBKellzYm9KUUlVSDNnYnpFeUNPMkJUY1lzcC03VTZWWm5zTmV5aGQwOC03ME5yVENHZGhMLVJvQQ?oc=5",
       "region": "US",
       "regionLabel": "미국",
-      "keywordId": "ai-chip",
-      "keywordLabel": "AI Chip",
-      "query": "AI chip",
+      "keywordId": "amd",
+      "keywordLabel": "AMD",
+      "query": "AMD",
       "title": "AMD buys chip startup that hardwires AI models into its silicon - CNBC",
       "source": "CNBC",
       "publishedAt": "Thu, 06 Aug 2026 20:05:37 GMT",
@@ -2957,18 +2933,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdlJIbEZFdG5GN29QSTRoaGZhYndyaW9yQWxmNWFkY1VBNS1TOWFEaE1WXzhhWUItbUtCR2ZWd3Q2Tl9PVl9tTU8xeGt4TUhMTTUyU05PWHV6VVdaY1FFcnFtUnQ5V1pRTXRSVkNGWXdCRWxhQlItSGNmX28xeVVyQWV3ZnpET0lYWENtLWFjdENsZmhUbEUyRFBVVkE2NE00b1ptMTduQ3NTODhMRW9lcEY0T0kwcGxhTHBEejlDRVZHZVRuRGl0NXFVS3E3VTJWRVU4bHVVR1BPcDEyb1Y4NTBCbjZVSjQ?oc=5"
     },
     {
-      "id": "US-semiconductor-https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGNCd0NrWExjSW1zTjBSY1UzN2dlUEZXN2F4LXVUVWw1akF4bkpqN2FJMkl3M25tRFZ4aXJKUGwyelVSMkUtczhXTFRRRlQwZlNfR1FwQ1BFUlUta0RoaDU1MXJzLWF2MVdlMzVzUmgzVGt3UzIyZlRpMnFuVUhJV3Q1WHRyOElERW1ET1ppeVZNQjJPV21Ld2hRZXd6MVQ0?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "semiconductor",
-      "keywordLabel": "Semiconductor",
-      "query": "semiconductor",
-      "title": "Creating Pathways to Semiconductor Careers: Intel Launches SEPP - Intel Newsroom",
-      "source": "Intel Newsroom",
-      "publishedAt": "Thu, 06 Aug 2026 19:41:25 GMT",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGNCd0NrWExjSW1zTjBSY1UzN2dlUEZXN2F4LXVUVWw1akF4bkpqN2FJMkl3M25tRFZ4aXJKUGwyelVSMkUtczhXTFRRRlQwZlNfR1FwQ1BFUlUta0RoaDU1MXJzLWF2MVdlMzVzUmgzVGt3UzIyZlRpMnFuVUhJV3Q1WHRyOElERW1ET1ppeVZNQjJPV21Ld2hRZXd6MVQ0?oc=5"
-    },
-    {
       "id": "US-hbm-https://news.google.com/rss/articles/CBMigAFBVV95cUxNNjJnN1d6SWlJWUZuRmVHZWxkdFgtMlFXZ1NaY1pydUljS0k2Y1BxSG90S0oxa01MOFZfRTMyVmd0Xy1fMkl5ZjlWRjlGTUVCNGlQbmo4UXptbHFheTVLWnpnZVVYQm92NnJ5ekVtdi1kYVlUamJ0R3B4bV91S01vSQ?oc=5",
       "region": "US",
       "regionLabel": "미국",
@@ -2981,16 +2945,16 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNjJnN1d6SWlJWUZuRmVHZWxkdFgtMlFXZ1NaY1pydUljS0k2Y1BxSG90S0oxa01MOFZfRTMyVmd0Xy1fMkl5ZjlWRjlGTUVCNGlQbmo4UXptbHFheTVLWnpnZVVYQm92NnJ5ekVtdi1kYVlUamJ0R3B4bV91S01vSQ?oc=5"
     },
     {
-      "id": "US-micron-https://news.google.com/rss/articles/CBMipwFBVV95cUxQYkw1U1BPODZVcjFublhWZE9sOTRjQzdiVFhkY3ROaUhNSkhOM3RoYzlaN2FsTWt2ZmxxeU5MWU5Cb2tRODhBTlFqNG9PSlJQRkowN0M4Z3BFUFFJVGJ3N283NDRTQjYtcXF1eHhsaTVvVDlXQlRwaWhUd3BqOGtWSWpmOUstR2MwZVJmamVKakJrd2JGQkcwVUdJR0FUbjloYmlfN19LOA?oc=5",
+      "id": "US-hbm-https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ1FwQm9nMGEteWFYZnd5RmtUem1MLWRUS19CdXRQekVoYWFRU3NBS0JBY1VvbHZOa2JsTzI1bUduVzkzNEpUS3AyZW5KTExnbzFLYVlQTTlJUkVyMml5Q2c5WnY2cVFhUmNDbUtRdnRSdnNKSWtPaUg2LVN1eWVnR0lLZzNXX3A2bE10Qnc0bWI5OTJNbTNDLUcwMTNlVmRr?oc=5",
       "region": "US",
       "regionLabel": "미국",
-      "keywordId": "micron",
-      "keywordLabel": "Micron",
-      "query": "Micron",
-      "title": "Micron & 2 Profitable Stocks Smart Investors Are Buying in August - Zacks Investment Research",
-      "source": "Zacks Investment Research",
-      "publishedAt": "Thu, 06 Aug 2026 18:31:53 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYkw1U1BPODZVcjFublhWZE9sOTRjQzdiVFhkY3ROaUhNSkhOM3RoYzlaN2FsTWt2ZmxxeU5MWU5Cb2tRODhBTlFqNG9PSlJQRkowN0M4Z3BFUFFJVGJ3N283NDRTQjYtcXF1eHhsaTVvVDlXQlRwaWhUd3BqOGtWSWpmOUstR2MwZVJmamVKakJrd2JGQkcwVUdJR0FUbjloYmlfN19LOA?oc=5"
+      "keywordId": "hbm",
+      "keywordLabel": "HBM",
+      "query": "HBM",
+      "title": "NVDA Reportedly Weighs Lower-Memory Rubin Ultra GPU Designs To Ease HBM Bottleneck — Why Retail Is Watching Micron - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "publishedAt": "Thu, 06 Aug 2026 18:21:31 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ1FwQm9nMGEteWFYZnd5RmtUem1MLWRUS19CdXRQekVoYWFRU3NBS0JBY1VvbHZOa2JsTzI1bUduVzkzNEpUS3AyZW5KTExnbzFLYVlQTTlJUkVyMml5Q2c5WnY2cVFhUmNDbUtRdnRSdnNKSWtPaUg2LVN1eWVnR0lLZzNXX3A2bE10Qnc0bWI5OTJNbTNDLUcwMTNlVmRr?oc=5"
     },
     {
       "id": "US-qualcomm-https://news.google.com/rss/articles/CBMivAFBVV95cUxPS1NCUTZYZHZ5TUhUX2VzYjYxczhZdmtoVmNpaS0wWDQ1YnZBMnpkSzZsalp0emFvQXVYZHQxLU41X3Blc1psakc3bGJMWkhhQ3JBYi1xNjZaZ3NucFlBV2JYNmZxcnRzS1FZeEQyTGxMLWhkd1V3R3lFcW1DajI3V2UzVzFZei1uZTJUQWRVakdOZlIxVjNQRExwRmdjVTBSczh4S2dZVExRYk10VGgwdzJqWUhvQlo5bFhLRw?oc=5",
@@ -3017,16 +2981,16 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUG02N0QxTXBZVUg2aUpTV2NLd3JYVkhaWXd6VElpWGpUR3Z2TVF4UEI1TEpEWVdYQUxzZ05LTFJZXzBDbnRpa1VHNG9YRzBRcXRYUTNKNnlld2hCSU1BVk5kQ1VRSlo1dERlZnVuQ1loMkZ0QjRIdmtTUGxLbWpKdGFWekpFckJDeFJQWGsyNElfYnlYN0VzZVVlRi1RWWJ4Zlp3bFZVcER6QQ?oc=5"
     },
     {
-      "id": "US-tsmc-https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0xiclJ2UmNfOTlDZVQ5X0ZCLWNpTEVkUGFValdMTThiaG90ZlpYNm0xb3JLZUwyZ2RqZzFqaW5lRmVNNGUxU01lT0g5c0Voc3ZmbGM5Q2JQMmdTM0VpeGFsaW9yeWMyaTlPUEM3OUdfVjRwdnFaMkhaVUJmUGJOUFZHVml3NWhQaGI1YmJ2STZBRVVGRjVLX1pwVUMzcEk?oc=5",
+      "id": "US-micron-https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQll3T3g3bmJvZVk5eEF0T0JVWEd3OUtyWWYwWlBidVZ2b2RQUm1FNldYN2g1RGcwU0VkWTgyTkxNaEtnb2M2SFk2WV8wNXRZT1dmMmRmWEJyeEJBM0huemowMVZmOU8tN3A4VkJLeHBNWDE0aVVsdnNORlItaF9hUmxCeDFaYWVyQXUtNWQwM1kwTUdjZ0RXVjdNbURITWNGSWszY2FMSDdjRmZvMFk2YXpKcmZGX0s0Zk1N?oc=5",
       "region": "US",
       "regionLabel": "미국",
-      "keywordId": "tsmc",
-      "keywordLabel": "TSMC",
-      "query": "TSMC",
-      "title": "TSMC’s $64 Billion Investment Signals Mega-Growth: Why Pivoting Away From The Titan Makes Little Sense - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "publishedAt": "Thu, 06 Aug 2026 15:18:56 GMT",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0xiclJ2UmNfOTlDZVQ5X0ZCLWNpTEVkUGFValdMTThiaG90ZlpYNm0xb3JLZUwyZ2RqZzFqaW5lRmVNNGUxU01lT0g5c0Voc3ZmbGM5Q2JQMmdTM0VpeGFsaW9yeWMyaTlPUEM3OUdfVjRwdnFaMkhaVUJmUGJOUFZHVml3NWhQaGI1YmJ2STZBRVVGRjVLX1pwVUMzcEk?oc=5"
+      "keywordId": "micron",
+      "keywordLabel": "Micron",
+      "query": "Micron",
+      "title": "Micron Stock Rebounded With The Memory Trade, Not Ahead Of It - Trefis",
+      "source": "Trefis",
+      "publishedAt": "Thu, 06 Aug 2026 16:26:55 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQll3T3g3bmJvZVk5eEF0T0JVWEd3OUtyWWYwWlBidVZ2b2RQUm1FNldYN2g1RGcwU0VkWTgyTkxNaEtnb2M2SFk2WV8wNXRZT1dmMmRmWEJyeEJBM0huemowMVZmOU8tN3A4VkJLeHBNWDE0aVVsdnNORlItaF9hUmxCeDFaYWVyQXUtNWQwM1kwTUdjZ0RXVjdNbURITWNGSWszY2FMSDdjRmZvMFk2YXpKcmZGX0s0Zk1N?oc=5"
     },
     {
       "id": "US-semiconductor-https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sNk95MnlySmFUNGR6dzAtRU8xUUNKclJqVVdfcW52ZGdJM1RwczdLcURrdW5hc05xdF9MZVRMaEstcmZMS3FrMFk3UmdQTnpfd1E3Ug?oc=5",
@@ -3059,8 +3023,8 @@
       "keywordId": "qualcomm",
       "keywordLabel": "Qualcomm",
       "query": "Qualcomm",
-      "title": "Qualcomm Proposes Synx For The Linux Kernel With \"Significant\" Power + Performance Benefits - phoronix.com",
-      "source": "phoronix.com",
+      "title": "Qualcomm Proposes Synx For The Linux Kernel With \"Significant\" Power + Performance Benefits - Phoronix",
+      "source": "Phoronix",
       "publishedAt": "Thu, 06 Aug 2026 10:05:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5wdnNLX2xjRmxxRm9QV2Y2R3BkODZNWnhTWGc2bWs1WXQ3TEFwQWFhMDhNY3JXZ2dENWFnUENJMmZRc05QbDk0MEVR?oc=5"
     },
@@ -3113,14 +3077,26 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa2hzWnZyd2FsTm5QR0cyVEFhbFB3NW9RZUk0bWdlVjdJQTVIa18xVDdPWTg3ZEdycngtTEtQZDNGN182RkhZNkpFZGdSTXU4Q2VpMlN5TWxUdmg3Zml3ZWNLeGlYWDN6b3J5UGNPLUNmaXRLSW1KY2FVdjB1R1ZNVFFnam9tek3SAYwBQVVfeXFMUGhUTENrNm11UHctZHdSdHgwaG1vVzhleDdZZ0E0Zk9Ra2piUFRlazVPRWxkdU1adVZEdDFPUFFQWEZyNHQ1V3B3THppdEhadTk2N2M0VjBsakR5UWU1UUNIZ0tNYWx6Ymdndk00VUxuVmxKYVVCMWttSlg2SFpyTjlOZHBhV1gwZk8wYXQ?oc=5"
     },
     {
+      "id": "KR-ai-chip-https://news.google.com/rss/articles/CBMigwFBVV95cUxONzhid19GVzhWTTE1bENHQUhma3JtRUdSRlJweVBNSFJDVjFtUmQ0bkxzTDhRMDU5dlg0TVc1Q1BRSkJ2V1Vib3hpYk1wcUhLZ05ELWxhYVpEUjdZN0w5WUMxUFJGcS0tbE5VUVZFMzdldVJ3aENjcEtZR1puR3VvZV9CTQ?oc=5",
+      "region": "KR",
+      "regionLabel": "한국",
+      "keywordId": "ai-chip",
+      "keywordLabel": "AI칩",
+      "query": "AI칩",
+      "title": "세계 각국 소버린 AI 추진하면서, AI 칩은 여전히 엔비디아에 종속 - 조선일보",
+      "source": "조선일보",
+      "publishedAt": "Thu, 06 Aug 2026 06:19:03 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONzhid19GVzhWTTE1bENHQUhma3JtRUdSRlJweVBNSFJDVjFtUmQ0bkxzTDhRMDU5dlg0TVc1Q1BRSkJ2V1Vib3hpYk1wcUhLZ05ELWxhYVpEUjdZN0w5WUMxUFJGcS0tbE5VUVZFMzdldVJ3aENjcEtZR1puR3VvZV9CTQ?oc=5"
+    },
+    {
       "id": "KR-ai-chip-https://news.google.com/rss/articles/CBMiakFVX3lxTFBXb3paSUZVaUdkbWtkYnpub1A0cC1oTlV3NVRObFFraTBVSHlwb1NrRncwTWtNQm1BMHRFemQ1blgwSExJX3prcmdoMFdxZFdzbHhGRWVMNnJYWEJGUWp2Mm5PUEhvSk1HSlE?oc=5",
       "region": "KR",
       "regionLabel": "한국",
       "keywordId": "ai-chip",
       "keywordLabel": "AI칩",
       "query": "AI칩",
-      "title": "앤트로픽, '클로드' 전용 AI 칩 자체 개발 공식화…실리콘 팀 구축 착수 - AI타임스",
-      "source": "AI타임스",
+      "title": "앤트로픽, '클로드' 전용 AI 칩 자체 개발 공식화…실리콘 팀 구축 착수 - aitimes.com",
+      "source": "aitimes.com",
       "publishedAt": "Thu, 06 Aug 2026 04:26:58 GMT",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXb3paSUZVaUdkbWtkYnpub1A0cC1oTlV3NVRObFFraTBVSHlwb1NrRncwTWtNQm1BMHRFemQ1blgwSExJX3prcmdoMFdxZFdzbHhGRWVMNnJYWEJGUWp2Mm5PUEhvSk1HSlE?oc=5"
     },
@@ -3221,40 +3197,28 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOUUxa0JDMGZEX3FCMXF3RC0zd3BKODlfb3NrQmJsZTBlcjluMDZFM1NmT0dsNUlqY1BZM1RmR0xuWFJydFdwemo0WUNWeVJiMHgtRFU2NHBwNWhBYWZKTkIwRlBGdlJxZFl5dDRjQU8xNFI1WEN0b3hkMnQ3ZlFvMVFoNnBKbENrTlFQQ3RSWjZQNGs1NF9FLWxZY1p2YjZXVEVKckFpWFA0ZDFlbkRITw?oc=5"
     },
     {
-      "id": "US-hbm-https://news.google.com/rss/articles/CBMicEFVX3lxTFBpMEw0SW9oV0d6aWVLVHBSOG5GTG9tUktYQmpyTDNjVnN6QkhWdjFQeGMxT0xHQmJGOGpza0liR1pETkJUNUIyTDNYUHhUTG05NEthRnlZblF1alcxbmttc2xaaVdLTlV3YlJJTkFPVGg?oc=5",
-      "region": "US",
-      "regionLabel": "미국",
-      "keywordId": "hbm",
-      "keywordLabel": "HBM",
-      "query": "HBM",
-      "title": "DRAM Supply to Remain Tight in 2027, Prompting NVIDIA to Lower HBM Configurations for Rubin Ultra, Says TrendForce - TrendForce",
-      "source": "TrendForce",
-      "publishedAt": "Tue, 04 Aug 2026 06:30:13 GMT",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpMEw0SW9oV0d6aWVLVHBSOG5GTG9tUktYQmpyTDNjVnN6QkhWdjFQeGMxT0xHQmJGOGpza0liR1pETkJUNUIyTDNYUHhUTG05NEthRnlZblF1alcxbmttc2xaaVdLTlV3YlJJTkFPVGg?oc=5"
-    },
-    {
       "id": "US-broadcom-https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ29aaHJiZXgxck9tZnJCXzMxdTA4ZlIyb2NhSEtLVUNhQm9Idmh4Vm04SXk0S0xjMEFjTWstYmZDLW9MTm9Zb2NNVUhBQzlYNjMxeUIyV2JtRldialNrY2VtX2VBNU45cDlkelBMajgtUXROWXUzWllWT1cxVnZ5c0NyQldZS25icW9YX25kTGtKVUxpVXlFbkx6OFh6WmNoQ0w4cTNQd3JIQ3JHMy1xOW43OGhadDFwc05kUklGcw?oc=5",
       "region": "US",
       "regionLabel": "미국",
       "keywordId": "broadcom",
       "keywordLabel": "Broadcom",
       "query": "Broadcom",
-      "title": "Broadcom loses court bid to suspend EU antitrust request for US legal papers - reuters.com",
-      "source": "reuters.com",
+      "title": "Broadcom loses court bid to suspend EU antitrust request for US legal papers - Reuters",
+      "source": "Reuters",
       "publishedAt": "Mon, 03 Aug 2026 18:34:26 GMT",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ29aaHJiZXgxck9tZnJCXzMxdTA4ZlIyb2NhSEtLVUNhQm9Idmh4Vm04SXk0S0xjMEFjTWstYmZDLW9MTm9Zb2NNVUhBQzlYNjMxeUIyV2JtRldialNrY2VtX2VBNU45cDlkelBMajgtUXROWXUzWllWT1cxVnZ5c0NyQldZS25icW9YX25kTGtKVUxpVXlFbkx6OFh6WmNoQ0w4cTNQd3JIQ3JHMy1xOW43OGhadDFwc05kUklGcw?oc=5"
     },
     {
-      "id": "KR-foundry-https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TNFp2NmNCUkplOF9kRC1jNmVqYy1TeGNFMzRwamNfMy1oRlJFNkNlaWVITVkyNmZWVTBpSzBpMDZJZm9VVGZ3ZWFtVjE1YVdwVkhSVmM3VGRFd3JkMnFjYzYxUm9NUQ?oc=5",
-      "region": "KR",
-      "regionLabel": "한국",
-      "keywordId": "foundry",
-      "keywordLabel": "파운드리",
-      "query": "파운드리",
-      "title": "삼성 GaN 파운드리 양산 또 해 넘기나...시험생산서 '불량' 확인 - thelec.kr",
-      "source": "thelec.kr",
-      "publishedAt": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TNFp2NmNCUkplOF9kRC1jNmVqYy1TeGNFMzRwamNfMy1oRlJFNkNlaWVITVkyNmZWVTBpSzBpMDZJZm9VVGZ3ZWFtVjE1YVdwVkhSVmM3VGRFd3JkMnFjYzYxUm9NUQ?oc=5"
+      "id": "US-tsmc-https://news.google.com/rss/articles/CBMiswJBVV95cUxQOGFDSzhjdzFpdGVidzJDYXFrSW5jbmlDdDU1aWloakNGTWpRc2Rxbi0wNVFqYnA0WFBtVllodDJUelVjY0hIU1ZBbk9YZDR3a2Q1YVgweHE2TGhCX2thRU5SRFNyNHV4NXhuWVJodTlhQ1M1OTdlc29vSDY1T1NwMzZJQXpKeXVtVEEtcUpjUGNCcWdwYlhMc2UyTFgtUl9jVnFQc1g3WlNGbWFrbDlYY050a0laa3IxT1ktdlhxYWFncEJBamtuR0Q1a21DcktzX1dCeTlVTUxVZ1pabS1vLWxNR3hZVWd2XzdsQ1hINXBTOFg2eW1WZGJoVnNieHI0el8yak0wVk9PYWRhbjFkUXo2cjhreUlBRE90Z2Nmd3B5aWlydk5qT1Ridm02djBBaFBF?oc=5",
+      "region": "US",
+      "regionLabel": "미국",
+      "keywordId": "tsmc",
+      "keywordLabel": "TSMC",
+      "query": "TSMC",
+      "title": "Co-Packaged Optics (CPO) foundry roadmaps — breaking down TSMC, Intel, Samsung, and GlobalFoundries' approach to next-generation scale-up connectivity - Tom's Hardware",
+      "source": "Tom's Hardware",
+      "publishedAt": "Mon, 03 Aug 2026 11:45:50 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQOGFDSzhjdzFpdGVidzJDYXFrSW5jbmlDdDU1aWloakNGTWpRc2Rxbi0wNVFqYnA0WFBtVllodDJUelVjY0hIU1ZBbk9YZDR3a2Q1YVgweHE2TGhCX2thRU5SRFNyNHV4NXhuWVJodTlhQ1M1OTdlc29vSDY1T1NwMzZJQXpKeXVtVEEtcUpjUGNCcWdwYlhMc2UyTFgtUl9jVnFQc1g3WlNGbWFrbDlYY050a0laa3IxT1ktdlhxYWFncEJBamtuR0Q1a21DcktzX1dCeTlVTUxVZ1pabS1vLWxNR3hZVWd2XzdsQ1hINXBTOFg2eW1WZGJoVnNieHI0el8yak0wVk9PYWRhbjFkUXo2cjhreUlBRE90Z2Nmd3B5aWlydk5qT1Ridm02djBBaFBF?oc=5"
     },
     {
       "id": "US-qualcomm-https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMXJwNDVTWlBzamx6OEk3MHh3N2dXWUpvLVdBSEQxcHB0Y0ZNQjRFWkZRZEJiSnFacVZvdTBuNjJmS0JBUnVwcEthcTdKMG5tM0NMMlEtM1RZOXFiTWJKSXNFR0NQTE9Ra1p2Q3YySmpKaW8xejJ0YVhnanBnZWJ1czNUQWdESTlh?oc=5",
@@ -3299,8 +3263,8 @@
       "keywordId": "foundry",
       "keywordLabel": "파운드리",
       "query": "파운드리",
-      "title": "반도체 더 달린다 … 삼전 “내년 메모리 초과수요 확대, 파운드리 흑전도 임박” - 뉴데일리",
-      "source": "뉴데일리",
+      "title": "반도체 더 달린다 … 삼전 “내년 메모리 초과수요 확대, 파운드리 흑전도 임박” - biz.newdaily.co.kr",
+      "source": "biz.newdaily.co.kr",
       "publishedAt": "Thu, 30 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wRzA3ZHlYVlNiVzZCYjdseEs3clhzNmZ3VDlFT2lJdU5fdnFFbURkeTluS3VkS3pFSjlCRGlneWs2V3dpTzZKUVRFTXpjVWJXM2g1UVdxWUp4OGRGYXRRbnJlWm9fTVFXd29MNUZTNEY2SFRjRk5QYjVlTdIBgAFBVV95cUxPUHBEa1NzZktLODBhMXN4Tm9TNGRZRHZuVy1saU1XeHppT2Y2bHBOQW43cXpYQnRXR3JqdWhacUU5cmlRVllDczVocDktcW0ySjh4V2VFVmdLSFhtWGtUNGhiR3NVbzdFaXd4UERONGVtMk5mSVI2UTZldXBRWGRWNQ?oc=5"
     },
@@ -3323,8 +3287,8 @@
       "keywordId": "tsmc",
       "keywordLabel": "TSMC",
       "query": "TSMC",
-      "title": "TSMC Develops AI Chip Packaging Tech to Counter Intel - The Information",
-      "source": "The Information",
+      "title": "TSMC Develops AI Chip Packaging Tech to Counter Intel - theinformation.com",
+      "source": "theinformation.com",
       "publishedAt": "Thu, 30 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb2FZZ19yUVI5RGZacmJXYjlVOUNDOHJhY2J3YWh2aUdzeTFXV0xrMF9vdFNTVy1UQzVYaWJSN3VRak1fbHgyZndsMHpqMkRHRURHQnpMRkgxQWhoNkpoZkltVnY5eXFydEtCcmtSZTQ4TUR1RlRvZ1dkTmlYS2p5OFAzeS1qQkR5MXpFeE5kbTlMMHhC?oc=5"
     },
@@ -3359,8 +3323,8 @@
       "keywordId": "hbm",
       "keywordLabel": "HBM",
       "query": "HBM",
-      "title": "Predecessor Losses, the Lonely Parent Rule, and the Limits of Economic Reality: Analysis of HBM Holdings Co. v. Commissioner - currentfederaltaxdevelopments.com",
-      "source": "currentfederaltaxdevelopments.com",
+      "title": "Predecessor Losses, the Lonely Parent Rule, and the Limits of Economic Reality: Analysis of HBM Holdings Co. v. Commissioner - Current Federal Tax Developments",
+      "source": "Current Federal Tax Developments",
       "publishedAt": "Mon, 27 Jul 2026 20:28:38 GMT",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNQ0hPN1VFSEdBVkIycG1LZHRZUjNOMzdvTzFlRGdzR1V3Qm1iU05rcElFRlNjejR1N1VJODNZek1oeUppbE1aN1ZzSTFWOUppUVpybFNwYVZQbDJZWU01d2xqVldaOXdRclowQkVBMVJpOWs5bWxOUGFzTzZzd3FmemU4ZU1FMHczaWFCal9YdlppYnA0YkZuRU00V3VwQmJpRUJsVkJoaUhSWjJEVWFadUNhV3VOa1dmbHFlNFNiakxZaF9POEZrVUF1Q0RpblN2azZBRnlEbE9uYXJXVlBXLUZ5NXV3TmZLRzRJYVNDalJOMGptcHo3Xy1ET0s2d1lRZDd6UDVYdkszT05j?oc=5"
     },
@@ -3407,8 +3371,8 @@
       "keywordId": "qualcomm",
       "keywordLabel": "Qualcomm",
       "query": "Qualcomm",
-      "title": "Qualcomm tells customers of double-digit price increases, Bloomberg News reports - reuters.com",
-      "source": "reuters.com",
+      "title": "Qualcomm tells customers of double-digit price increases, Bloomberg News reports - Reuters",
+      "source": "Reuters",
       "publishedAt": "Fri, 24 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLWtCdGgwT09VLW5yWnMzYVlaQTI3UEJrY3h5ZEE0Ni12Ulpod296UTRPb3VtQ1BLeW84NmRoSzU2RDJVZDRrdVhOQ3phSUlGS3JrMnFiRXJTZEJvRndCdUM0TVBtWWZSblgwcVI1dGhUNk9mRkstcTR5eXF0ZDFoZElWLWtFdmthLVk5OXEzUW5GQUZHNHBGZ1pvWXl3ZWxiSDZULXRjaXY2ZjFodENSQ1BibjhHR2dSdU1FTl9R?oc=5"
     },
@@ -3431,8 +3395,8 @@
       "keywordId": "broadcom",
       "keywordLabel": "Broadcom",
       "query": "Broadcom",
-      "title": "Markets News, June 4, 2026: Dow Soars 875 Points to Record Close; S&P 500 Overcomes Broadcom-Led Tech Pullback; Oil Retreats - Investopedia",
-      "source": "Investopedia",
+      "title": "Markets News, June 4, 2026: Dow Soars 875 Points to Record Close; S&P 500 Overcomes Broadcom-Led Tech Pullback; Oil Retreats - investopedia.com",
+      "source": "investopedia.com",
       "publishedAt": "Thu, 04 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbm9oam5MMGUxa2ZvWVUyemd6NHF0a3YxMUdQaXpFTUcySV9LRW84VlRqSEpLOXFmYU1iREZOazU3U21NQmR1MVczakJmN3dwc1JCVUR2RmJzNkVKLWE3dExoRVpXbER6YlVtQV8wY0h3VjMxTmprd1VEU3E3VU9jWlFJNTBWSmg1XzNHaHZRQS0?oc=5"
     }
